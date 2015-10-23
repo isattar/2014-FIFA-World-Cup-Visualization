@@ -1,0 +1,7488 @@
+Date,Ranking,NationalTeam
+Sep-93,1,Brazil
+Sep-93,2,Italy
+Sep-93,5,England
+Sep-93,6,Germany
+Sep-93,7,France
+Sep-93,8,Russia
+Sep-93,10,Switzerland
+Sep-93,12,Argentina
+Sep-93,13,Netherlands
+Sep-93,14,Spain
+Sep-93,15,Uruguay
+Sep-93,16,Mexico
+Sep-93,18,Nigeria
+Sep-93,19,Colombia
+Sep-93,21,Portugal
+Sep-93,23,Cameroon
+Sep-93,24,Belgium
+Sep-93,26,United States
+Sep-93,30,Algeria
+Sep-93,31,Ivory Coast
+Sep-93,35,Greece
+Sep-93,36,South Korea
+Sep-93,38,Costa Rica
+Sep-93,39,Honduras
+Sep-93,41,Ecuador
+Sep-93,42,Ghana
+Sep-93,43,Japan
+Sep-93,52,Chile
+Sep-93,58,Iran
+Sep-93,62,Bosnia-Herzegovina
+Sep-93,65,Australia
+Sep-93,116,Croatia
+Oct-93,1,Brazil
+Oct-93,3,Italy
+Oct-93,4,Germany
+Oct-93,6,Netherlands
+Oct-93,7,Spain
+Oct-93,9,Argentina
+Oct-93,10,England
+Oct-93,11,Russia
+Oct-93,13,Switzerland
+Oct-93,14,France
+Oct-93,16,Nigeria
+Oct-93,17,Uruguay
+Oct-93,18,Mexico
+Oct-93,19,Colombia
+Oct-93,20,Portugal
+Oct-93,22,Cameroon
+Oct-93,24,Belgium
+Oct-93,26,United States
+Oct-93,31,Algeria
+Oct-93,33,Ivory Coast
+Oct-93,36,Greece
+Oct-93,37,South Korea
+Oct-93,38,Costa Rica
+Oct-93,39,Honduras
+Oct-93,40,Ghana
+Oct-93,41,Ecuador
+Oct-93,44,Japan
+Oct-93,52,Chile
+Oct-93,59,Iran
+Oct-93,61,Australia
+Oct-93,65,Bosnia-Herzegovina
+Oct-93,118,Croatia
+Nov-93,1,Brazil
+Nov-93,3,Italy
+Nov-93,4,Germany
+Nov-93,6,Netherlands
+Nov-93,7,Spain
+Nov-93,9,Argentina
+Nov-93,10,England
+Nov-93,11,Russia
+Nov-93,13,Switzerland
+Nov-93,14,France
+Nov-93,16,Nigeria
+Nov-93,17,Uruguay
+Nov-93,18,Mexico
+Nov-93,19,Colombia
+Nov-93,20,Portugal
+Nov-93,22,Cameroon
+Nov-93,24,Belgium
+Nov-93,26,United States
+Nov-93,31,Algeria
+Nov-93,33,Ivory Coast
+Nov-93,36,Greece
+Nov-93,37,South Korea
+Nov-93,38,Costa Rica
+Nov-93,39,Honduras
+Nov-93,40,Ghana
+Nov-93,41,Ecuador
+Nov-93,44,Japan
+Nov-93,52,Chile
+Nov-93,59,Iran
+Nov-93,61,Australia
+Nov-93,65,Bosnia-Herzegovina
+Nov-93,118,Croatia
+Dec-93,1,Germany
+Dec-93,2,Italy
+Dec-93,3,Brazil
+Dec-93,5,Spain
+Dec-93,7,Netherlands
+Dec-93,8,Argentina
+Dec-93,11,England
+Dec-93,12,Switzerland
+Dec-93,14,Russia
+Dec-93,15,France
+Dec-93,16,Mexico
+Dec-93,17,Uruguay
+Dec-93,18,Nigeria
+Dec-93,20,Portugal
+Dec-93,21,Colombia
+Dec-93,22,United States
+Dec-93,23,Cameroon
+Dec-93,25,Belgium
+Dec-93,33,Ivory Coast
+Dec-93,34,Greece
+Dec-93,35,Algeria
+Dec-93,37,Ghana
+Dec-93,40,Honduras
+Dec-93,41,South Korea
+Dec-93,42,Costa Rica
+Dec-93,43,Japan
+Dec-93,48,Ecuador
+Dec-93,49,Australia
+Dec-93,55,Chile
+Dec-93,59,Iran
+Dec-93,68,Bosnia-Herzegovina
+Dec-93,122,Croatia
+Feb-94,1,Germany
+Feb-94,2,Brazil
+Feb-94,3,Netherlands
+Feb-94,6,Spain
+Feb-94,7,Italy
+Feb-94,8,Switzerland
+Feb-94,9,Argentina
+Feb-94,12,England
+Feb-94,13,Russia
+Feb-94,14,France
+Feb-94,15,Nigeria
+Feb-94,16,Uruguay
+Feb-94,17,Mexico
+Feb-94,19,Portugal
+Feb-94,20,Colombia
+Feb-94,21,United States
+Feb-94,26,Belgium
+Feb-94,29,Cameroon
+Feb-94,31,Ivory Coast
+Feb-94,32,Greece
+Feb-94,35,Ghana
+Feb-94,37,Algeria
+Feb-94,39,Costa Rica
+Feb-94,40,Honduras
+Feb-94,42,South Korea
+Feb-94,43,Japan
+Feb-94,47,Australia
+Feb-94,48,Ecuador
+Feb-94,54,Chile
+Feb-94,57,Iran
+Feb-94,70,Bosnia-Herzegovina
+Feb-94,122,Croatia
+Mar-94,1,Germany
+Mar-94,2,Brazil
+Mar-94,5,Switzerland
+Mar-94,6,Spain
+Mar-94,8,Argentina
+Mar-94,9,Netherlands
+Mar-94,11,Italy
+Mar-94,12,England
+Mar-94,14,Mexico
+Mar-94,15,France
+Mar-94,16,Russia
+Mar-94,17,Uruguay
+Mar-94,18,Nigeria
+Mar-94,19,Portugal
+Mar-94,20,Colombia
+Mar-94,21,United States
+Mar-94,26,Cameroon
+Mar-94,28,Ivory Coast
+Mar-94,31,Ghana
+Mar-94,33,Belgium
+Mar-94,34,Greece
+Mar-94,37,Algeria
+Mar-94,39,Japan
+Mar-94,40,South Korea
+Mar-94,45,Australia
+Mar-94,46,Ecuador
+Mar-94,47,Honduras
+Mar-94,48,Costa Rica
+Mar-94,55,Chile
+Mar-94,59,Iran
+Mar-94,74,Bosnia-Herzegovina
+Mar-94,125,Croatia
+Apr-94,1,Brazil
+Apr-94,2,Germany
+Apr-94,4,Switzerland
+Apr-94,5,Nigeria
+Apr-94,7,Spain
+Apr-94,8,Netherlands
+Apr-94,10,Argentina
+Apr-94,12,Russia
+Apr-94,13,Italy
+Apr-94,14,Mexico
+Apr-94,15,France
+Apr-94,16,England
+Apr-94,18,Uruguay
+Apr-94,20,Colombia
+Apr-94,21,Ivory Coast
+Apr-94,22,Portugal
+Apr-94,23,United States
+Apr-94,27,Cameroon
+Apr-94,29,Ghana
+Apr-94,33,Belgium
+Apr-94,37,Greece
+Apr-94,38,Algeria
+Apr-94,40,South Korea
+Apr-94,42,Japan
+Apr-94,44,Australia
+Apr-94,45,Ecuador
+Apr-94,46,Chile
+Apr-94,49,Costa Rica
+Apr-94,51,Honduras
+Apr-94,59,Iran
+Apr-94,74,Bosnia-Herzegovina
+Apr-94,104,Croatia
+May-94,1,Brazil
+May-94,2,Germany
+May-94,6,Argentina
+May-94,7,Nigeria
+May-94,8,Switzerland
+May-94,9,Spain
+May-94,11,Netherlands
+May-94,13,Mexico
+May-94,14,Uruguay
+May-94,15,England
+May-94,16,Italy
+May-94,17,France
+May-94,18,Colombia
+May-94,20,Russia
+May-94,21,Ivory Coast
+May-94,22,Portugal
+May-94,23,United States
+May-94,24,Cameroon
+May-94,28,Ghana
+May-94,32,Greece
+May-94,34,Belgium
+May-94,37,South Korea
+May-94,40,Chile
+May-94,44,Australia
+May-94,46,Algeria
+May-94,47,Ecuador
+May-94,50,Costa Rica
+May-94,51,Honduras
+May-94,54,Japan
+May-94,57,Iran
+May-94,75,Bosnia-Herzegovina
+May-94,102,Croatia
+Jun-94,1,Germany
+Jun-94,2,Netherlands
+Jun-94,3,Brazil
+Jun-94,4,Italy
+Jun-94,5,Spain
+Jun-94,8,Argentina
+Jun-94,11,Nigeria
+Jun-94,12,Switzerland
+Jun-94,13,France
+Jun-94,15,England
+Jun-94,16,Mexico
+Jun-94,17,Colombia
+Jun-94,18,Uruguay
+Jun-94,19,Russia
+Jun-94,21,Ivory Coast
+Jun-94,22,Portugal
+Jun-94,23,United States
+Jun-94,24,Cameroon
+Jun-94,26,Ghana
+Jun-94,27,Belgium
+Jun-94,31,Greece
+Jun-94,37,South Korea
+Jun-94,39,Ecuador
+Jun-94,40,Chile
+Jun-94,47,Australia
+Jun-94,48,Algeria
+Jun-94,50,Honduras
+Jun-94,51,Costa Rica
+Jun-94,52,Japan
+Jun-94,58,Iran
+Jun-94,78,Bosnia-Herzegovina
+Jun-94,91,Croatia
+Jul-94,1,Brazil
+Jul-94,2,Italy
+Jul-94,4,Germany
+Jul-94,5,Netherlands
+Jul-94,6,Spain
+Jul-94,9,Argentina
+Jul-94,10,Nigeria
+Jul-94,11,Switzerland
+Jul-94,15,Mexico
+Jul-94,16,France
+Jul-94,17,Colombia
+Jul-94,18,England
+Jul-94,19,Russia
+Jul-94,20,Belgium
+Jul-94,22,United States
+Jul-94,23,Uruguay
+Jul-94,24,Ivory Coast
+Jul-94,25,Portugal
+Jul-94,27,Cameroon
+Jul-94,28,Ghana
+Jul-94,34,Greece
+Jul-94,36,South Korea
+Jul-94,38,Japan
+Jul-94,40,Chile
+Jul-94,46,Ecuador
+Jul-94,47,Australia
+Jul-94,48,Algeria
+Jul-94,51,Honduras
+Jul-94,54,Costa Rica
+Jul-94,63,Iran
+Jul-94,78,Bosnia-Herzegovina
+Jul-94,90,Croatia
+Sep-94,1,Brazil
+Sep-94,2,Italy
+Sep-94,4,Germany
+Sep-94,5,Netherlands
+Sep-94,6,Spain
+Sep-94,9,Argentina
+Sep-94,10,Nigeria
+Sep-94,11,Switzerland
+Sep-94,15,Colombia
+Sep-94,16,Mexico
+Sep-94,17,Russia
+Sep-94,18,England
+Sep-94,19,Belgium
+Sep-94,20,France
+Sep-94,22,United States
+Sep-94,23,Ivory Coast
+Sep-94,24,Portugal
+Sep-94,26,Ghana
+Sep-94,28,Cameroon
+Sep-94,32,Greece
+Sep-94,36,Uruguay
+Sep-94,38,South Korea
+Sep-94,41,Japan
+Sep-94,43,Chile
+Sep-94,50,Algeria
+Sep-94,51,Honduras
+Sep-94,52,Australia
+Sep-94,53,Ecuador
+Sep-94,56,Costa Rica
+Sep-94,63,Iran
+Sep-94,73,Croatia
+Sep-94,83,Bosnia-Herzegovina
+Oct-94,1,Brazil
+Oct-94,2,Italy
+Oct-94,4,Germany
+Oct-94,5,Netherlands
+Oct-94,6,Spain
+Oct-94,7,Switzerland
+Oct-94,9,Argentina
+Oct-94,12,Nigeria
+Oct-94,14,Russia
+Oct-94,15,Colombia
+Oct-94,17,England
+Oct-94,18,Mexico
+Oct-94,19,France
+Oct-94,21,Belgium
+Oct-94,22,Ivory Coast
+Oct-94,23,United States
+Oct-94,25,Portugal
+Oct-94,26,Ghana
+Oct-94,29,Cameroon
+Oct-94,31,Greece
+Oct-94,35,South Korea
+Oct-94,37,Japan
+Oct-94,38,Uruguay
+Oct-94,46,Chile
+Oct-94,50,Australia
+Oct-94,56,Honduras
+Oct-94,57,Ecuador
+Oct-94,58,Algeria
+Oct-94,62,Costa Rica
+Oct-94,64,Iran
+Oct-94,67,Croatia
+Oct-94,92,Bosnia-Herzegovina
+Nov-94,1,Brazil
+Nov-94,3,Italy
+Nov-94,4,Germany
+Nov-94,5,Spain
+Nov-94,6,Netherlands
+Nov-94,7,Switzerland
+Nov-94,9,Argentina
+Nov-94,12,Russia
+Nov-94,13,Nigeria
+Nov-94,15,Colombia
+Nov-94,16,England
+Nov-94,18,France
+Nov-94,19,Mexico
+Nov-94,21,Portugal
+Nov-94,22,Belgium
+Nov-94,24,United States
+Nov-94,25,Ivory Coast
+Nov-94,26,Ghana
+Nov-94,28,Cameroon
+Nov-94,32,Greece
+Nov-94,35,South Korea
+Nov-94,36,Japan
+Nov-94,37,Uruguay
+Nov-94,45,Chile
+Nov-94,54,Honduras
+Nov-94,55,Algeria
+Nov-94,56,Australia
+Nov-94,57,Ecuador
+Nov-94,61,Croatia
+Nov-94,63,Costa Rica
+Nov-94,73,Iran
+Nov-94,96,Bosnia-Herzegovina
+Dec-94,1,Brazil
+Dec-94,2,Spain
+Dec-94,4,Italy
+Dec-94,5,Germany
+Dec-94,6,Netherlands
+Dec-94,7,Switzerland
+Dec-94,10,Argentina
+Dec-94,12,Nigeria
+Dec-94,13,Russia
+Dec-94,15,Mexico
+Dec-94,17,Colombia
+Dec-94,18,England
+Dec-94,19,France
+Dec-94,20,Portugal
+Dec-94,23,United States
+Dec-94,24,Belgium
+Dec-94,25,Ivory Coast
+Dec-94,26,Ghana
+Dec-94,28,Greece
+Dec-94,31,Cameroon
+Dec-94,35,South Korea
+Dec-94,36,Japan
+Dec-94,37,Uruguay
+Dec-94,47,Chile
+Dec-94,53,Honduras
+Dec-94,55,Ecuador
+Dec-94,57,Algeria
+Dec-94,58,Australia
+Dec-94,62,Croatia
+Dec-94,65,Costa Rica
+Dec-94,75,Iran
+Dec-94,101,Bosnia-Herzegovina
+Feb-95,1,Brazil
+Feb-95,2,Spain
+Feb-95,3,Italy
+Feb-95,5,Germany
+Feb-95,7,Argentina
+Feb-95,8,Netherlands
+Feb-95,9,Mexico
+Feb-95,11,Switzerland
+Feb-95,13,Nigeria
+Feb-95,16,Colombia
+Feb-95,17,Russia
+Feb-95,18,France
+Feb-95,19,Portugal
+Feb-95,20,England
+Feb-95,22,United States
+Feb-95,23,Belgium
+Feb-95,25,Ghana
+Feb-95,26,Greece
+Feb-95,29,Ivory Coast
+Feb-95,31,Cameroon
+Feb-95,33,South Korea
+Feb-95,36,Uruguay
+Feb-95,37,Japan
+Feb-95,38,Chile
+Feb-95,47,Australia
+Feb-95,53,Honduras
+Feb-95,54,Algeria
+Feb-95,58,Ecuador
+Feb-95,64,Croatia
+Feb-95,72,Costa Rica
+Feb-95,79,Iran
+Feb-95,87,Bosnia-Herzegovina
+Apr-95,1,Brazil
+Apr-95,2,Italy
+Apr-95,3,Spain
+Apr-95,4,Germany
+Apr-95,7,Netherlands
+Apr-95,8,Argentina
+Apr-95,9,Mexico
+Apr-95,12,Switzerland
+Apr-95,14,Portugal
+Apr-95,16,Colombia
+Apr-95,17,Russia
+Apr-95,18,France
+Apr-95,19,Nigeria
+Apr-95,20,England
+Apr-95,21,Belgium
+Apr-95,22,United States
+Apr-95,23,Greece
+Apr-95,27,Ghana
+Apr-95,29,Uruguay
+Apr-95,33,Japan
+Apr-95,35,South Korea
+Apr-95,36,Cameroon
+Apr-95,39,Ivory Coast
+Apr-95,43,Chile
+Apr-95,48,Australia
+Apr-95,52,Honduras
+Apr-95,53,Algeria
+Apr-95,56,Croatia
+Apr-95,61,Ecuador
+Apr-95,68,Costa Rica
+Apr-95,80,Iran
+Apr-95,83,Bosnia-Herzegovina
+May-95,1,Brazil
+May-95,2,Italy
+May-95,3,Spain
+May-95,5,Germany
+May-95,7,Netherlands
+May-95,8,Argentina
+May-95,9,Mexico
+May-95,13,Switzerland
+May-95,15,Russia
+May-95,16,Portugal
+May-95,17,France
+May-95,18,Belgium
+May-95,19,Colombia
+May-95,20,Nigeria
+May-95,21,England
+May-95,24,Greece
+May-95,26,Ghana
+May-95,27,United States
+May-95,32,Uruguay
+May-95,33,Ivory Coast
+May-95,35,Japan
+May-95,37,South Korea
+May-95,44,Cameroon
+May-95,49,Chile
+May-95,50,Australia
+May-95,51,Croatia
+May-95,55,Algeria
+May-95,57,Honduras
+May-95,62,Ecuador
+May-95,72,Costa Rica
+May-95,83,Iran
+May-95,85,Bosnia-Herzegovina
+Jun-95,1,Brazil
+Jun-95,2,Italy
+Jun-95,3,Spain
+Jun-95,5,Germany
+Jun-95,7,Mexico
+Jun-95,9,Netherlands
+Jun-95,10,Argentina
+Jun-95,13,Russia
+Jun-95,14,Switzerland
+Jun-95,16,Portugal
+Jun-95,17,France
+Jun-95,18,Nigeria
+Jun-95,19,Belgium
+Jun-95,22,England
+Jun-95,23,Colombia
+Jun-95,27,Ghana
+Jun-95,28,Greece
+Jun-95,31,Ivory Coast
+Jun-95,33,Japan
+Jun-95,34,United States
+Jun-95,36,Uruguay
+Jun-95,37,South Korea
+Jun-95,40,Cameroon
+Jun-95,42,Chile
+Jun-95,51,Croatia
+Jun-95,57,Algeria
+Jun-95,58,Australia
+Jun-95,63,Honduras
+Jun-95,65,Costa Rica
+Jun-95,76,Ecuador
+Jun-95,84,Iran
+Jun-95,86,Bosnia-Herzegovina
+Jul-95,1,Brazil
+Jul-95,3,Spain
+Jul-95,4,Germany
+Jul-95,5,Argentina
+Jul-95,6,Italy
+Jul-95,8,Mexico
+Jul-95,9,Russia
+Jul-95,10,Portugal
+Jul-95,12,Colombia
+Jul-95,14,Switzerland
+Jul-95,17,Netherlands
+Jul-95,18,France
+Jul-95,19,Uruguay
+Jul-95,20,United States
+Jul-95,22,England
+Jul-95,26,Ghana
+Jul-95,27,Greece
+Jul-95,28,Belgium
+Jul-95,29,Ivory Coast
+Jul-95,33,Nigeria
+Jul-95,36,Japan
+Jul-95,38,Chile
+Jul-95,39,South Korea
+Jul-95,41,Cameroon
+Jul-95,52,Australia
+Jul-95,53,Croatia
+Jul-95,56,Algeria
+Jul-95,61,Ecuador
+Jul-95,68,Honduras
+Jul-95,71,Costa Rica
+Jul-95,86,Iran
+Jul-95,89,Bosnia-Herzegovina
+Aug-95,1,Brazil
+Aug-95,3,Spain
+Aug-95,4,Germany
+Aug-95,5,Argentina
+Aug-95,6,Italy
+Aug-95,8,Russia
+Aug-95,9,Portugal
+Aug-95,10,Mexico
+Aug-95,11,Switzerland
+Aug-95,13,Colombia
+Aug-95,17,Netherlands
+Aug-95,18,France
+Aug-95,19,United States
+Aug-95,20,Uruguay
+Aug-95,22,England
+Aug-95,24,Ghana
+Aug-95,29,Belgium
+Aug-95,30,Greece
+Aug-95,32,Ivory Coast
+Aug-95,33,Japan
+Aug-95,34,Nigeria
+Aug-95,38,Cameroon
+Aug-95,39,Chile
+Aug-95,41,South Korea
+Aug-95,50,Algeria
+Aug-95,53,Australia
+Aug-95,56,Croatia
+Aug-95,60,Ecuador
+Aug-95,71,Honduras
+Aug-95,74,Costa Rica
+Aug-95,89,Iran
+Aug-95,92,Bosnia-Herzegovina
+Sep-95,1,Brazil
+Sep-95,2,Italy
+Sep-95,4,Germany
+Sep-95,5,Netherlands
+Sep-95,6,Spain
+Sep-95,9,Argentina
+Sep-95,10,Nigeria
+Sep-95,11,Switzerland
+Sep-95,15,Colombia
+Sep-95,16,Mexico
+Sep-95,17,Russia
+Sep-95,18,England
+Sep-95,19,Belgium
+Sep-95,20,France
+Sep-95,22,United States
+Sep-95,23,Ivory Coast
+Sep-95,24,Portugal
+Sep-95,26,Ghana
+Sep-95,28,Cameroon
+Sep-95,32,Greece
+Sep-95,36,Uruguay
+Sep-95,38,South Korea
+Sep-95,41,Japan
+Sep-95,43,Chile
+Sep-95,50,Algeria
+Sep-95,51,Honduras
+Sep-95,52,Australia
+Sep-95,53,Ecuador
+Sep-95,56,Costa Rica
+Sep-95,63,Iran
+Sep-95,73,Croatia
+Sep-95,83,Bosnia-Herzegovina
+Oct-95,1,Brazil
+Oct-95,2,Spain
+Oct-95,3,Germany
+Oct-95,5,Russia
+Oct-95,6,Italy
+Oct-95,7,Argentina
+Oct-95,9,Switzerland
+Oct-95,10,Mexico
+Oct-95,12,France
+Oct-95,14,Netherlands
+Oct-95,16,Colombia
+Oct-95,17,Portugal
+Oct-95,19,United States
+Oct-95,22,England
+Oct-95,23,Ghana
+Oct-95,24,Uruguay
+Oct-95,29,Belgium
+Oct-95,30,Greece
+Oct-95,32,Ivory Coast
+Oct-95,34,Japan
+Oct-95,35,Nigeria
+Oct-95,37,Chile
+Oct-95,41,Cameroon
+Oct-95,45,Croatia
+Oct-95,48,South Korea
+Oct-95,51,Algeria
+Oct-95,55,Australia
+Oct-95,61,Ecuador
+Oct-95,71,Honduras
+Oct-95,74,Costa Rica
+Oct-95,93,Bosnia-Herzegovina
+Oct-95,106,Iran
+Nov-95,1,Brazil
+Nov-95,2,Germany
+Nov-95,3,Spain
+Nov-95,4,Italy
+Nov-95,5,Russia
+Nov-95,7,Argentina
+Nov-95,9,France
+Nov-95,10,Netherlands
+Nov-95,13,Mexico
+Nov-95,15,Switzerland
+Nov-95,16,Portugal
+Nov-95,17,Colombia
+Nov-95,19,United States
+Nov-95,20,England
+Nov-95,24,Nigeria
+Nov-95,26,Belgium
+Nov-95,27,Ghana
+Nov-95,28,Ivory Coast
+Nov-95,29,Greece
+Nov-95,30,Uruguay
+Nov-95,32,Japan
+Nov-95,36,Chile
+Nov-95,39,Croatia
+Nov-95,43,Cameroon
+Nov-95,44,South Korea
+Nov-95,47,Algeria
+Nov-95,49,Australia
+Nov-95,58,Ecuador
+Nov-95,69,Honduras
+Nov-95,76,Costa Rica
+Nov-95,80,Bosnia-Herzegovina
+Nov-95,106,Iran
+Dec-95,1,Brazil
+Dec-95,2,Germany
+Dec-95,3,Italy
+Dec-95,4,Spain
+Dec-95,5,Russia
+Dec-95,6,Netherlands
+Dec-95,7,Argentina
+Dec-95,8,France
+Dec-95,12,Mexico
+Dec-95,15,Colombia
+Dec-95,16,Portugal
+Dec-95,18,Switzerland
+Dec-95,19,United States
+Dec-95,20,Ivory Coast
+Dec-95,21,England
+Dec-95,24,Belgium
+Dec-95,27,Nigeria
+Dec-95,29,Ghana
+Dec-95,31,Japan
+Dec-95,32,Uruguay
+Dec-95,34,Greece
+Dec-95,36,Chile
+Dec-95,37,Cameroon
+Dec-95,41,Croatia
+Dec-95,46,South Korea
+Dec-95,48,Algeria
+Dec-95,49,Honduras
+Dec-95,51,Australia
+Dec-95,55,Ecuador
+Dec-95,78,Costa Rica
+Dec-95,81,Bosnia-Herzegovina
+Dec-95,108,Iran
+Jan-96,1,Brazil
+Jan-96,2,Germany
+Jan-96,3,Italy
+Jan-96,4,Spain
+Jan-96,5,Russia
+Jan-96,6,Netherlands
+Jan-96,7,Argentina
+Jan-96,8,Mexico
+Jan-96,13,France
+Jan-96,15,United States
+Jan-96,16,Portugal
+Jan-96,17,Colombia
+Jan-96,19,Ghana
+Jan-96,20,Switzerland
+Jan-96,21,Ivory Coast
+Jan-96,24,England
+Jan-96,25,Belgium
+Jan-96,30,Japan
+Jan-96,32,Cameroon
+Jan-96,34,Uruguay
+Jan-96,37,Greece
+Jan-96,38,Nigeria
+Jan-96,39,Chile
+Jan-96,41,Croatia
+Jan-96,44,Algeria
+Jan-96,49,South Korea
+Jan-96,54,Australia
+Jan-96,55,Honduras
+Jan-96,57,Ecuador
+Jan-96,80,Costa Rica
+Jan-96,81,Bosnia-Herzegovina
+Jan-96,111,Iran
+Feb-96,1,Brazil
+Feb-96,2,Italy
+Feb-96,3,Germany
+Feb-96,4,Spain
+Feb-96,5,Russia
+Feb-96,6,Netherlands
+Feb-96,7,France
+Feb-96,8,Argentina
+Feb-96,10,Mexico
+Feb-96,14,United States
+Feb-96,16,Ghana
+Feb-96,19,Colombia
+Feb-96,20,Portugal
+Feb-96,21,Switzerland
+Feb-96,24,Ivory Coast
+Feb-96,27,England
+Feb-96,28,Belgium
+Feb-96,30,Japan
+Feb-96,33,Chile
+Feb-96,34,Cameroon
+Feb-96,36,Uruguay
+Feb-96,39,Nigeria
+Feb-96,41,Greece
+Feb-96,43,Croatia
+Feb-96,44,Algeria
+Feb-96,52,Australia
+Feb-96,54,Ecuador
+Feb-96,57,Honduras
+Feb-96,62,South Korea
+Feb-96,80,Costa Rica
+Feb-96,83,Bosnia-Herzegovina
+Feb-96,115,Iran
+Apr-96,1,Brazil
+Apr-96,2,Germany
+Apr-96,3,Russia
+Apr-96,4,Italy
+Apr-96,5,France
+Apr-96,6,Spain
+Apr-96,8,Argentina
+Apr-96,9,Colombia
+Apr-96,11,Netherlands
+Apr-96,12,Mexico
+Apr-96,14,United States
+Apr-96,16,Ghana
+Apr-96,20,Portugal
+Apr-96,21,Ivory Coast
+Apr-96,23,England
+Apr-96,26,Switzerland
+Apr-96,28,Croatia
+Apr-96,29,Japan
+Apr-96,32,Cameroon
+Apr-96,33,Chile
+Apr-96,35,Uruguay
+Apr-96,38,Belgium
+Apr-96,41,Ecuador
+Apr-96,42,Nigeria
+Apr-96,45,Greece
+Apr-96,46,Algeria
+Apr-96,49,Australia
+Apr-96,53,Honduras
+Apr-96,59,South Korea
+Apr-96,81,Bosnia-Herzegovina
+Apr-96,83,Costa Rica
+Apr-96,118,Iran
+May-96,1,Brazil
+May-96,2,Germany
+May-96,3,Russia
+May-96,5,France
+May-96,6,Spain
+May-96,7,Italy
+May-96,8,Argentina
+May-96,9,Colombia
+May-96,12,Mexico
+May-96,13,Netherlands
+May-96,14,United States
+May-96,17,Ghana
+May-96,18,Portugal
+May-96,21,Switzerland
+May-96,23,Ivory Coast
+May-96,24,England
+May-96,26,Japan
+May-96,27,Croatia
+May-96,29,Chile
+May-96,32,Uruguay
+May-96,34,Cameroon
+May-96,35,Greece
+May-96,38,Ecuador
+May-96,40,Belgium
+May-96,43,Nigeria
+May-96,46,Algeria
+May-96,50,Australia
+May-96,51,South Korea
+May-96,54,Honduras
+May-96,73,Bosnia-Herzegovina
+May-96,87,Costa Rica
+May-96,123,Iran
+Jul-96,1,Brazil
+Jul-96,2,Germany
+Jul-96,3,France
+Jul-96,5,Italy
+Jul-96,6,Netherlands
+Jul-96,8,Spain
+Jul-96,9,Russia
+Jul-96,11,Portugal
+Jul-96,12,Colombia
+Jul-96,13,England
+Jul-96,14,Mexico
+Jul-96,15,Argentina
+Jul-96,17,United States
+Jul-96,20,Ghana
+Jul-96,22,Croatia
+Jul-96,25,Japan
+Jul-96,26,Switzerland
+Jul-96,28,Ivory Coast
+Jul-96,29,Chile
+Jul-96,32,Ecuador
+Jul-96,35,Greece
+Jul-96,38,Uruguay
+Jul-96,39,Cameroon
+Jul-96,43,Belgium
+Jul-96,44,Algeria
+Jul-96,47,Nigeria
+Jul-96,49,Honduras
+Jul-96,53,South Korea
+Jul-96,57,Iran
+Jul-96,59,Australia
+Jul-96,62,Bosnia-Herzegovina
+Jul-96,93,Costa Rica
+Aug-96,1,Brazil
+Aug-96,2,Germany
+Aug-96,3,France
+Aug-96,5,Italy
+Aug-96,6,Netherlands
+Aug-96,7,Spain
+Aug-96,8,Russia
+Aug-96,11,Colombia
+Aug-96,12,Portugal
+Aug-96,13,England
+Aug-96,14,Mexico
+Aug-96,19,Ghana
+Aug-96,20,United States
+Aug-96,21,Chile
+Aug-96,23,Croatia
+Aug-96,24,Argentina
+Aug-96,26,Japan
+Aug-96,28,Ivory Coast
+Aug-96,30,Greece
+Aug-96,31,Switzerland
+Aug-96,32,Ecuador
+Aug-96,41,South Korea
+Aug-96,43,Belgium
+Aug-96,44,Algeria
+Aug-96,45,Cameroon
+Aug-96,48,Honduras
+Aug-96,49,Nigeria
+Aug-96,56,Uruguay
+Aug-96,61,Australia
+Aug-96,64,Iran
+Aug-96,65,Bosnia-Herzegovina
+Aug-96,85,Costa Rica
+Sep-96,1,Brazil
+Sep-96,2,Germany
+Sep-96,3,France
+Sep-96,5,Russia
+Sep-96,6,Italy
+Sep-96,7,Netherlands
+Sep-96,10,Spain
+Sep-96,11,Colombia
+Sep-96,12,England
+Sep-96,13,Mexico
+Sep-96,14,Portugal
+Sep-96,18,United States
+Sep-96,19,Ghana
+Sep-96,20,Japan
+Sep-96,22,Argentina
+Sep-96,25,Croatia
+Sep-96,26,Chile
+Sep-96,29,Ivory Coast
+Sep-96,30,Greece
+Sep-96,31,Ecuador
+Sep-96,35,Switzerland
+Sep-96,37,Belgium
+Sep-96,41,South Korea
+Sep-96,43,Honduras
+Sep-96,44,Algeria
+Sep-96,47,Cameroon
+Sep-96,51,Nigeria
+Sep-96,52,Australia
+Sep-96,53,Uruguay
+Sep-96,66,Iran
+Sep-96,70,Bosnia-Herzegovina
+Sep-96,73,Costa Rica
+Oct-96,1,Brazil
+Oct-96,2,Germany
+Oct-96,3,France
+Oct-96,5,Italy
+Oct-96,7,Russia
+Oct-96,8,Colombia
+Oct-96,9,Netherlands
+Oct-96,10,Spain
+Oct-96,12,England
+Oct-96,13,Portugal
+Oct-96,15,Mexico
+Oct-96,17,Argentina
+Oct-96,20,Japan
+Oct-96,22,Croatia
+Oct-96,23,Ghana
+Oct-96,25,United States
+Oct-96,26,Chile
+Oct-96,30,Greece
+Oct-96,31,Ivory Coast
+Oct-96,32,Ecuador
+Oct-96,36,Belgium
+Oct-96,39,Switzerland
+Oct-96,42,Honduras
+Oct-96,45,South Korea
+Oct-96,46,Algeria
+Oct-96,47,Cameroon
+Oct-96,48,Australia
+Oct-96,50,Uruguay
+Oct-96,59,Bosnia-Herzegovina
+Oct-96,63,Nigeria
+Oct-96,71,Iran
+Oct-96,79,Costa Rica
+Nov-96,1,Brazil
+Nov-96,2,Germany
+Nov-96,3,France
+Nov-96,6,Russia
+Nov-96,7,Colombia
+Nov-96,8,Spain
+Nov-96,9,Italy
+Nov-96,10,Netherlands
+Nov-96,11,Mexico
+Nov-96,12,England
+Nov-96,15,Portugal
+Nov-96,16,United States
+Nov-96,19,Argentina
+Nov-96,22,Japan
+Nov-96,24,Croatia
+Nov-96,25,Ghana
+Nov-96,26,Chile
+Nov-96,32,Ivory Coast
+Nov-96,34,Ecuador
+Nov-96,37,Greece
+Nov-96,42,Belgium
+Nov-96,43,Switzerland
+Nov-96,44,Honduras
+Nov-96,46,South Korea
+Nov-96,47,Cameroon
+Nov-96,48,Australia
+Nov-96,49,Algeria
+Nov-96,54,Uruguay
+Nov-96,58,Nigeria
+Nov-96,59,Bosnia-Herzegovina
+Nov-96,77,Iran
+Nov-96,83,Costa Rica
+Dec-96,1,Brazil
+Dec-96,2,Germany
+Dec-96,3,France
+Dec-96,4,Colombia
+Dec-96,7,Russia
+Dec-96,8,Spain
+Dec-96,9,Netherlands
+Dec-96,10,Italy
+Dec-96,11,Mexico
+Dec-96,12,England
+Dec-96,13,Portugal
+Dec-96,18,United States
+Dec-96,21,Japan
+Dec-96,22,Argentina
+Dec-96,24,Croatia
+Dec-96,25,Ghana
+Dec-96,26,Chile
+Dec-96,33,Ecuador
+Dec-96,35,Greece
+Dec-96,42,Belgium
+Dec-96,43,Uruguay
+Dec-96,44,South Korea
+Dec-96,45,Honduras
+Dec-96,47,Switzerland
+Dec-96,49,Algeria
+Dec-96,50,Australia
+Dec-96,51,Ivory Coast
+Dec-96,55,Bosnia-Herzegovina
+Dec-96,56,Cameroon
+Dec-96,63,Nigeria
+Dec-96,72,Costa Rica
+Dec-96,83,Iran
+Feb-97,1,Brazil
+Feb-97,2,Germany
+Feb-97,3,France
+Feb-97,5,Colombia
+Feb-97,7,Spain
+Feb-97,8,Russia
+Feb-97,9,Netherlands
+Feb-97,10,Italy
+Feb-97,11,Mexico
+Feb-97,12,England
+Feb-97,13,Portugal
+Feb-97,18,Argentina
+Feb-97,19,Japan
+Feb-97,21,Chile
+Feb-97,22,United States
+Feb-97,25,Croatia
+Feb-97,33,Australia
+Feb-97,35,Ecuador
+Feb-97,38,Ghana
+Feb-97,40,Greece
+Feb-97,41,South Korea
+Feb-97,43,Uruguay
+Feb-97,44,Belgium
+Feb-97,46,Honduras
+Feb-97,47,Ivory Coast
+Feb-97,51,Switzerland
+Feb-97,53,Algeria
+Feb-97,54,Bosnia-Herzegovina
+Feb-97,59,Cameroon
+Feb-97,64,Nigeria
+Feb-97,66,Costa Rica
+Feb-97,81,Iran
+Apr-97,1,Brazil
+Apr-97,2,Germany
+Apr-97,3,France
+Apr-97,4,Spain
+Apr-97,7,Italy
+Apr-97,8,Colombia
+Apr-97,10,Netherlands
+Apr-97,11,Russia
+Apr-97,12,Mexico
+Apr-97,14,England
+Apr-97,15,Portugal
+Apr-97,16,Japan
+Apr-97,19,Argentina
+Apr-97,21,United States
+Apr-97,26,Chile
+Apr-97,28,Croatia
+Apr-97,29,Greece
+Apr-97,33,Australia
+Apr-97,34,South Korea
+Apr-97,35,Ecuador
+Apr-97,39,Belgium
+Apr-97,40,Ghana
+Apr-97,42,Uruguay
+Apr-97,43,Ivory Coast
+Apr-97,50,Honduras
+Apr-97,51,Switzerland
+Apr-97,56,Algeria
+Apr-97,57,Costa Rica
+Apr-97,62,Cameroon
+Apr-97,71,Nigeria
+Apr-97,87,Iran
+Apr-97,116,Bosnia-Herzegovina
+May-97,1,Brazil
+May-97,2,Germany
+May-97,4,France
+May-97,5,Spain
+May-97,6,Italy
+May-97,7,Netherlands
+May-97,10,Russia
+May-97,11,Colombia
+May-97,12,Mexico
+May-97,13,England
+May-97,16,Portugal
+May-97,18,Japan
+May-97,21,Argentina
+May-97,26,United States
+May-97,27,Chile
+May-97,28,Croatia
+May-97,31,Belgium
+May-97,34,Australia
+May-97,35,Ghana
+May-97,36,South Korea
+May-97,37,Greece
+May-97,40,Ecuador
+May-97,41,Cameroon
+May-97,45,Honduras
+May-97,50,Ivory Coast
+May-97,53,Costa Rica
+May-97,54,Uruguay
+May-97,56,Switzerland
+May-97,59,Algeria
+May-97,61,Nigeria
+May-97,73,Iran
+May-97,116,Bosnia-Herzegovina
+Jun-97,1,Brazil
+Jun-97,2,Germany
+Jun-97,3,Spain
+Jun-97,5,France
+Jun-97,7,England
+Jun-97,8,Russia
+Jun-97,9,Italy
+Jun-97,10,Netherlands
+Jun-97,12,Mexico
+Jun-97,13,Colombia
+Jun-97,16,Argentina
+Jun-97,17,Japan
+Jun-97,21,Portugal
+Jun-97,26,United States
+Jun-97,27,Chile
+Jun-97,29,Croatia
+Jun-97,31,Belgium
+Jun-97,32,South Korea
+Jun-97,33,Australia
+Jun-97,36,Ghana
+Jun-97,38,Ecuador
+Jun-97,41,Greece
+Jun-97,45,Cameroon
+Jun-97,47,Honduras
+Jun-97,51,Uruguay
+Jun-97,52,Ivory Coast
+Jun-97,53,Costa Rica
+Jun-97,54,Nigeria
+Jun-97,56,Iran
+Jun-97,60,Algeria
+Jun-97,61,Switzerland
+Jun-97,115,Bosnia-Herzegovina
+Jul-97,1,Brazil
+Jul-97,2,Spain
+Jul-97,5,Germany
+Jul-97,6,Netherlands
+Jul-97,7,Russia
+Jul-97,8,England
+Jul-97,9,Italy
+Jul-97,10,Mexico
+Jul-97,11,France
+Jul-97,12,Colombia
+Jul-97,13,Argentina
+Jul-97,17,Japan
+Jul-97,26,United States
+Jul-97,27,Chile
+Jul-97,29,Portugal
+Jul-97,30,Ecuador
+Jul-97,31,Australia
+Jul-97,32,Croatia
+Jul-97,34,South Korea
+Jul-97,36,Belgium
+Jul-97,40,Greece
+Jul-97,42,Ghana
+Jul-97,44,Uruguay
+Jul-97,45,Ivory Coast
+Jul-97,46,Cameroon
+Jul-97,48,Honduras
+Jul-97,54,Costa Rica
+Jul-97,57,Iran
+Jul-97,58,Nigeria
+Jul-97,60,Algeria
+Jul-97,63,Switzerland
+Jul-97,115,Bosnia-Herzegovina
+Aug-97,1,Brazil
+Aug-97,2,Spain
+Aug-97,4,Germany
+Aug-97,5,Russia
+Aug-97,6,Netherlands
+Aug-97,7,England
+Aug-97,8,Italy
+Aug-97,9,Mexico
+Aug-97,10,Colombia
+Aug-97,11,France
+Aug-97,13,Argentina
+Aug-97,17,Japan
+Aug-97,23,Chile
+Aug-97,28,United States
+Aug-97,29,Ecuador
+Aug-97,30,Portugal
+Aug-97,32,Australia
+Aug-97,33,Croatia
+Aug-97,34,South Korea
+Aug-97,38,Belgium
+Aug-97,40,Ivory Coast
+Aug-97,41,Ghana
+Aug-97,45,Cameroon
+Aug-97,46,Greece
+Aug-97,47,Algeria
+Aug-97,49,Honduras
+Aug-97,50,Uruguay
+Aug-97,56,Costa Rica
+Aug-97,59,Nigeria
+Aug-97,60,Iran
+Aug-97,64,Switzerland
+Aug-97,117,Bosnia-Herzegovina
+Sep-97,1,Brazil
+Sep-97,2,Germany
+Sep-97,4,Netherlands
+Sep-97,6,Spain
+Sep-97,7,England
+Sep-97,9,Colombia
+Sep-97,10,Argentina
+Sep-97,11,Mexico
+Sep-97,12,Italy
+Sep-97,16,Russia
+Sep-97,17,France
+Sep-97,18,Japan
+Sep-97,24,Portugal
+Sep-97,29,Chile
+Sep-97,30,Ecuador
+Sep-97,32,United States
+Sep-97,33,Croatia
+Sep-97,35,South Korea
+Sep-97,36,Australia
+Sep-97,41,Greece
+Sep-97,44,Cameroon
+Sep-97,45,Ghana
+Sep-97,46,Ivory Coast
+Sep-97,47,Uruguay
+Sep-97,48,Belgium
+Sep-97,51,Algeria
+Sep-97,53,Iran
+Sep-97,55,Costa Rica
+Sep-97,57,Honduras
+Sep-97,63,Nigeria
+Sep-97,65,Switzerland
+Sep-97,103,Bosnia-Herzegovina
+Oct-97,1,Brazil
+Oct-97,2,Spain
+Oct-97,3,Germany
+Oct-97,7,England
+Oct-97,8,Netherlands
+Oct-97,9,Russia
+Oct-97,10,Mexico
+Oct-97,11,Colombia
+Oct-97,13,Argentina
+Oct-97,14,France
+Oct-97,16,Italy
+Oct-97,20,Japan
+Oct-97,21,Portugal
+Oct-97,27,Chile
+Oct-97,29,Croatia
+Oct-97,31,Ecuador
+Oct-97,33,Australia
+Oct-97,34,South Korea
+Oct-97,35,United States
+Oct-97,41,Greece
+Oct-97,44,Cameroon
+Oct-97,46,Ivory Coast
+Oct-97,48,Belgium
+Oct-97,49,Iran
+Oct-97,50,Ghana
+Oct-97,52,Uruguay
+Oct-97,53,Algeria
+Oct-97,56,Costa Rica
+Oct-97,61,Honduras
+Oct-97,64,Switzerland
+Oct-97,67,Nigeria
+Oct-97,101,Bosnia-Herzegovina
+Nov-97,1,Brazil
+Nov-97,2,Germany
+Nov-97,3,Spain
+Nov-97,6,England
+Nov-97,7,France
+Nov-97,9,Colombia
+Nov-97,10,Italy
+Nov-97,11,Mexico
+Nov-97,12,Netherlands
+Nov-97,13,Russia
+Nov-97,17,Chile
+Nov-97,18,Japan
+Nov-97,19,Argentina
+Nov-97,21,Croatia
+Nov-97,27,Portugal
+Nov-97,28,Ecuador
+Nov-97,29,United States
+Nov-97,31,South Korea
+Nov-97,32,Australia
+Nov-97,40,Greece
+Nov-97,41,Belgium
+Nov-97,43,Uruguay
+Nov-97,48,Ivory Coast
+Nov-97,50,Iran
+Nov-97,51,Cameroon
+Nov-97,52,Costa Rica
+Nov-97,53,Ghana
+Nov-97,55,Algeria
+Nov-97,62,Switzerland
+Nov-97,65,Honduras
+Nov-97,71,Nigeria
+Nov-97,101,Bosnia-Herzegovina
+Dec-97,1,Brazil
+Dec-97,2,Germany
+Dec-97,4,England
+Dec-97,5,Mexico
+Dec-97,6,France
+Dec-97,9,Italy
+Dec-97,10,Colombia
+Dec-97,11,Spain
+Dec-97,12,Russia
+Dec-97,14,Japan
+Dec-97,16,Chile
+Dec-97,17,Argentina
+Dec-97,19,Croatia
+Dec-97,22,Netherlands
+Dec-97,26,United States
+Dec-97,27,South Korea
+Dec-97,28,Ecuador
+Dec-97,30,Portugal
+Dec-97,35,Australia
+Dec-97,40,Uruguay
+Dec-97,41,Belgium
+Dec-97,42,Greece
+Dec-97,46,Iran
+Dec-97,51,Costa Rica
+Dec-97,52,Ivory Coast
+Dec-97,53,Cameroon
+Dec-97,57,Ghana
+Dec-97,59,Algeria
+Dec-97,62,Switzerland
+Dec-97,71,Nigeria
+Dec-97,73,Honduras
+Dec-97,99,Bosnia-Herzegovina
+Feb-98,1,Brazil
+Feb-98,2,Germany
+Feb-98,4,Mexico
+Feb-98,5,England
+Feb-98,6,France
+Feb-98,7,Chile
+Feb-98,9,Japan
+Feb-98,12,United States
+Feb-98,14,Italy
+Feb-98,15,Colombia
+Feb-98,16,Croatia
+Feb-98,17,Argentina
+Feb-98,20,South Korea
+Feb-98,22,Russia
+Feb-98,23,Spain
+Feb-98,25,Netherlands
+Feb-98,31,Ecuador
+Feb-98,34,Portugal
+Feb-98,35,Australia
+Feb-98,40,Uruguay
+Feb-98,41,Belgium
+Feb-98,42,Greece
+Feb-98,45,Ivory Coast
+Feb-98,46,Costa Rica
+Feb-98,47,Iran
+Feb-98,49,Cameroon
+Feb-98,54,Ghana
+Feb-98,59,Algeria
+Feb-98,64,Honduras
+Feb-98,67,Nigeria
+Feb-98,68,Switzerland
+Feb-98,100,Bosnia-Herzegovina
+Mar-98,1,Brazil
+Mar-98,2,Germany
+Mar-98,4,Mexico
+Mar-98,5,England
+Mar-98,6,Netherlands
+Mar-98,7,Argentina
+Mar-98,8,Chile
+Mar-98,9,Japan
+Mar-98,13,Italy
+Mar-98,14,France
+Mar-98,16,United States
+Mar-98,17,Colombia
+Mar-98,18,Croatia
+Mar-98,23,Russia
+Mar-98,24,South Korea
+Mar-98,25,Spain
+Mar-98,31,Belgium
+Mar-98,32,Ecuador
+Mar-98,35,Australia
+Mar-98,40,Portugal
+Mar-98,41,Uruguay
+Mar-98,42,Ivory Coast
+Mar-98,45,Iran
+Mar-98,48,Cameroon
+Mar-98,49,Costa Rica
+Mar-98,52,Greece
+Mar-98,58,Ghana
+Mar-98,59,Algeria
+Mar-98,65,Nigeria
+Mar-98,66,Honduras
+Mar-98,69,Switzerland
+Mar-98,101,Bosnia-Herzegovina
+Apr-98,1,Brazil
+Apr-98,2,Germany
+Apr-98,4,Mexico
+Apr-98,5,England
+Apr-98,6,Chile
+Apr-98,7,Argentina
+Apr-98,9,Spain
+Apr-98,11,Japan
+Apr-98,13,Colombia
+Apr-98,14,Netherlands
+Apr-98,15,United States
+Apr-98,16,Italy
+Apr-98,17,Russia
+Apr-98,23,Croatia
+Apr-98,24,South Korea
+Apr-98,25,France
+Apr-98,30,Ecuador
+Apr-98,32,Belgium
+Apr-98,33,Australia
+Apr-98,37,Uruguay
+Apr-98,39,Portugal
+Apr-98,43,Ivory Coast
+Apr-98,46,Iran
+Apr-98,48,Cameroon
+Apr-98,50,Costa Rica
+Apr-98,56,Greece
+Apr-98,58,Algeria
+Apr-98,60,Ghana
+Apr-98,69,Nigeria
+Apr-98,70,Switzerland
+Apr-98,83,Honduras
+Apr-98,102,Bosnia-Herzegovina
+May-98,1,Brazil
+May-98,2,Germany
+May-98,4,Mexico
+May-98,5,England
+May-98,6,Argentina
+May-98,9,Chile
+May-98,10,Colombia
+May-98,11,United States
+May-98,12,Japan
+May-98,14,Italy
+May-98,15,Spain
+May-98,16,Russia
+May-98,18,France
+May-98,19,Croatia
+May-98,20,South Korea
+May-98,25,Netherlands
+May-98,26,Ecuador
+May-98,32,Australia
+May-98,36,Belgium
+May-98,38,Uruguay
+May-98,39,Portugal
+May-98,42,Iran
+May-98,44,Ivory Coast
+May-98,49,Cameroon
+May-98,55,Greece
+May-98,57,Algeria
+May-98,58,Costa Rica
+May-98,65,Ghana
+May-98,74,Nigeria
+May-98,81,Switzerland
+May-98,86,Honduras
+May-98,102,Bosnia-Herzegovina
+Jul-98,1,Brazil
+Jul-98,2,France
+Jul-98,3,Germany
+Jul-98,4,Croatia
+Jul-98,5,Argentina
+Jul-98,8,Netherlands
+Jul-98,9,Italy
+Jul-98,10,England
+Jul-98,12,Mexico
+Jul-98,14,Spain
+Jul-98,15,Chile
+Jul-98,17,Colombia
+Jul-98,19,United States
+Jul-98,21,South Korea
+Jul-98,22,Japan
+Jul-98,28,Russia
+Jul-98,31,Belgium
+Jul-98,35,Uruguay
+Jul-98,37,Iran
+Jul-98,38,Australia
+Jul-98,40,Cameroon
+Jul-98,41,Ecuador
+Jul-98,42,Portugal
+Jul-98,45,Ivory Coast
+Jul-98,50,Greece
+Jul-98,51,Costa Rica
+Jul-98,63,Algeria
+Jul-98,64,Nigeria
+Jul-98,65,Ghana
+Jul-98,73,Switzerland
+Jul-98,86,Honduras
+Jul-98,94,Bosnia-Herzegovina
+Aug-98,1,Brazil
+Aug-98,2,France
+Aug-98,3,Germany
+Aug-98,4,Croatia
+Aug-98,5,Argentina
+Aug-98,8,Italy
+Aug-98,9,Netherlands
+Aug-98,10,England
+Aug-98,12,Mexico
+Aug-98,14,Spain
+Aug-98,15,Chile
+Aug-98,18,United States
+Aug-98,19,Colombia
+Aug-98,21,South Korea
+Aug-98,22,Japan
+Aug-98,29,Russia
+Aug-98,30,Belgium
+Aug-98,34,Uruguay
+Aug-98,37,Cameroon
+Aug-98,38,Iran
+Aug-98,39,Australia
+Aug-98,43,Portugal
+Aug-98,44,Ecuador
+Aug-98,49,Ivory Coast
+Aug-98,51,Greece
+Aug-98,52,Costa Rica
+Aug-98,64,Algeria
+Aug-98,65,Nigeria
+Aug-98,67,Ghana
+Aug-98,76,Switzerland
+Aug-98,88,Honduras
+Aug-98,97,Bosnia-Herzegovina
+Sep-98,1,Brazil
+Sep-98,2,France
+Sep-98,3,Germany
+Sep-98,4,Croatia
+Sep-98,5,Argentina
+Sep-98,7,Italy
+Sep-98,9,Netherlands
+Sep-98,10,Mexico
+Sep-98,11,England
+Sep-98,12,Chile
+Sep-98,14,Spain
+Sep-98,17,United States
+Sep-98,20,South Korea
+Sep-98,21,Japan
+Sep-98,24,Colombia
+Sep-98,27,Russia
+Sep-98,28,Belgium
+Sep-98,35,Uruguay
+Sep-98,36,Australia
+Sep-98,37,Cameroon
+Sep-98,38,Iran
+Sep-98,41,Portugal
+Sep-98,45,Ivory Coast
+Sep-98,50,Costa Rica
+Sep-98,51,Ecuador
+Sep-98,56,Algeria
+Sep-98,60,Ghana
+Sep-98,66,Greece
+Sep-98,68,Nigeria
+Sep-98,77,Switzerland
+Sep-98,92,Honduras
+Sep-98,95,Bosnia-Herzegovina
+Oct-98,1,Brazil
+Oct-98,2,France
+Oct-98,3,Germany
+Oct-98,4,Croatia
+Oct-98,5,Argentina
+Oct-98,6,Italy
+Oct-98,9,Netherlands
+Oct-98,10,England
+Oct-98,11,Mexico
+Oct-98,15,Chile
+Oct-98,16,Spain
+Oct-98,17,United States
+Oct-98,19,South Korea
+Oct-98,21,Japan
+Oct-98,27,Colombia
+Oct-98,31,Belgium
+Oct-98,33,Australia
+Oct-98,35,Russia
+Oct-98,39,Portugal
+Oct-98,40,Cameroon
+Oct-98,41,Uruguay
+Oct-98,43,Ivory Coast
+Oct-98,44,Iran
+Oct-98,46,Ghana
+Oct-98,51,Costa Rica
+Oct-98,55,Greece
+Oct-98,66,Ecuador
+Oct-98,68,Nigeria
+Oct-98,69,Algeria
+Oct-98,81,Switzerland
+Oct-98,91,Bosnia-Herzegovina
+Oct-98,94,Honduras
+Nov-98,1,Brazil
+Nov-98,2,France
+Nov-98,3,Germany
+Nov-98,4,Croatia
+Nov-98,5,Argentina
+Nov-98,8,Italy
+Nov-98,9,Netherlands
+Nov-98,10,Mexico
+Nov-98,11,England
+Nov-98,15,Spain
+Nov-98,16,Chile
+Nov-98,19,South Korea
+Nov-98,22,United States
+Nov-98,30,Japan
+Nov-98,32,Colombia
+Nov-98,34,Belgium
+Nov-98,35,Australia
+Nov-98,37,Russia
+Nov-98,39,Cameroon
+Nov-98,40,Portugal
+Nov-98,41,Ivory Coast
+Nov-98,44,Iran
+Nov-98,47,Uruguay
+Nov-98,48,Ghana
+Nov-98,54,Greece
+Nov-98,61,Algeria
+Nov-98,63,Ecuador
+Nov-98,65,Nigeria
+Nov-98,66,Costa Rica
+Nov-98,82,Switzerland
+Nov-98,93,Bosnia-Herzegovina
+Nov-98,95,Honduras
+Dec-98,1,Brazil
+Dec-98,2,France
+Dec-98,3,Germany
+Dec-98,4,Croatia
+Dec-98,5,Argentina
+Dec-98,7,Italy
+Dec-98,9,England
+Dec-98,10,Mexico
+Dec-98,11,Netherlands
+Dec-98,15,Spain
+Dec-98,16,Chile
+Dec-98,17,South Korea
+Dec-98,20,Japan
+Dec-98,23,United States
+Dec-98,27,Iran
+Dec-98,34,Colombia
+Dec-98,35,Belgium
+Dec-98,36,Portugal
+Dec-98,39,Australia
+Dec-98,40,Russia
+Dec-98,41,Cameroon
+Dec-98,44,Ivory Coast
+Dec-98,48,Ghana
+Dec-98,53,Greece
+Dec-98,63,Ecuador
+Dec-98,65,Nigeria
+Dec-98,67,Costa Rica
+Dec-98,71,Algeria
+Dec-98,76,Uruguay
+Dec-98,83,Switzerland
+Dec-98,91,Honduras
+Dec-98,96,Bosnia-Herzegovina
+Jan-99,1,Brazil
+Jan-99,2,France
+Jan-99,3,Croatia
+Jan-99,4,Italy
+Jan-99,5,Germany
+Jan-99,6,Argentina
+Jan-99,8,Netherlands
+Jan-99,9,Spain
+Jan-99,11,England
+Jan-99,12,Mexico
+Jan-99,17,Portugal
+Jan-99,20,Chile
+Jan-99,21,Belgium
+Jan-99,23,United States
+Jan-99,27,Colombia
+Jan-99,31,Russia
+Jan-99,33,Japan
+Jan-99,35,South Korea
+Jan-99,40,Ivory Coast
+Jan-99,41,Ghana
+Jan-99,43,Cameroon
+Jan-99,46,Greece
+Jan-99,47,Iran
+Jan-99,50,Australia
+Jan-99,57,Nigeria
+Jan-99,61,Ecuador
+Jan-99,63,Uruguay
+Jan-99,65,Switzerland
+Jan-99,69,Costa Rica
+Jan-99,77,Honduras
+Jan-99,78,Algeria
+Jan-99,97,Bosnia-Herzegovina
+Feb-99,1,Brazil
+Feb-99,2,France
+Feb-99,3,Croatia
+Feb-99,4,Italy
+Feb-99,5,Germany
+Feb-99,6,Argentina
+Feb-99,8,Netherlands
+Feb-99,9,Spain
+Feb-99,11,England
+Feb-99,12,Mexico
+Feb-99,17,Portugal
+Feb-99,20,Chile
+Feb-99,21,Belgium
+Feb-99,23,United States
+Feb-99,27,Colombia
+Feb-99,31,Russia
+Feb-99,33,South Korea
+Feb-99,34,Japan
+Feb-99,40,Greece
+Feb-99,42,Ivory Coast
+Feb-99,43,Ghana
+Feb-99,44,Cameroon
+Feb-99,47,Iran
+Feb-99,50,Australia
+Feb-99,52,Ecuador
+Feb-99,60,Switzerland
+Feb-99,64,Nigeria
+Feb-99,65,Uruguay
+Feb-99,69,Costa Rica
+Feb-99,77,Algeria
+Feb-99,78,Honduras
+Feb-99,98,Bosnia-Herzegovina
+Mar-99,1,Brazil
+Mar-99,2,France
+Mar-99,3,Croatia
+Mar-99,4,Italy
+Mar-99,5,Germany
+Mar-99,6,Argentina
+Mar-99,8,Netherlands
+Mar-99,9,Spain
+Mar-99,11,England
+Mar-99,12,Mexico
+Mar-99,17,Portugal
+Mar-99,21,Chile
+Mar-99,22,Belgium
+Mar-99,23,United States
+Mar-99,28,Colombia
+Mar-99,31,Russia
+Mar-99,34,Greece
+Mar-99,36,South Korea
+Mar-99,37,Japan
+Mar-99,42,Ivory Coast
+Mar-99,43,Ghana
+Mar-99,44,Cameroon
+Mar-99,45,Iran
+Mar-99,51,Australia
+Mar-99,55,Ecuador
+Mar-99,61,Nigeria
+Mar-99,63,Switzerland
+Mar-99,65,Uruguay
+Mar-99,68,Costa Rica
+Mar-99,72,Algeria
+Mar-99,80,Honduras
+Mar-99,97,Bosnia-Herzegovina
+Apr-99,1,Brazil
+Apr-99,2,France
+Apr-99,3,Germany
+Apr-99,4,Italy
+Apr-99,6,Croatia
+Apr-99,7,Argentina
+Apr-99,8,Spain
+Apr-99,9,Netherlands
+Apr-99,10,England
+Apr-99,13,Mexico
+Apr-99,15,Portugal
+Apr-99,21,Chile
+Apr-99,24,United States
+Apr-99,25,Belgium
+Apr-99,30,Colombia
+Apr-99,33,Russia
+Apr-99,35,Greece
+Apr-99,36,South Korea
+Apr-99,40,Japan
+Apr-99,42,Cameroon
+Apr-99,43,Ivory Coast
+Apr-99,44,Ghana
+Apr-99,47,Iran
+Apr-99,51,Switzerland
+Apr-99,53,Australia
+Apr-99,55,Ecuador
+Apr-99,61,Nigeria
+Apr-99,64,Costa Rica
+Apr-99,67,Uruguay
+Apr-99,68,Algeria
+Apr-99,70,Honduras
+Apr-99,97,Bosnia-Herzegovina
+May-99,1,Brazil
+May-99,2,France
+May-99,3,Germany
+May-99,4,Italy
+May-99,6,Croatia
+May-99,7,Argentina
+May-99,8,Spain
+May-99,9,Netherlands
+May-99,11,England
+May-99,13,Mexico
+May-99,15,Portugal
+May-99,23,Chile
+May-99,24,United States
+May-99,27,Belgium
+May-99,31,Colombia
+May-99,33,Russia
+May-99,34,South Korea
+May-99,37,Greece
+May-99,41,Japan
+May-99,43,Cameroon
+May-99,45,Ivory Coast
+May-99,46,Ghana
+May-99,47,Iran
+May-99,51,Switzerland
+May-99,54,Australia
+May-99,55,Ecuador
+May-99,61,Nigeria
+May-99,65,Costa Rica
+May-99,67,Uruguay
+May-99,68,Algeria
+May-99,70,Honduras
+May-99,96,Bosnia-Herzegovina
+Jun-99,1,Brazil
+Jun-99,2,France
+Jun-99,4,Italy
+Jun-99,5,Germany
+Jun-99,6,Spain
+Jun-99,7,Croatia
+Jun-99,8,Argentina
+Jun-99,10,Netherlands
+Jun-99,12,Portugal
+Jun-99,13,England
+Jun-99,14,Mexico
+Jun-99,24,Russia
+Jun-99,29,Chile
+Jun-99,30,Belgium
+Jun-99,31,United States
+Jun-99,32,Colombia
+Jun-99,36,Greece
+Jun-99,38,South Korea
+Jun-99,42,Japan
+Jun-99,43,Ivory Coast
+Jun-99,44,Iran
+Jun-99,45,Ghana
+Jun-99,48,Cameroon
+Jun-99,49,Ecuador
+Jun-99,51,Switzerland
+Jun-99,56,Australia
+Jun-99,67,Costa Rica
+Jun-99,68,Nigeria
+Jun-99,70,Honduras
+Jun-99,72,Algeria
+Jun-99,74,Uruguay
+Jun-99,90,Bosnia-Herzegovina
+Jul-99,1,Brazil
+Jul-99,2,France
+Jul-99,4,Italy
+Jul-99,5,Germany
+Jul-99,6,Argentina
+Jul-99,7,Croatia
+Jul-99,8,Spain
+Jul-99,11,Mexico
+Jul-99,12,Portugal
+Jul-99,13,Netherlands
+Jul-99,14,England
+Jul-99,18,Colombia
+Jul-99,22,Chile
+Jul-99,27,Russia
+Jul-99,30,United States
+Jul-99,33,Belgium
+Jul-99,35,Greece
+Jul-99,37,South Korea
+Jul-99,42,Uruguay
+Jul-99,44,Japan
+Jul-99,45,Ivory Coast
+Jul-99,46,Ghana
+Jul-99,50,Iran
+Jul-99,51,Cameroon
+Jul-99,54,Switzerland
+Jul-99,56,Ecuador
+Jul-99,61,Australia
+Jul-99,68,Costa Rica
+Jul-99,69,Algeria
+Jul-99,70,Nigeria
+Jul-99,72,Honduras
+Jul-99,90,Bosnia-Herzegovina
+Aug-99,1,Brazil
+Aug-99,2,France
+Aug-99,4,Italy
+Aug-99,5,Germany
+Aug-99,6,Argentina
+Aug-99,7,Spain
+Aug-99,8,Croatia
+Aug-99,9,Mexico
+Aug-99,12,Portugal
+Aug-99,13,Netherlands
+Aug-99,14,England
+Aug-99,18,Colombia
+Aug-99,21,United States
+Aug-99,23,Chile
+Aug-99,28,Russia
+Aug-99,33,Belgium
+Aug-99,37,Greece
+Aug-99,39,South Korea
+Aug-99,43,Uruguay
+Aug-99,44,Ghana
+Aug-99,45,Ivory Coast
+Aug-99,46,Japan
+Aug-99,51,Iran
+Aug-99,53,Cameroon
+Aug-99,54,Switzerland
+Aug-99,57,Ecuador
+Aug-99,62,Australia
+Aug-99,68,Costa Rica
+Aug-99,73,Honduras
+Aug-99,75,Nigeria
+Aug-99,77,Algeria
+Aug-99,90,Bosnia-Herzegovina
+Sep-99,1,Brazil
+Sep-99,3,France
+Sep-99,4,Spain
+Sep-99,5,Germany
+Sep-99,6,Croatia
+Sep-99,7,Argentina
+Sep-99,8,Italy
+Sep-99,10,Mexico
+Sep-99,12,England
+Sep-99,13,Portugal
+Sep-99,14,Netherlands
+Sep-99,19,Russia
+Sep-99,20,United States
+Sep-99,23,Colombia
+Sep-99,24,Chile
+Sep-99,32,Belgium
+Sep-99,37,Greece
+Sep-99,40,South Korea
+Sep-99,41,Uruguay
+Sep-99,47,Ghana
+Sep-99,48,Ivory Coast
+Sep-99,50,Iran
+Sep-99,51,Japan
+Sep-99,53,Switzerland
+Sep-99,54,Cameroon
+Sep-99,60,Ecuador
+Sep-99,64,Australia
+Sep-99,67,Costa Rica
+Sep-99,75,Honduras
+Sep-99,76,Nigeria
+Sep-99,79,Algeria
+Sep-99,89,Bosnia-Herzegovina
+Oct-99,1,Brazil
+Oct-99,3,France
+Oct-99,4,Spain
+Oct-99,5,Germany
+Oct-99,6,Croatia
+Oct-99,8,Argentina
+Oct-99,10,Italy
+Oct-99,11,Mexico
+Oct-99,12,England
+Oct-99,13,Portugal
+Oct-99,16,Netherlands
+Oct-99,19,Russia
+Oct-99,22,United States
+Oct-99,23,Chile
+Oct-99,26,Colombia
+Oct-99,30,Greece
+Oct-99,32,Belgium
+Oct-99,40,South Korea
+Oct-99,42,Uruguay
+Oct-99,48,Iran
+Oct-99,49,Ivory Coast
+Oct-99,50,Switzerland
+Oct-99,51,Japan
+Oct-99,54,Ghana
+Oct-99,56,Cameroon
+Oct-99,61,Ecuador
+Oct-99,67,Costa Rica
+Oct-99,74,Australia
+Oct-99,75,Honduras
+Oct-99,76,Bosnia-Herzegovina
+Oct-99,77,Nigeria
+Oct-99,81,Algeria
+Nov-99,1,Brazil
+Nov-99,2,France
+Nov-99,4,Spain
+Nov-99,5,Germany
+Nov-99,6,Croatia
+Nov-99,7,Argentina
+Nov-99,10,Mexico
+Nov-99,11,England
+Nov-99,12,Italy
+Nov-99,15,Portugal
+Nov-99,17,Netherlands
+Nov-99,19,Russia
+Nov-99,21,United States
+Nov-99,22,Chile
+Nov-99,25,Colombia
+Nov-99,30,Belgium
+Nov-99,34,Greece
+Nov-99,41,South Korea
+Nov-99,42,Uruguay
+Nov-99,46,Iran
+Nov-99,49,Switzerland
+Nov-99,51,Ivory Coast
+Nov-99,52,Japan
+Nov-99,55,Ghana
+Nov-99,56,Cameroon
+Nov-99,62,Ecuador
+Nov-99,69,Costa Rica
+Nov-99,74,Bosnia-Herzegovina
+Nov-99,77,Honduras
+Nov-99,82,Nigeria
+Nov-99,85,Australia
+Nov-99,88,Algeria
+Dec-99,1,Brazil
+Dec-99,3,France
+Dec-99,4,Spain
+Dec-99,5,Germany
+Dec-99,6,Argentina
+Dec-99,9,Croatia
+Dec-99,10,Mexico
+Dec-99,12,England
+Dec-99,14,Italy
+Dec-99,15,Portugal
+Dec-99,18,Russia
+Dec-99,19,Netherlands
+Dec-99,22,United States
+Dec-99,23,Chile
+Dec-99,25,Colombia
+Dec-99,33,Belgium
+Dec-99,34,Greece
+Dec-99,46,Uruguay
+Dec-99,47,Switzerland
+Dec-99,48,Ghana
+Dec-99,49,Iran
+Dec-99,51,South Korea
+Dec-99,53,Ivory Coast
+Dec-99,57,Japan
+Dec-99,58,Cameroon
+Dec-99,64,Costa Rica
+Dec-99,65,Ecuador
+Dec-99,69,Honduras
+Dec-99,75,Bosnia-Herzegovina
+Dec-99,76,Nigeria
+Dec-99,86,Algeria
+Dec-99,89,Australia
+Jan-00,1,Brazil
+Jan-00,3,France
+Jan-00,4,Spain
+Jan-00,5,Germany
+Jan-00,6,Argentina
+Jan-00,9,Croatia
+Jan-00,10,Mexico
+Jan-00,12,England
+Jan-00,14,Italy
+Jan-00,15,Portugal
+Jan-00,18,Russia
+Jan-00,19,Netherlands
+Jan-00,22,United States
+Jan-00,23,Chile
+Jan-00,24,Colombia
+Jan-00,33,Belgium
+Jan-00,34,Greece
+Jan-00,43,Iran
+Jan-00,47,Uruguay
+Jan-00,48,Switzerland
+Jan-00,49,Ivory Coast
+Jan-00,50,Ghana
+Jan-00,52,South Korea
+Jan-00,57,Cameroon
+Jan-00,58,Japan
+Jan-00,64,Costa Rica
+Jan-00,65,Ecuador
+Jan-00,71,Honduras
+Jan-00,75,Bosnia-Herzegovina
+Jan-00,76,Nigeria
+Jan-00,86,Algeria
+Jan-00,90,Australia
+Feb-00,1,Brazil
+Feb-00,3,France
+Feb-00,4,Spain
+Feb-00,5,Germany
+Feb-00,6,Argentina
+Feb-00,9,Croatia
+Feb-00,10,Mexico
+Feb-00,11,England
+Feb-00,14,Italy
+Feb-00,15,Portugal
+Feb-00,18,Russia
+Feb-00,19,Netherlands
+Feb-00,22,United States
+Feb-00,24,Colombia
+Feb-00,26,Chile
+Feb-00,33,Belgium
+Feb-00,34,Cameroon
+Feb-00,36,Greece
+Feb-00,42,Uruguay
+Feb-00,46,Ivory Coast
+Feb-00,47,Iran
+Feb-00,48,South Korea
+Feb-00,51,Nigeria
+Feb-00,52,Switzerland
+Feb-00,53,Ghana
+Feb-00,62,Japan
+Feb-00,63,Costa Rica
+Feb-00,68,Ecuador
+Feb-00,71,Algeria
+Feb-00,74,Honduras
+Feb-00,81,Bosnia-Herzegovina
+Feb-00,91,Australia
+Mar-00,1,Brazil
+Mar-00,3,France
+Mar-00,4,Spain
+Mar-00,5,Germany
+Mar-00,7,Argentina
+Mar-00,9,Croatia
+Mar-00,10,Mexico
+Mar-00,11,England
+Mar-00,14,Italy
+Mar-00,15,Portugal
+Mar-00,17,Colombia
+Mar-00,19,Netherlands
+Mar-00,20,United States
+Mar-00,21,Russia
+Mar-00,24,Chile
+Mar-00,33,Belgium
+Mar-00,35,Cameroon
+Mar-00,37,Greece
+Mar-00,44,Uruguay
+Mar-00,45,South Korea
+Mar-00,47,Ivory Coast
+Mar-00,49,Japan
+Mar-00,51,Nigeria
+Mar-00,52,Switzerland
+Mar-00,53,Iran
+Mar-00,57,Ghana
+Mar-00,60,Honduras
+Mar-00,68,Costa Rica
+Mar-00,72,Ecuador
+Mar-00,75,Algeria
+Mar-00,83,Bosnia-Herzegovina
+Mar-00,84,Australia
+Apr-00,1,Brazil
+Apr-00,3,France
+Apr-00,4,Spain
+Apr-00,5,Germany
+Apr-00,6,Argentina
+Apr-00,8,Mexico
+Apr-00,10,Croatia
+Apr-00,13,England
+Apr-00,14,Italy
+Apr-00,15,Portugal
+Apr-00,17,Colombia
+Apr-00,18,United States
+Apr-00,20,Netherlands
+Apr-00,22,Russia
+Apr-00,23,Chile
+Apr-00,32,Greece
+Apr-00,33,Belgium
+Apr-00,35,Cameroon
+Apr-00,42,Uruguay
+Apr-00,43,South Korea
+Apr-00,46,Iran
+Apr-00,47,Ivory Coast
+Apr-00,50,Japan
+Apr-00,52,Nigeria
+Apr-00,55,Switzerland
+Apr-00,57,Ghana
+Apr-00,66,Honduras
+Apr-00,68,Costa Rica
+Apr-00,71,Ecuador
+Apr-00,76,Bosnia-Herzegovina
+Apr-00,83,Australia
+Apr-00,85,Algeria
+May-00,1,Brazil
+May-00,3,France
+May-00,4,Spain
+May-00,5,Argentina
+May-00,6,Germany
+May-00,7,Croatia
+May-00,8,Mexico
+May-00,12,England
+May-00,14,Italy
+May-00,15,Portugal
+May-00,18,Colombia
+May-00,19,United States
+May-00,21,Netherlands
+May-00,22,Chile
+May-00,23,Russia
+May-00,30,Belgium
+May-00,31,Greece
+May-00,38,Cameroon
+May-00,40,South Korea
+May-00,42,Iran
+May-00,44,Uruguay
+May-00,47,Ivory Coast
+May-00,48,Ghana
+May-00,52,Nigeria
+May-00,56,Japan
+May-00,57,Switzerland
+May-00,65,Honduras
+May-00,69,Costa Rica
+May-00,71,Ecuador
+May-00,76,Bosnia-Herzegovina
+May-00,78,Algeria
+May-00,89,Australia
+Jun-00,1,Brazil
+Jun-00,2,France
+Jun-00,4,Spain
+Jun-00,5,Argentina
+Jun-00,6,Germany
+Jun-00,8,Mexico
+Jun-00,9,Croatia
+Jun-00,12,England
+Jun-00,14,Italy
+Jun-00,15,Portugal
+Jun-00,18,Colombia
+Jun-00,19,United States
+Jun-00,21,Netherlands
+Jun-00,23,Chile
+Jun-00,24,Russia
+Jun-00,30,Belgium
+Jun-00,32,Greece
+Jun-00,38,Cameroon
+Jun-00,41,Iran
+Jun-00,42,South Korea
+Jun-00,43,Uruguay
+Jun-00,49,Ghana
+Jun-00,51,Ivory Coast
+Jun-00,52,Nigeria
+Jun-00,57,Japan
+Jun-00,58,Switzerland
+Jun-00,62,Honduras
+Jun-00,66,Costa Rica
+Jun-00,71,Ecuador
+Jun-00,75,Algeria
+Jun-00,77,Bosnia-Herzegovina
+Jun-00,92,Australia
+Jul-00,1,Brazil
+Jul-00,2,France
+Jul-00,4,Spain
+Jul-00,5,Argentina
+Jul-00,6,Italy
+Jul-00,7,Portugal
+Jul-00,8,Netherlands
+Jul-00,9,Germany
+Jul-00,13,Mexico
+Jul-00,14,Croatia
+Jul-00,15,England
+Jul-00,17,Colombia
+Jul-00,20,United States
+Jul-00,22,Chile
+Jul-00,24,Russia
+Jul-00,28,Belgium
+Jul-00,31,Greece
+Jul-00,34,Cameroon
+Jul-00,35,Uruguay
+Jul-00,38,South Korea
+Jul-00,40,Iran
+Jul-00,46,Japan
+Jul-00,49,Ivory Coast
+Jul-00,51,Honduras
+Jul-00,53,Nigeria
+Jul-00,54,Ghana
+Jul-00,58,Switzerland
+Jul-00,63,Australia
+Jul-00,66,Ecuador
+Jul-00,69,Costa Rica
+Jul-00,76,Algeria
+Jul-00,80,Bosnia-Herzegovina
+Aug-00,1,Brazil
+Aug-00,2,France
+Aug-00,3,Argentina
+Aug-00,5,Spain
+Aug-00,6,Italy
+Aug-00,7,Portugal
+Aug-00,8,Netherlands
+Aug-00,11,Germany
+Aug-00,13,England
+Aug-00,14,Mexico
+Aug-00,15,Croatia
+Aug-00,17,Colombia
+Aug-00,21,United States
+Aug-00,22,Chile
+Aug-00,25,Russia
+Aug-00,28,Belgium
+Aug-00,32,Greece
+Aug-00,33,Cameroon
+Aug-00,36,Uruguay
+Aug-00,37,South Korea
+Aug-00,38,Iran
+Aug-00,45,Ivory Coast
+Aug-00,48,Japan
+Aug-00,49,Honduras
+Aug-00,50,Ghana
+Aug-00,55,Nigeria
+Aug-00,61,Costa Rica
+Aug-00,62,Switzerland
+Aug-00,65,Ecuador
+Aug-00,66,Australia
+Aug-00,77,Algeria
+Aug-00,82,Bosnia-Herzegovina
+Sep-00,1,Brazil
+Sep-00,2,France
+Sep-00,3,Argentina
+Sep-00,5,Spain
+Sep-00,6,Italy
+Sep-00,7,Portugal
+Sep-00,9,Germany
+Sep-00,10,Netherlands
+Sep-00,13,Mexico
+Sep-00,14,England
+Sep-00,15,Croatia
+Sep-00,17,Colombia
+Sep-00,19,United States
+Sep-00,20,Chile
+Sep-00,24,Russia
+Sep-00,25,Belgium
+Sep-00,32,Uruguay
+Sep-00,33,Greece
+Sep-00,34,Cameroon
+Sep-00,43,South Korea
+Sep-00,44,Iran
+Sep-00,46,Honduras
+Sep-00,48,Ivory Coast
+Sep-00,50,Japan
+Sep-00,53,Ghana
+Sep-00,54,Nigeria
+Sep-00,55,Costa Rica
+Sep-00,60,Ecuador
+Sep-00,61,Switzerland
+Sep-00,67,Australia
+Sep-00,74,Bosnia-Herzegovina
+Sep-00,80,Algeria
+Oct-00,1,Brazil
+Oct-00,2,France
+Oct-00,3,Argentina
+Oct-00,5,Spain
+Oct-00,6,Italy
+Oct-00,7,Portugal
+Oct-00,8,Germany
+Oct-00,9,Netherlands
+Oct-00,11,Mexico
+Oct-00,15,England
+Oct-00,16,Colombia
+Oct-00,17,Croatia
+Oct-00,18,United States
+Oct-00,19,Chile
+Oct-00,23,Belgium
+Oct-00,24,Russia
+Oct-00,32,Greece
+Oct-00,34,Uruguay
+Oct-00,35,Cameroon
+Oct-00,43,Iran
+Oct-00,44,South Korea
+Oct-00,46,Honduras
+Oct-00,48,Ghana
+Oct-00,49,Japan
+Oct-00,50,Ivory Coast
+Oct-00,54,Costa Rica
+Oct-00,57,Nigeria
+Oct-00,58,Ecuador
+Oct-00,61,Switzerland
+Oct-00,70,Australia
+Oct-00,78,Bosnia-Herzegovina
+Oct-00,80,Algeria
+Nov-00,1,Brazil
+Nov-00,2,France
+Nov-00,3,Argentina
+Nov-00,5,Italy
+Nov-00,6,Spain
+Nov-00,7,Portugal
+Nov-00,8,Germany
+Nov-00,10,Netherlands
+Nov-00,11,Mexico
+Nov-00,15,Colombia
+Nov-00,16,England
+Nov-00,17,Croatia
+Nov-00,18,United States
+Nov-00,19,Chile
+Nov-00,21,Russia
+Nov-00,26,Belgium
+Nov-00,34,Japan
+Nov-00,36,Uruguay
+Nov-00,39,South Korea
+Nov-00,40,Iran
+Nov-00,41,Cameroon
+Nov-00,42,Greece
+Nov-00,50,Honduras
+Nov-00,51,Nigeria
+Nov-00,52,Ivory Coast
+Nov-00,56,Costa Rica
+Nov-00,57,Ghana
+Nov-00,58,Ecuador
+Nov-00,59,Switzerland
+Nov-00,74,Australia
+Nov-00,77,Bosnia-Herzegovina
+Nov-00,82,Algeria
+Dec-00,1,Brazil
+Dec-00,2,France
+Dec-00,3,Argentina
+Dec-00,4,Italy
+Dec-00,6,Portugal
+Dec-00,7,Spain
+Dec-00,8,Netherlands
+Dec-00,11,Germany
+Dec-00,12,Mexico
+Dec-00,15,Colombia
+Dec-00,16,United States
+Dec-00,17,England
+Dec-00,18,Croatia
+Dec-00,19,Chile
+Dec-00,21,Russia
+Dec-00,27,Belgium
+Dec-00,32,Uruguay
+Dec-00,37,Iran
+Dec-00,38,Japan
+Dec-00,39,Cameroon
+Dec-00,40,South Korea
+Dec-00,42,Greece
+Dec-00,46,Honduras
+Dec-00,51,Ivory Coast
+Dec-00,52,Nigeria
+Dec-00,54,Ecuador
+Dec-00,57,Ghana
+Dec-00,58,Switzerland
+Dec-00,60,Costa Rica
+Dec-00,73,Australia
+Dec-00,78,Bosnia-Herzegovina
+Dec-00,82,Algeria
+Jan-01,1,Brazil
+Jan-01,2,France
+Jan-01,3,Argentina
+Jan-01,5,Italy
+Jan-01,6,Portugal
+Jan-01,7,Spain
+Jan-01,8,Netherlands
+Jan-01,11,Germany
+Jan-01,12,Mexico
+Jan-01,15,Colombia
+Jan-01,16,United States
+Jan-01,17,England
+Jan-01,18,Croatia
+Jan-01,20,Russia
+Jan-01,21,Chile
+Jan-01,27,Belgium
+Jan-01,33,Uruguay
+Jan-01,36,Cameroon
+Jan-01,37,Iran
+Jan-01,40,Japan
+Jan-01,42,South Korea
+Jan-01,43,Greece
+Jan-01,46,Honduras
+Jan-01,50,Nigeria
+Jan-01,51,Ivory Coast
+Jan-01,53,Ecuador
+Jan-01,56,Costa Rica
+Jan-01,58,Ghana
+Jan-01,59,Switzerland
+Jan-01,75,Australia
+Jan-01,79,Bosnia-Herzegovina
+Jan-01,80,Algeria
+Feb-01,1,Brazil
+Feb-01,2,France
+Feb-01,3,Argentina
+Feb-01,4,Italy
+Feb-01,6,Portugal
+Feb-01,7,Spain
+Feb-01,8,Netherlands
+Feb-01,11,Germany
+Feb-01,12,Mexico
+Feb-01,15,Colombia
+Feb-01,16,United States
+Feb-01,17,England
+Feb-01,18,Croatia
+Feb-01,20,Russia
+Feb-01,22,Chile
+Feb-01,27,Belgium
+Feb-01,33,Uruguay
+Feb-01,35,Iran
+Feb-01,40,Japan
+Feb-01,41,Cameroon
+Feb-01,42,South Korea
+Feb-01,43,Greece
+Feb-01,47,Honduras
+Feb-01,48,Ivory Coast
+Feb-01,51,Nigeria
+Feb-01,54,Ecuador
+Feb-01,56,Costa Rica
+Feb-01,58,Ghana
+Feb-01,59,Switzerland
+Feb-01,73,Bosnia-Herzegovina
+Feb-01,75,Australia
+Feb-01,80,Algeria
+Mar-01,1,Brazil
+Mar-01,2,France
+Mar-01,3,Argentina
+Mar-01,4,Portugal
+Mar-01,5,Italy
+Mar-01,7,Spain
+Mar-01,9,Netherlands
+Mar-01,11,Germany
+Mar-01,12,Mexico
+Mar-01,15,Colombia
+Mar-01,16,England
+Mar-01,17,Croatia
+Mar-01,18,United States
+Mar-01,19,Russia
+Mar-01,22,Chile
+Mar-01,26,Belgium
+Mar-01,34,Uruguay
+Mar-01,36,Cameroon
+Mar-01,37,Iran
+Mar-01,39,South Korea
+Mar-01,42,Japan
+Mar-01,44,Greece
+Mar-01,46,Ivory Coast
+Mar-01,50,Honduras
+Mar-01,52,Nigeria
+Mar-01,53,Ecuador
+Mar-01,56,Costa Rica
+Mar-01,59,Ghana
+Mar-01,60,Switzerland
+Mar-01,74,Bosnia-Herzegovina
+Mar-01,76,Australia
+Mar-01,81,Algeria
+Apr-01,1,Brazil
+Apr-01,2,France
+Apr-01,3,Argentina
+Apr-01,4,Italy
+Apr-01,5,Portugal
+Apr-01,7,Spain
+Apr-01,8,Germany
+Apr-01,10,Netherlands
+Apr-01,13,Mexico
+Apr-01,14,England
+Apr-01,15,Colombia
+Apr-01,17,Croatia
+Apr-01,18,United States
+Apr-01,20,Russia
+Apr-01,27,Belgium
+Apr-01,28,Chile
+Apr-01,38,Cameroon
+Apr-01,39,Uruguay
+Apr-01,40,Iran
+Apr-01,41,South Korea
+Apr-01,42,Japan
+Apr-01,46,Greece
+Apr-01,47,Ivory Coast
+Apr-01,49,Honduras
+Apr-01,51,Ecuador
+Apr-01,52,Costa Rica
+Apr-01,55,Nigeria
+Apr-01,56,Switzerland
+Apr-01,60,Ghana
+Apr-01,69,Bosnia-Herzegovina
+Apr-01,76,Algeria
+Apr-01,77,Australia
+May-01,1,France
+May-01,2,Brazil
+May-01,3,Argentina
+May-01,4,Italy
+May-01,5,Portugal
+May-01,6,Spain
+May-01,8,Netherlands
+May-01,9,Germany
+May-01,13,Mexico
+May-01,14,England
+May-01,15,United States
+May-01,16,Colombia
+May-01,18,Russia
+May-01,19,Croatia
+May-01,30,Belgium
+May-01,32,Chile
+May-01,33,Uruguay
+May-01,37,Cameroon
+May-01,39,South Korea
+May-01,41,Ivory Coast
+May-01,42,Iran
+May-01,44,Japan
+May-01,45,Ecuador
+May-01,48,Greece
+May-01,49,Honduras
+May-01,50,Nigeria
+May-01,54,Costa Rica
+May-01,58,Switzerland
+May-01,61,Ghana
+May-01,68,Australia
+May-01,72,Bosnia-Herzegovina
+May-01,83,Algeria
+Jun-01,1,France
+Jun-01,2,Brazil
+Jun-01,3,Argentina
+Jun-01,4,Italy
+Jun-01,5,Portugal
+Jun-01,6,Spain
+Jun-01,8,Germany
+Jun-01,9,Netherlands
+Jun-01,13,England
+Jun-01,14,Croatia
+Jun-01,15,Mexico
+Jun-01,17,United States
+Jun-01,18,Colombia
+Jun-01,20,Russia
+Jun-01,26,Belgium
+Jun-01,33,Japan
+Jun-01,35,Chile
+Jun-01,37,South Korea
+Jun-01,38,Cameroon
+Jun-01,40,Uruguay
+Jun-01,42,Ivory Coast
+Jun-01,44,Ecuador
+Jun-01,45,Nigeria
+Jun-01,47,Costa Rica
+Jun-01,49,Iran
+Jun-01,50,Australia
+Jun-01,51,Honduras
+Jun-01,55,Greece
+Jun-01,61,Switzerland
+Jun-01,62,Ghana
+Jun-01,78,Bosnia-Herzegovina
+Jun-01,83,Algeria
+Jul-01,1,France
+Jul-01,2,Brazil
+Jul-01,3,Argentina
+Jul-01,4,Italy
+Jul-01,5,Germany
+Jul-01,6,Spain
+Jul-01,7,Portugal
+Jul-01,10,Netherlands
+Jul-01,13,Mexico
+Jul-01,14,Colombia
+Jul-01,15,England
+Jul-01,16,United States
+Jul-01,18,Croatia
+Jul-01,20,Russia
+Jul-01,26,Belgium
+Jul-01,30,Uruguay
+Jul-01,31,Chile
+Jul-01,32,Japan
+Jul-01,33,Costa Rica
+Jul-01,34,Cameroon
+Jul-01,39,South Korea
+Jul-01,40,Nigeria
+Jul-01,42,Ivory Coast
+Jul-01,46,Australia
+Jul-01,48,Honduras
+Jul-01,50,Ecuador
+Jul-01,51,Iran
+Jul-01,55,Ghana
+Jul-01,57,Greece
+Jul-01,62,Switzerland
+Jul-01,72,Algeria
+Jul-01,75,Bosnia-Herzegovina
+Aug-01,1,France
+Aug-01,2,Brazil
+Aug-01,3,Argentina
+Aug-01,4,Italy
+Aug-01,5,Germany
+Aug-01,6,Colombia
+Aug-01,8,Spain
+Aug-01,9,Portugal
+Aug-01,10,Netherlands
+Aug-01,12,Mexico
+Aug-01,15,England
+Aug-01,16,United States
+Aug-01,17,Croatia
+Aug-01,20,Russia
+Aug-01,23,Honduras
+Aug-01,24,Uruguay
+Aug-01,27,Japan
+Aug-01,30,Belgium
+Aug-01,31,Costa Rica
+Aug-01,34,Nigeria
+Aug-01,35,Chile
+Aug-01,37,Cameroon
+Aug-01,42,South Korea
+Aug-01,45,Ivory Coast
+Aug-01,46,Iran
+Aug-01,47,Ecuador
+Aug-01,51,Australia
+Aug-01,56,Greece
+Aug-01,59,Ghana
+Aug-01,60,Switzerland
+Aug-01,73,Algeria
+Aug-01,78,Bosnia-Herzegovina
+Sep-01,1,France
+Sep-01,2,Brazil
+Sep-01,3,Argentina
+Sep-01,4,Italy
+Sep-01,5,Portugal
+Sep-01,6,Spain
+Sep-01,7,Colombia
+Sep-01,8,Netherlands
+Sep-01,9,England
+Sep-01,10,Mexico
+Sep-01,12,Germany
+Sep-01,16,Croatia
+Sep-01,19,United States
+Sep-01,20,Honduras
+Sep-01,21,Uruguay
+Sep-01,24,Russia
+Sep-01,26,Belgium
+Sep-01,28,Japan
+Sep-01,29,Costa Rica
+Sep-01,37,Chile
+Sep-01,38,Iran
+Sep-01,39,Cameroon
+Sep-01,40,Nigeria
+Sep-01,43,South Korea
+Sep-01,45,Ivory Coast
+Sep-01,46,Ecuador
+Sep-01,51,Australia
+Sep-01,56,Switzerland
+Sep-01,57,Ghana
+Sep-01,61,Greece
+Sep-01,73,Algeria
+Sep-01,76,Bosnia-Herzegovina
+Oct-01,1,France
+Oct-01,2,Brazil
+Oct-01,3,Argentina
+Oct-01,4,Italy
+Oct-01,5,Portugal
+Oct-01,6,Spain
+Oct-01,7,Netherlands
+Oct-01,8,Colombia
+Oct-01,9,England
+Oct-01,11,Mexico
+Oct-01,14,Germany
+Oct-01,16,Croatia
+Oct-01,19,United States
+Oct-01,21,Russia
+Oct-01,23,Uruguay
+Oct-01,24,Honduras
+Oct-01,26,Japan
+Oct-01,29,Costa Rica
+Oct-01,33,Belgium
+Oct-01,35,Iran
+Oct-01,37,Chile
+Oct-01,38,Cameroon
+Oct-01,39,Ecuador
+Oct-01,42,Nigeria
+Oct-01,43,South Korea
+Oct-01,46,Ivory Coast
+Oct-01,48,Australia
+Oct-01,57,Greece
+Oct-01,60,Ghana
+Oct-01,63,Switzerland
+Oct-01,70,Bosnia-Herzegovina
+Oct-01,75,Algeria
+Nov-01,1,France
+Nov-01,2,Argentina
+Nov-01,3,Brazil
+Nov-01,4,Portugal
+Nov-01,5,Colombia
+Nov-01,6,Italy
+Nov-01,7,Spain
+Nov-01,8,Netherlands
+Nov-01,9,Mexico
+Nov-01,10,England
+Nov-01,11,Germany
+Nov-01,19,Croatia
+Nov-01,20,Belgium
+Nov-01,21,United States
+Nov-01,22,Russia
+Nov-01,24,Uruguay
+Nov-01,26,Honduras
+Nov-01,29,Iran
+Nov-01,31,Costa Rica
+Nov-01,35,Japan
+Nov-01,37,Ecuador
+Nov-01,38,Cameroon
+Nov-01,39,Chile
+Nov-01,40,Nigeria
+Nov-01,43,South Korea
+Nov-01,46,Ivory Coast
+Nov-01,50,Australia
+Nov-01,57,Greece
+Nov-01,58,Ghana
+Nov-01,65,Switzerland
+Nov-01,71,Bosnia-Herzegovina
+Nov-01,75,Algeria
+Dec-01,1,France
+Dec-01,2,Argentina
+Dec-01,3,Brazil
+Dec-01,4,Portugal
+Dec-01,5,Colombia
+Dec-01,6,Italy
+Dec-01,7,Spain
+Dec-01,8,Netherlands
+Dec-01,9,Mexico
+Dec-01,10,England
+Dec-01,12,Germany
+Dec-01,19,Croatia
+Dec-01,20,Belgium
+Dec-01,21,Russia
+Dec-01,22,Uruguay
+Dec-01,24,United States
+Dec-01,27,Honduras
+Dec-01,29,Iran
+Dec-01,30,Costa Rica
+Dec-01,34,Japan
+Dec-01,37,Ecuador
+Dec-01,38,Cameroon
+Dec-01,39,Chile
+Dec-01,40,Nigeria
+Dec-01,42,South Korea
+Dec-01,44,Ivory Coast
+Dec-01,48,Australia
+Dec-01,57,Greece
+Dec-01,59,Ghana
+Dec-01,63,Switzerland
+Dec-01,69,Bosnia-Herzegovina
+Dec-01,75,Algeria
+Jan-02,1,France
+Jan-02,2,Argentina
+Jan-02,3,Brazil
+Jan-02,4,Portugal
+Jan-02,5,Colombia
+Jan-02,6,Italy
+Jan-02,7,Spain
+Jan-02,8,Netherlands
+Jan-02,9,Mexico
+Jan-02,10,England
+Jan-02,12,Germany
+Jan-02,19,Croatia
+Jan-02,20,Belgium
+Jan-02,21,Russia
+Jan-02,22,Uruguay
+Jan-02,24,United States
+Jan-02,25,Honduras
+Jan-02,29,Iran
+Jan-02,30,Costa Rica
+Jan-02,35,Japan
+Jan-02,37,Cameroon
+Jan-02,38,Ecuador
+Jan-02,39,Chile
+Jan-02,40,Nigeria
+Jan-02,42,South Korea
+Jan-02,44,Ivory Coast
+Jan-02,48,Australia
+Jan-02,57,Greece
+Jan-02,61,Ghana
+Jan-02,65,Switzerland
+Jan-02,71,Bosnia-Herzegovina
+Jan-02,74,Algeria
+Feb-02,1,France
+Feb-02,2,Argentina
+Feb-02,3,Brazil
+Feb-02,4,Portugal
+Feb-02,5,Colombia
+Feb-02,6,Italy
+Feb-02,7,Spain
+Feb-02,8,Netherlands
+Feb-02,9,Mexico
+Feb-02,10,England
+Feb-02,12,Germany
+Feb-02,13,United States
+Feb-02,18,Cameroon
+Feb-02,21,Croatia
+Feb-02,22,Belgium
+Feb-02,23,Russia
+Feb-02,24,Uruguay
+Feb-02,26,Costa Rica
+Feb-02,27,Honduras
+Feb-02,31,Nigeria
+Feb-02,32,Iran
+Feb-02,37,Ecuador
+Feb-02,38,Japan
+Feb-02,41,South Korea
+Feb-02,42,Chile
+Feb-02,46,Ivory Coast
+Feb-02,49,Australia
+Feb-02,56,Ghana
+Feb-02,59,Greece
+Feb-02,67,Switzerland
+Feb-02,72,Bosnia-Herzegovina
+Feb-02,76,Algeria
+Mar-02,1,France
+Mar-02,2,Argentina
+Mar-02,3,Brazil
+Mar-02,4,Italy
+Mar-02,5,Colombia
+Mar-02,6,Portugal
+Mar-02,7,Spain
+Mar-02,8,Mexico
+Mar-02,9,Netherlands
+Mar-02,10,Germany
+Mar-02,12,England
+Mar-02,13,United States
+Mar-02,19,Cameroon
+Mar-02,21,Belgium
+Mar-02,22,Uruguay
+Mar-02,23,Croatia
+Mar-02,24,Russia
+Mar-02,26,Honduras
+Mar-02,27,Costa Rica
+Mar-02,31,Iran
+Mar-02,32,Nigeria
+Mar-02,37,Ecuador
+Mar-02,38,Japan
+Mar-02,41,South Korea
+Mar-02,43,Chile
+Mar-02,48,Ivory Coast
+Mar-02,49,Australia
+Mar-02,54,Ghana
+Mar-02,59,Greece
+Mar-02,62,Switzerland
+Mar-02,73,Bosnia-Herzegovina
+Mar-02,77,Algeria
+Apr-02,1,France
+Apr-02,2,Brazil
+Apr-02,3,Argentina
+Apr-02,4,Colombia
+Apr-02,5,Portugal
+Apr-02,6,Italy
+Apr-02,7,Mexico
+Apr-02,8,Spain
+Apr-02,9,Netherlands
+Apr-02,11,England
+Apr-02,12,Germany
+Apr-02,13,United States
+Apr-02,18,Cameroon
+Apr-02,21,Uruguay
+Apr-02,22,Belgium
+Apr-02,23,Croatia
+Apr-02,24,Russia
+Apr-02,26,Honduras
+Apr-02,27,Costa Rica
+Apr-02,29,Nigeria
+Apr-02,32,Iran
+Apr-02,33,Japan
+Apr-02,36,Ecuador
+Apr-02,41,South Korea
+Apr-02,44,Chile
+Apr-02,46,Ivory Coast
+Apr-02,48,Australia
+Apr-02,54,Greece
+Apr-02,57,Ghana
+Apr-02,65,Switzerland
+Apr-02,73,Bosnia-Herzegovina
+Apr-02,78,Algeria
+May-02,1,France
+May-02,2,Brazil
+May-02,3,Argentina
+May-02,4,Colombia
+May-02,5,Portugal
+May-02,6,Italy
+May-02,7,Mexico
+May-02,8,Spain
+May-02,9,Netherlands
+May-02,11,Germany
+May-02,12,England
+May-02,13,United States
+May-02,17,Cameroon
+May-02,21,Croatia
+May-02,23,Belgium
+May-02,24,Uruguay
+May-02,26,Honduras
+May-02,27,Nigeria
+May-02,28,Russia
+May-02,29,Costa Rica
+May-02,30,Iran
+May-02,32,Japan
+May-02,36,Ecuador
+May-02,40,South Korea
+May-02,45,Chile
+May-02,46,Ivory Coast
+May-02,48,Australia
+May-02,52,Ghana
+May-02,53,Greece
+May-02,64,Switzerland
+May-02,72,Bosnia-Herzegovina
+May-02,79,Algeria
+Jul-02,1,Brazil
+Jul-02,2,Argentina
+Jul-02,3,France
+Jul-02,4,Spain
+Jul-02,5,Germany
+Jul-02,6,Mexico
+Jul-02,7,Portugal
+Jul-02,8,England
+Jul-02,9,Colombia
+Jul-02,10,Italy
+Jul-02,11,United States
+Jul-02,15,Netherlands
+Jul-02,17,Cameroon
+Jul-02,19,Belgium
+Jul-02,22,South Korea
+Jul-02,23,Uruguay
+Jul-02,24,Japan
+Jul-02,26,Costa Rica
+Jul-02,27,Croatia
+Jul-02,28,Russia
+Jul-02,29,Nigeria
+Jul-02,30,Honduras
+Jul-02,31,Ecuador
+Jul-02,33,Iran
+Jul-02,45,Chile
+Jul-02,47,Ivory Coast
+Jul-02,49,Greece
+Jul-02,50,Australia
+Jul-02,57,Ghana
+Jul-02,64,Switzerland
+Jul-02,73,Bosnia-Herzegovina
+Jul-02,79,Algeria
+Aug-02,1,Brazil
+Aug-02,2,Argentina
+Aug-02,3,Spain
+Aug-02,4,France
+Aug-02,5,Germany
+Aug-02,6,Mexico
+Aug-02,7,England
+Aug-02,8,Portugal
+Aug-02,9,Italy
+Aug-02,10,United States
+Aug-02,14,Netherlands
+Aug-02,15,Colombia
+Aug-02,17,Cameroon
+Aug-02,18,Belgium
+Aug-02,22,South Korea
+Aug-02,23,Japan
+Aug-02,24,Uruguay
+Aug-02,25,Costa Rica
+Aug-02,26,Croatia
+Aug-02,28,Nigeria
+Aug-02,30,Russia
+Aug-02,31,Ecuador
+Aug-02,33,Iran
+Aug-02,38,Honduras
+Aug-02,46,Australia
+Aug-02,48,Ivory Coast
+Aug-02,49,Greece
+Aug-02,50,Chile
+Aug-02,56,Ghana
+Aug-02,65,Switzerland
+Aug-02,77,Bosnia-Herzegovina
+Aug-02,82,Algeria
+Sep-02,1,Brazil
+Sep-02,2,France
+Sep-02,3,Spain
+Sep-02,4,Germany
+Sep-02,5,Argentina
+Sep-02,6,Mexico
+Sep-02,8,United States
+Sep-02,9,England
+Sep-02,10,Italy
+Sep-02,11,Portugal
+Sep-02,12,Netherlands
+Sep-02,15,Cameroon
+Sep-02,18,Colombia
+Sep-02,19,Belgium
+Sep-02,21,South Korea
+Sep-02,23,Uruguay
+Sep-02,24,Russia
+Sep-02,25,Costa Rica
+Sep-02,27,Japan
+Sep-02,29,Croatia
+Sep-02,30,Nigeria
+Sep-02,31,Ecuador
+Sep-02,34,Iran
+Sep-02,40,Honduras
+Sep-02,43,Australia
+Sep-02,46,Greece
+Sep-02,49,Ivory Coast
+Sep-02,55,Switzerland
+Sep-02,57,Chile
+Sep-02,61,Ghana
+Sep-02,74,Algeria
+Sep-02,83,Bosnia-Herzegovina
+Oct-02,1,Brazil
+Oct-02,2,France
+Oct-02,3,Spain
+Oct-02,4,Germany
+Oct-02,5,Argentina
+Oct-02,6,England
+Oct-02,7,Mexico
+Oct-02,9,Netherlands
+Oct-02,10,United States
+Oct-02,11,Italy
+Oct-02,12,Portugal
+Oct-02,17,Belgium
+Oct-02,19,Cameroon
+Oct-02,20,South Korea
+Oct-02,22,Colombia
+Oct-02,23,Russia
+Oct-02,25,Uruguay
+Oct-02,26,Costa Rica
+Oct-02,27,Japan
+Oct-02,28,Nigeria
+Oct-02,32,Ecuador
+Oct-02,33,Iran
+Oct-02,35,Croatia
+Oct-02,41,Honduras
+Oct-02,44,Australia
+Oct-02,45,Switzerland
+Oct-02,48,Greece
+Oct-02,58,Ivory Coast
+Oct-02,59,Ghana
+Oct-02,67,Chile
+Oct-02,69,Algeria
+Oct-02,80,Bosnia-Herzegovina
+Nov-02,1,Brazil
+Nov-02,2,France
+Nov-02,3,Spain
+Nov-02,4,Germany
+Nov-02,5,Argentina
+Nov-02,6,England
+Nov-02,7,Mexico
+Nov-02,9,United States
+Nov-02,10,Netherlands
+Nov-02,11,Italy
+Nov-02,12,Portugal
+Nov-02,17,Cameroon
+Nov-02,18,Belgium
+Nov-02,20,South Korea
+Nov-02,22,Japan
+Nov-02,23,Uruguay
+Nov-02,24,Russia
+Nov-02,26,Costa Rica
+Nov-02,27,Nigeria
+Nov-02,30,Colombia
+Nov-02,32,Ecuador
+Nov-02,34,Iran
+Nov-02,36,Croatia
+Nov-02,43,Honduras
+Nov-02,45,Switzerland
+Nov-02,47,Australia
+Nov-02,48,Greece
+Nov-02,59,Ghana
+Nov-02,60,Ivory Coast
+Nov-02,65,Algeria
+Nov-02,72,Chile
+Nov-02,82,Bosnia-Herzegovina
+Dec-02,1,Brazil
+Dec-02,2,France
+Dec-02,3,Spain
+Dec-02,4,Germany
+Dec-02,5,Argentina
+Dec-02,6,Netherlands
+Dec-02,7,England
+Dec-02,8,Mexico
+Dec-02,10,United States
+Dec-02,11,Portugal
+Dec-02,13,Italy
+Dec-02,16,Cameroon
+Dec-02,17,Belgium
+Dec-02,20,South Korea
+Dec-02,21,Costa Rica
+Dec-02,22,Japan
+Dec-02,23,Russia
+Dec-02,28,Uruguay
+Dec-02,29,Nigeria
+Dec-02,31,Ecuador
+Dec-02,32,Croatia
+Dec-02,33,Iran
+Dec-02,37,Colombia
+Dec-02,40,Honduras
+Dec-02,44,Switzerland
+Dec-02,48,Greece
+Dec-02,50,Australia
+Dec-02,61,Ghana
+Dec-02,64,Ivory Coast
+Dec-02,68,Algeria
+Dec-02,84,Chile
+Dec-02,87,Bosnia-Herzegovina
+Feb-03,1,Brazil
+Feb-03,2,France
+Feb-03,3,Spain
+Feb-03,4,Argentina
+Feb-03,5,Germany
+Feb-03,6,Netherlands
+Feb-03,8,England
+Feb-03,9,Mexico
+Feb-03,10,United States
+Feb-03,12,Portugal
+Feb-03,13,Italy
+Feb-03,16,Belgium
+Feb-03,17,Cameroon
+Feb-03,20,South Korea
+Feb-03,21,Russia
+Feb-03,22,Costa Rica
+Feb-03,24,Japan
+Feb-03,28,Uruguay
+Feb-03,29,Nigeria
+Feb-03,31,Ecuador
+Feb-03,32,Iran
+Feb-03,33,Croatia
+Feb-03,37,Colombia
+Feb-03,40,Honduras
+Feb-03,41,Switzerland
+Feb-03,47,Australia
+Feb-03,48,Greece
+Feb-03,59,Ghana
+Feb-03,65,Algeria
+Feb-03,66,Ivory Coast
+Feb-03,79,Chile
+Feb-03,87,Bosnia-Herzegovina
+Mar-03,1,Brazil
+Mar-03,2,Spain
+Mar-03,3,France
+Mar-03,4,Argentina
+Mar-03,5,Germany
+Mar-03,6,Netherlands
+Mar-03,8,Mexico
+Mar-03,9,England
+Mar-03,10,United States
+Mar-03,12,Portugal
+Mar-03,13,Italy
+Mar-03,16,Belgium
+Mar-03,17,Cameroon
+Mar-03,19,South Korea
+Mar-03,21,Costa Rica
+Mar-03,22,Russia
+Mar-03,25,Japan
+Mar-03,27,Uruguay
+Mar-03,29,Ecuador
+Mar-03,30,Nigeria
+Mar-03,32,Iran
+Mar-03,34,Croatia
+Mar-03,37,Colombia
+Mar-03,39,Honduras
+Mar-03,41,Switzerland
+Mar-03,45,Australia
+Mar-03,48,Greece
+Mar-03,61,Ghana
+Mar-03,67,Algeria
+Mar-03,68,Ivory Coast
+Mar-03,77,Chile
+Mar-03,88,Bosnia-Herzegovina
+Apr-03,1,Brazil
+Apr-03,2,Spain
+Apr-03,3,France
+Apr-03,4,Germany
+Apr-03,5,Netherlands
+Apr-03,6,Argentina
+Apr-03,7,England
+Apr-03,9,Mexico
+Apr-03,10,United States
+Apr-03,12,Portugal
+Apr-03,14,Italy
+Apr-03,16,Belgium
+Apr-03,17,Cameroon
+Apr-03,18,Costa Rica
+Apr-03,21,South Korea
+Apr-03,24,Russia
+Apr-03,25,Japan
+Apr-03,26,Croatia
+Apr-03,27,Uruguay
+Apr-03,32,Nigeria
+Apr-03,33,Ecuador
+Apr-03,34,Iran
+Apr-03,35,Colombia
+Apr-03,40,Honduras
+Apr-03,43,Switzerland
+Apr-03,46,Greece
+Apr-03,48,Australia
+Apr-03,64,Ghana
+Apr-03,67,Ivory Coast
+Apr-03,70,Algeria
+Apr-03,72,Bosnia-Herzegovina
+Apr-03,80,Chile
+May-03,1,Brazil
+May-03,2,Spain
+May-03,3,France
+May-03,4,Germany
+May-03,5,Argentina
+May-03,6,Netherlands
+May-03,7,England
+May-03,9,Mexico
+May-03,10,United States
+May-03,12,Italy
+May-03,14,Portugal
+May-03,16,Belgium
+May-03,17,Costa Rica
+May-03,18,Cameroon
+May-03,21,South Korea
+May-03,23,Japan
+May-03,25,Russia
+May-03,26,Croatia
+May-03,28,Uruguay
+May-03,32,Nigeria
+May-03,33,Ecuador
+May-03,34,Iran
+May-03,37,Honduras
+May-03,39,Colombia
+May-03,43,Switzerland
+May-03,45,Greece
+May-03,49,Australia
+May-03,60,Ivory Coast
+May-03,66,Algeria
+May-03,67,Ghana
+May-03,72,Bosnia-Herzegovina
+May-03,73,Chile
+Jun-03,1,Brazil
+Jun-03,2,France
+Jun-03,3,Spain
+Jun-03,4,Argentina
+Jun-03,5,Netherlands
+Jun-03,6,Germany
+Jun-03,8,England
+Jun-03,9,United States
+Jun-03,11,Mexico
+Jun-03,12,Italy
+Jun-03,15,Portugal
+Jun-03,16,Cameroon
+Jun-03,17,Belgium
+Jun-03,19,Costa Rica
+Jun-03,22,Colombia
+Jun-03,24,South Korea
+Jun-03,25,Japan
+Jun-03,26,Croatia
+Jun-03,30,Russia
+Jun-03,31,Nigeria
+Jun-03,32,Uruguay
+Jun-03,35,Greece
+Jun-03,36,Ecuador
+Jun-03,40,Switzerland
+Jun-03,41,Iran
+Jun-03,43,Honduras
+Jun-03,50,Australia
+Jun-03,52,Ivory Coast
+Jun-03,68,Algeria
+Jun-03,69,Ghana
+Jun-03,71,Chile
+Jun-03,75,Bosnia-Herzegovina
+Jul-03,1,Brazil
+Jul-03,2,France
+Jul-03,3,Spain
+Jul-03,4,Netherlands
+Jul-03,5,Mexico
+Jul-03,6,Argentina
+Jul-03,8,Germany
+Jul-03,9,United States
+Jul-03,10,England
+Jul-03,12,Cameroon
+Jul-03,14,Italy
+Jul-03,16,Portugal
+Jul-03,17,Costa Rica
+Jul-03,18,Belgium
+Jul-03,22,Colombia
+Jul-03,24,Japan
+Jul-03,25,Croatia
+Jul-03,26,Uruguay
+Jul-03,27,South Korea
+Jul-03,29,Nigeria
+Jul-03,32,Russia
+Jul-03,34,Greece
+Jul-03,38,Ecuador
+Jul-03,40,Switzerland
+Jul-03,41,Honduras
+Jul-03,42,Iran
+Jul-03,52,Ivory Coast
+Jul-03,63,Australia
+Jul-03,69,Algeria
+Jul-03,71,Ghana
+Jul-03,74,Chile
+Jul-03,80,Bosnia-Herzegovina
+Aug-03,1,Brazil
+Aug-03,2,France
+Aug-03,3,Spain
+Aug-03,4,Netherlands
+Aug-03,5,Mexico
+Aug-03,6,Argentina
+Aug-03,8,England
+Aug-03,9,United States
+Aug-03,10,Germany
+Aug-03,11,Italy
+Aug-03,14,Cameroon
+Aug-03,16,Portugal
+Aug-03,17,Costa Rica
+Aug-03,18,Belgium
+Aug-03,23,Japan
+Aug-03,24,Colombia
+Aug-03,25,Uruguay
+Aug-03,26,Croatia
+Aug-03,27,Nigeria
+Aug-03,29,South Korea
+Aug-03,31,Greece
+Aug-03,37,Ecuador
+Aug-03,38,Russia
+Aug-03,40,Honduras
+Aug-03,41,Switzerland
+Aug-03,47,Iran
+Aug-03,54,Ivory Coast
+Aug-03,68,Australia
+Aug-03,70,Algeria
+Aug-03,73,Chile
+Aug-03,75,Ghana
+Aug-03,77,Bosnia-Herzegovina
+Sep-03,1,Brazil
+Sep-03,2,France
+Sep-03,3,Spain
+Sep-03,4,Argentina
+Sep-03,5,Mexico
+Sep-03,6,England
+Sep-03,7,Netherlands
+Sep-03,9,Germany
+Sep-03,11,United States
+Sep-03,12,Italy
+Sep-03,13,Cameroon
+Sep-03,16,Belgium
+Sep-03,17,Portugal
+Sep-03,19,Costa Rica
+Sep-03,22,Uruguay
+Sep-03,23,Croatia
+Sep-03,24,Japan
+Sep-03,26,Greece
+Sep-03,28,Colombia
+Sep-03,29,Russia
+Sep-03,30,Nigeria
+Sep-03,34,Ecuador
+Sep-03,39,South Korea
+Sep-03,41,Honduras
+Sep-03,44,Switzerland
+Sep-03,45,Iran
+Sep-03,59,Chile
+Sep-03,60,Bosnia-Herzegovina
+Sep-03,61,Ivory Coast
+Sep-03,63,Australia
+Sep-03,71,Algeria
+Sep-03,75,Ghana
+Oct-03,1,Brazil
+Oct-03,2,France
+Oct-03,3,Spain
+Oct-03,4,Argentina
+Oct-03,5,Netherlands
+Oct-03,6,England
+Oct-03,7,Germany
+Oct-03,8,Italy
+Oct-03,9,Mexico
+Oct-03,12,United States
+Oct-03,13,Cameroon
+Oct-03,16,Belgium
+Oct-03,17,Portugal
+Oct-03,19,Costa Rica
+Oct-03,20,Croatia
+Oct-03,22,Uruguay
+Oct-03,23,South Korea
+Oct-03,25,Japan
+Oct-03,27,Greece
+Oct-03,28,Russia
+Oct-03,32,Nigeria
+Oct-03,35,Ecuador
+Oct-03,36,Colombia
+Oct-03,42,Iran
+Oct-03,43,Switzerland
+Oct-03,44,Honduras
+Oct-03,53,Bosnia-Herzegovina
+Oct-03,61,Chile
+Oct-03,62,Algeria
+Oct-03,64,Ivory Coast
+Oct-03,75,Australia
+Oct-03,82,Ghana
+Nov-03,1,Brazil
+Nov-03,2,France
+Nov-03,3,Spain
+Nov-03,4,Argentina
+Nov-03,5,Mexico
+Nov-03,6,Netherlands
+Nov-03,8,England
+Nov-03,9,Germany
+Nov-03,11,Italy
+Nov-03,12,United States
+Nov-03,14,Cameroon
+Nov-03,16,Belgium
+Nov-03,18,Portugal
+Nov-03,19,Costa Rica
+Nov-03,20,Croatia
+Nov-03,21,Uruguay
+Nov-03,22,South Korea
+Nov-03,28,Japan
+Nov-03,29,Russia
+Nov-03,30,Greece
+Nov-03,33,Nigeria
+Nov-03,35,Iran
+Nov-03,36,Ecuador
+Nov-03,41,Colombia
+Nov-03,43,Switzerland
+Nov-03,45,Honduras
+Nov-03,54,Bosnia-Herzegovina
+Nov-03,61,Algeria
+Nov-03,66,Ivory Coast
+Nov-03,70,Chile
+Nov-03,78,Australia
+Nov-03,79,Ghana
+Dec-03,1,Brazil
+Dec-03,2,France
+Dec-03,3,Spain
+Dec-03,4,Netherlands
+Dec-03,5,Argentina
+Dec-03,7,Mexico
+Dec-03,9,England
+Dec-03,10,Italy
+Dec-03,11,United States
+Dec-03,12,Germany
+Dec-03,15,Cameroon
+Dec-03,16,Belgium
+Dec-03,17,Costa Rica
+Dec-03,18,Portugal
+Dec-03,20,Croatia
+Dec-03,21,Uruguay
+Dec-03,23,South Korea
+Dec-03,24,Russia
+Dec-03,28,Iran
+Dec-03,29,Japan
+Dec-03,30,Greece
+Dec-03,35,Nigeria
+Dec-03,37,Ecuador
+Dec-03,39,Colombia
+Dec-03,44,Switzerland
+Dec-03,49,Honduras
+Dec-03,59,Bosnia-Herzegovina
+Dec-03,63,Algeria
+Dec-03,70,Ivory Coast
+Dec-03,79,Ghana
+Dec-03,80,Chile
+Dec-03,82,Australia
+Jan-04,1,Brazil
+Jan-04,2,France
+Jan-04,3,Spain
+Jan-04,4,Netherlands
+Jan-04,5,Argentina
+Jan-04,7,Mexico
+Jan-04,9,England
+Jan-04,10,Italy
+Jan-04,11,United States
+Jan-04,12,Germany
+Jan-04,14,Cameroon
+Jan-04,16,Belgium
+Jan-04,17,Costa Rica
+Jan-04,18,Portugal
+Jan-04,20,Croatia
+Jan-04,21,Uruguay
+Jan-04,22,South Korea
+Jan-04,24,Russia
+Jan-04,28,Iran
+Jan-04,29,Japan
+Jan-04,30,Greece
+Jan-04,35,Nigeria
+Jan-04,37,Ecuador
+Jan-04,39,Colombia
+Jan-04,44,Switzerland
+Jan-04,47,Honduras
+Jan-04,58,Bosnia-Herzegovina
+Jan-04,63,Algeria
+Jan-04,70,Ivory Coast
+Jan-04,79,Ghana
+Jan-04,80,Chile
+Jan-04,81,Australia
+Feb-04,1,Brazil
+Feb-04,2,France
+Feb-04,3,Spain
+Feb-04,4,Netherlands
+Feb-04,5,Mexico
+Feb-04,6,Argentina
+Feb-04,7,England
+Feb-04,10,Italy
+Feb-04,11,United States
+Feb-04,12,Germany
+Feb-04,13,Cameroon
+Feb-04,16,Belgium
+Feb-04,17,Portugal
+Feb-04,18,Costa Rica
+Feb-04,19,Croatia
+Feb-04,21,Nigeria
+Feb-04,22,Uruguay
+Feb-04,23,South Korea
+Feb-04,25,Russia
+Feb-04,28,Japan
+Feb-04,31,Iran
+Feb-04,36,Greece
+Feb-04,40,Ecuador
+Feb-04,41,Colombia
+Feb-04,45,Switzerland
+Feb-04,50,Honduras
+Feb-04,52,Algeria
+Feb-04,61,Bosnia-Herzegovina
+Feb-04,72,Ivory Coast
+Feb-04,80,Ghana
+Feb-04,81,Chile
+Feb-04,83,Australia
+Mar-04,1,Brazil
+Mar-04,2,France
+Mar-04,3,Spain
+Mar-04,4,Netherlands
+Mar-04,5,Mexico
+Mar-04,6,Argentina
+Mar-04,7,England
+Mar-04,10,Germany
+Mar-04,11,Italy
+Mar-04,12,United States
+Mar-04,13,Cameroon
+Mar-04,16,Belgium
+Mar-04,17,Portugal
+Mar-04,18,Costa Rica
+Mar-04,19,Nigeria
+Mar-04,20,Croatia
+Mar-04,22,South Korea
+Mar-04,23,Uruguay
+Mar-04,25,Iran
+Mar-04,27,Japan
+Mar-04,29,Russia
+Mar-04,34,Greece
+Mar-04,40,Ecuador
+Mar-04,41,Colombia
+Mar-04,45,Switzerland
+Mar-04,50,Honduras
+Mar-04,53,Algeria
+Mar-04,62,Bosnia-Herzegovina
+Mar-04,75,Ivory Coast
+Mar-04,80,Chile
+Mar-04,83,Ghana
+Mar-04,85,Australia
+Apr-04,1,Brazil
+Apr-04,2,France
+Apr-04,3,Spain
+Apr-04,4,Mexico
+Apr-04,5,Argentina
+Apr-04,6,Netherlands
+Apr-04,7,Germany
+Apr-04,10,England
+Apr-04,11,Italy
+Apr-04,12,United States
+Apr-04,13,Cameroon
+Apr-04,16,Belgium
+Apr-04,17,Iran
+Apr-04,18,Portugal
+Apr-04,19,Costa Rica
+Apr-04,20,South Korea
+Apr-04,21,Nigeria
+Apr-04,24,Croatia
+Apr-04,25,Uruguay
+Apr-04,26,Japan
+Apr-04,29,Russia
+Apr-04,33,Greece
+Apr-04,37,Colombia
+Apr-04,41,Ecuador
+Apr-04,47,Switzerland
+Apr-04,52,Honduras
+Apr-04,54,Algeria
+Apr-04,63,Bosnia-Herzegovina
+Apr-04,71,Chile
+Apr-04,75,Ivory Coast
+Apr-04,84,Ghana
+Apr-04,86,Australia
+May-04,1,Brazil
+May-04,2,France
+May-04,3,Spain
+May-04,4,Netherlands
+May-04,5,Argentina
+May-04,6,Mexico
+May-04,8,United States
+May-04,9,Germany
+May-04,11,Italy
+May-04,12,Cameroon
+May-04,13,England
+May-04,16,Nigeria
+May-04,17,Belgium
+May-04,18,Iran
+May-04,19,South Korea
+May-04,20,Portugal
+May-04,22,Costa Rica
+May-04,25,Croatia
+May-04,26,Japan
+May-04,28,Uruguay
+May-04,30,Russia
+May-04,35,Greece
+May-04,36,Colombia
+May-04,41,Ecuador
+May-04,47,Switzerland
+May-04,51,Honduras
+May-04,53,Algeria
+May-04,61,Bosnia-Herzegovina
+May-04,75,Ivory Coast
+May-04,77,Chile
+May-04,84,Ghana
+May-04,89,Australia
+Jun-04,1,Brazil
+Jun-04,2,France
+Jun-04,3,Spain
+Jun-04,4,Mexico
+Jun-04,5,Argentina
+Jun-04,6,Netherlands
+Jun-04,8,Germany
+Jun-04,9,United States
+Jun-04,10,Italy
+Jun-04,12,Cameroon
+Jun-04,13,England
+Jun-04,16,Nigeria
+Jun-04,17,Belgium
+Jun-04,19,Iran
+Jun-04,20,Croatia
+Jun-04,21,South Korea
+Jun-04,22,Portugal
+Jun-04,23,Japan
+Jun-04,26,Costa Rica
+Jun-04,30,Uruguay
+Jun-04,32,Russia
+Jun-04,35,Greece
+Jun-04,37,Colombia
+Jun-04,38,Ecuador
+Jun-04,47,Switzerland
+Jun-04,49,Australia
+Jun-04,52,Algeria
+Jun-04,55,Honduras
+Jun-04,64,Bosnia-Herzegovina
+Jun-04,65,Chile
+Jun-04,69,Ivory Coast
+Jun-04,89,Ghana
+Jul-04,1,Brazil
+Jul-04,2,France
+Jul-04,3,Spain
+Jul-04,5,Netherlands
+Jul-04,6,Mexico
+Jul-04,7,United States
+Jul-04,8,England
+Jul-04,9,Italy
+Jul-04,11,Argentina
+Jul-04,12,Portugal
+Jul-04,13,Germany
+Jul-04,14,Greece
+Jul-04,16,Cameroon
+Jul-04,18,Nigeria
+Jul-04,20,South Korea
+Jul-04,21,Iran
+Jul-04,23,Croatia
+Jul-04,24,Japan
+Jul-04,25,Belgium
+Jul-04,26,Russia
+Jul-04,30,Costa Rica
+Jul-04,33,Uruguay
+Jul-04,36,Colombia
+Jul-04,37,Ecuador
+Jul-04,45,Switzerland
+Jul-04,52,Australia
+Jul-04,54,Honduras
+Jul-04,57,Algeria
+Jul-04,62,Ivory Coast
+Jul-04,66,Chile
+Jul-04,72,Ghana
+Jul-04,73,Bosnia-Herzegovina
+Aug-04,1,Brazil
+Aug-04,2,France
+Aug-04,3,Spain
+Aug-04,4,Argentina
+Aug-04,6,Netherlands
+Aug-04,7,England
+Aug-04,8,Mexico
+Aug-04,9,Italy
+Aug-04,11,United States
+Aug-04,12,Portugal
+Aug-04,13,Germany
+Aug-04,14,Greece
+Aug-04,16,Cameroon
+Aug-04,18,Nigeria
+Aug-04,19,Uruguay
+Aug-04,20,Japan
+Aug-04,22,South Korea
+Aug-04,24,Iran
+Aug-04,25,Croatia
+Aug-04,27,Russia
+Aug-04,28,Colombia
+Aug-04,29,Costa Rica
+Aug-04,31,Belgium
+Aug-04,39,Ecuador
+Aug-04,47,Switzerland
+Aug-04,57,Australia
+Aug-04,58,Algeria
+Aug-04,59,Honduras
+Aug-04,64,Ivory Coast
+Aug-04,67,Chile
+Aug-04,70,Ghana
+Aug-04,76,Bosnia-Herzegovina
+Sep-04,1,Brazil
+Sep-04,2,France
+Sep-04,3,Spain
+Sep-04,4,Argentina
+Sep-04,6,Netherlands
+Sep-04,7,England
+Sep-04,8,Mexico
+Sep-04,9,Italy
+Sep-04,10,United States
+Sep-04,11,Portugal
+Sep-04,12,Germany
+Sep-04,14,Greece
+Sep-04,17,Cameroon
+Sep-04,18,Japan
+Sep-04,19,Uruguay
+Sep-04,20,Nigeria
+Sep-04,21,Iran
+Sep-04,24,South Korea
+Sep-04,25,Croatia
+Sep-04,26,Russia
+Sep-04,28,Colombia
+Sep-04,30,Belgium
+Sep-04,34,Costa Rica
+Sep-04,42,Ecuador
+Sep-04,47,Honduras
+Sep-04,49,Switzerland
+Sep-04,58,Ivory Coast
+Sep-04,59,Australia
+Sep-04,62,Algeria
+Sep-04,66,Chile
+Sep-04,70,Bosnia-Herzegovina
+Sep-04,74,Ghana
+Oct-04,1,Brazil
+Oct-04,2,France
+Oct-04,3,Argentina
+Oct-04,4,Spain
+Oct-04,5,Netherlands
+Oct-04,7,England
+Oct-04,8,Portugal
+Oct-04,9,Italy
+Oct-04,10,Mexico
+Oct-04,11,United States
+Oct-04,13,Germany
+Oct-04,16,Greece
+Oct-04,17,Uruguay
+Oct-04,18,Nigeria
+Oct-04,19,Japan
+Oct-04,20,Iran
+Oct-04,21,Cameroon
+Oct-04,23,Croatia
+Oct-04,25,South Korea
+Oct-04,28,Colombia
+Oct-04,32,Costa Rica
+Oct-04,33,Russia
+Oct-04,35,Belgium
+Oct-04,42,Switzerland
+Oct-04,46,Ivory Coast
+Oct-04,48,Ecuador
+Oct-04,53,Honduras
+Oct-04,65,Australia
+Oct-04,66,Algeria
+Oct-04,72,Ghana
+Oct-04,79,Chile
+Oct-04,81,Bosnia-Herzegovina
+Nov-04,1,Brazil
+Nov-04,2,France
+Nov-04,3,Argentina
+Nov-04,4,Spain
+Nov-04,6,Netherlands
+Nov-04,7,England
+Nov-04,8,Mexico
+Nov-04,9,Portugal
+Nov-04,10,Italy
+Nov-04,11,United States
+Nov-04,16,Germany
+Nov-04,17,Greece
+Nov-04,18,Japan
+Nov-04,19,Uruguay
+Nov-04,20,Iran
+Nov-04,21,Nigeria
+Nov-04,22,Cameroon
+Nov-04,23,Croatia
+Nov-04,24,South Korea
+Nov-04,27,Costa Rica
+Nov-04,28,Colombia
+Nov-04,33,Russia
+Nov-04,38,Belgium
+Nov-04,42,Ivory Coast
+Nov-04,44,Ecuador
+Nov-04,46,Switzerland
+Nov-04,49,Australia
+Nov-04,58,Honduras
+Nov-04,70,Algeria
+Nov-04,75,Ghana
+Nov-04,79,Bosnia-Herzegovina
+Nov-04,80,Chile
+Dec-04,1,Brazil
+Dec-04,2,France
+Dec-04,3,Argentina
+Dec-04,5,Spain
+Dec-04,6,Netherlands
+Dec-04,7,Mexico
+Dec-04,8,England
+Dec-04,9,Portugal
+Dec-04,10,Italy
+Dec-04,11,United States
+Dec-04,16,Uruguay
+Dec-04,17,Japan
+Dec-04,18,Greece
+Dec-04,19,Germany
+Dec-04,20,Iran
+Dec-04,21,Nigeria
+Dec-04,22,South Korea
+Dec-04,23,Cameroon
+Dec-04,24,Croatia
+Dec-04,26,Colombia
+Dec-04,27,Costa Rica
+Dec-04,32,Russia
+Dec-04,39,Ecuador
+Dec-04,40,Ivory Coast
+Dec-04,45,Belgium
+Dec-04,52,Switzerland
+Dec-04,58,Australia
+Dec-04,59,Honduras
+Dec-04,73,Algeria
+Dec-04,74,Chile
+Dec-04,77,Ghana
+Dec-04,79,Bosnia-Herzegovina
+Jan-05,1,Brazil
+Jan-05,2,France
+Jan-05,3,Argentina
+Jan-05,5,Spain
+Jan-05,6,Netherlands
+Jan-05,7,Mexico
+Jan-05,8,England
+Jan-05,9,Portugal
+Jan-05,10,Italy
+Jan-05,11,United States
+Jan-05,16,Germany
+Jan-05,17,Uruguay
+Jan-05,18,Greece
+Jan-05,19,Japan
+Jan-05,20,Iran
+Jan-05,21,South Korea
+Jan-05,22,Nigeria
+Jan-05,23,Cameroon
+Jan-05,24,Croatia
+Jan-05,26,Colombia
+Jan-05,27,Costa Rica
+Jan-05,32,Russia
+Jan-05,39,Ecuador
+Jan-05,41,Ivory Coast
+Jan-05,44,Belgium
+Jan-05,52,Switzerland
+Jan-05,58,Australia
+Jan-05,59,Honduras
+Jan-05,74,Algeria
+Jan-05,75,Chile
+Jan-05,77,Ghana
+Jan-05,79,Bosnia-Herzegovina
+Feb-05,1,Brazil
+Feb-05,2,France
+Feb-05,3,Argentina
+Feb-05,5,Spain
+Feb-05,6,Mexico
+Feb-05,7,Netherlands
+Feb-05,8,England
+Feb-05,9,Portugal
+Feb-05,10,Italy
+Feb-05,11,United States
+Feb-05,13,Greece
+Feb-05,17,Germany
+Feb-05,18,Japan
+Feb-05,19,Uruguay
+Feb-05,20,Iran
+Feb-05,21,South Korea
+Feb-05,22,Nigeria
+Feb-05,23,Cameroon
+Feb-05,24,Croatia
+Feb-05,26,Colombia
+Feb-05,27,Costa Rica
+Feb-05,33,Russia
+Feb-05,37,Ecuador
+Feb-05,41,Ivory Coast
+Feb-05,44,Belgium
+Feb-05,49,Switzerland
+Feb-05,58,Australia
+Feb-05,59,Honduras
+Feb-05,74,Chile
+Feb-05,75,Algeria
+Feb-05,78,Bosnia-Herzegovina
+Feb-05,79,Ghana
+Mar-05,1,Brazil
+Mar-05,2,France
+Mar-05,3,Argentina
+Mar-05,5,Spain
+Mar-05,6,Mexico
+Mar-05,7,Netherlands
+Mar-05,8,England
+Mar-05,9,Portugal
+Mar-05,10,Italy
+Mar-05,11,United States
+Mar-05,14,Greece
+Mar-05,16,Uruguay
+Mar-05,18,Germany
+Mar-05,19,Japan
+Mar-05,20,Iran
+Mar-05,21,Costa Rica
+Mar-05,22,South Korea
+Mar-05,23,Nigeria
+Mar-05,24,Croatia
+Mar-05,25,Cameroon
+Mar-05,26,Colombia
+Mar-05,33,Russia
+Mar-05,36,Ecuador
+Mar-05,42,Ivory Coast
+Mar-05,49,Switzerland
+Mar-05,50,Honduras
+Mar-05,51,Belgium
+Mar-05,59,Australia
+Mar-05,74,Chile
+Mar-05,75,Algeria
+Mar-05,77,Bosnia-Herzegovina
+Mar-05,79,Ghana
+Apr-05,1,Brazil
+Apr-05,3,Argentina
+Apr-05,4,France
+Apr-05,5,Netherlands
+Apr-05,6,England
+Apr-05,7,Spain
+Apr-05,8,Mexico
+Apr-05,9,Portugal
+Apr-05,10,Italy
+Apr-05,11,United States
+Apr-05,12,Greece
+Apr-05,16,Uruguay
+Apr-05,17,Japan
+Apr-05,19,Iran
+Apr-05,20,Germany
+Apr-05,21,Croatia
+Apr-05,22,Costa Rica
+Apr-05,23,South Korea
+Apr-05,24,Nigeria
+Apr-05,26,Cameroon
+Apr-05,27,Colombia
+Apr-05,31,Russia
+Apr-05,34,Ecuador
+Apr-05,41,Belgium
+Apr-05,44,Ivory Coast
+Apr-05,45,Switzerland
+Apr-05,51,Honduras
+Apr-05,56,Australia
+Apr-05,76,Algeria
+Apr-05,77,Chile
+Apr-05,78,Ghana
+Apr-05,81,Bosnia-Herzegovina
+May-05,1,Brazil
+May-05,3,Argentina
+May-05,4,France
+May-05,5,Netherlands
+May-05,6,England
+May-05,7,Mexico
+May-05,8,Spain
+May-05,9,Portugal
+May-05,10,Italy
+May-05,11,United States
+May-05,12,Greece
+May-05,16,Uruguay
+May-05,17,Japan
+May-05,18,Iran
+May-05,20,Germany
+May-05,21,Costa Rica
+May-05,22,Croatia
+May-05,23,South Korea
+May-05,25,Nigeria
+May-05,26,Cameroon
+May-05,28,Colombia
+May-05,30,Russia
+May-05,34,Ecuador
+May-05,42,Belgium
+May-05,44,Ivory Coast
+May-05,45,Switzerland
+May-05,50,Honduras
+May-05,56,Australia
+May-05,75,Ghana
+May-05,76,Chile
+May-05,77,Algeria
+May-05,81,Bosnia-Herzegovina
+Jun-05,1,Brazil
+Jun-05,3,Argentina
+Jun-05,4,Netherlands
+Jun-05,5,France
+Jun-05,6,Mexico
+Jun-05,7,England
+Jun-05,8,Portugal
+Jun-05,9,Spain
+Jun-05,10,United States
+Jun-05,11,Italy
+Jun-05,13,Greece
+Jun-05,17,Iran
+Jun-05,18,Japan
+Jun-05,19,Uruguay
+Jun-05,20,South Korea
+Jun-05,21,Germany
+Jun-05,22,Croatia
+Jun-05,24,Costa Rica
+Jun-05,25,Colombia
+Jun-05,26,Cameroon
+Jun-05,27,Russia
+Jun-05,29,Nigeria
+Jun-05,34,Ecuador
+Jun-05,42,Switzerland
+Jun-05,46,Ivory Coast
+Jun-05,47,Belgium
+Jun-05,50,Honduras
+Jun-05,57,Australia
+Jun-05,76,Ghana
+Jun-05,77,Chile
+Jun-05,78,Bosnia-Herzegovina
+Jun-05,80,Algeria
+Jul-05,1,Brazil
+Jul-05,2,Argentina
+Jul-05,3,Netherlands
+Jul-05,5,Mexico
+Jul-05,6,United States
+Jul-05,7,France
+Jul-05,8,England
+Jul-05,9,Spain
+Jul-05,10,Portugal
+Jul-05,11,Germany
+Jul-05,13,Japan
+Jul-05,14,Italy
+Jul-05,15,Iran
+Jul-05,18,Uruguay
+Jul-05,20,Greece
+Jul-05,21,South Korea
+Jul-05,22,Croatia
+Jul-05,23,Costa Rica
+Jul-05,25,Colombia
+Jul-05,27,Cameroon
+Jul-05,29,Nigeria
+Jul-05,30,Russia
+Jul-05,33,Ecuador
+Jul-05,39,Honduras
+Jul-05,42,Switzerland
+Jul-05,44,Ivory Coast
+Jul-05,51,Belgium
+Jul-05,60,Australia
+Jul-05,70,Ghana
+Jul-05,72,Chile
+Jul-05,77,Bosnia-Herzegovina
+Jul-05,81,Algeria
+Aug-05,1,Brazil
+Aug-05,2,Argentina
+Aug-05,3,Netherlands
+Aug-05,5,Mexico
+Aug-05,6,United States
+Aug-05,7,England
+Aug-05,8,Spain
+Aug-05,9,France
+Aug-05,10,Portugal
+Aug-05,11,Germany
+Aug-05,13,Italy
+Aug-05,15,Iran
+Aug-05,17,Japan
+Aug-05,18,Greece
+Aug-05,20,Croatia
+Aug-05,21,Costa Rica
+Aug-05,23,South Korea
+Aug-05,24,Colombia
+Aug-05,25,Uruguay
+Aug-05,28,Cameroon
+Aug-05,29,Russia
+Aug-05,30,Nigeria
+Aug-05,33,Ecuador
+Aug-05,39,Honduras
+Aug-05,42,Switzerland
+Aug-05,44,Ivory Coast
+Aug-05,52,Belgium
+Aug-05,57,Australia
+Aug-05,70,Ghana
+Aug-05,73,Chile
+Aug-05,78,Bosnia-Herzegovina
+Aug-05,81,Algeria
+Sep-05,1,Brazil
+Sep-05,2,Netherlands
+Sep-05,3,Argentina
+Sep-05,5,Mexico
+Sep-05,6,France
+Sep-05,7,United States
+Sep-05,8,Spain
+Sep-05,9,Portugal
+Sep-05,11,England
+Sep-05,13,Italy
+Sep-05,15,Germany
+Sep-05,16,Japan
+Sep-05,18,Iran
+Sep-05,19,Costa Rica
+Sep-05,20,Greece
+Sep-05,22,Cameroon
+Sep-05,24,Croatia
+Sep-05,25,Uruguay
+Sep-05,26,Colombia
+Sep-05,27,South Korea
+Sep-05,29,Nigeria
+Sep-05,30,Russia
+Sep-05,33,Ecuador
+Sep-05,38,Switzerland
+Sep-05,43,Honduras
+Sep-05,47,Belgium
+Sep-05,50,Australia
+Sep-05,51,Ivory Coast
+Sep-05,62,Ghana
+Sep-05,67,Bosnia-Herzegovina
+Sep-05,76,Chile
+Sep-05,83,Algeria
+Oct-05,1,Brazil
+Oct-05,2,Netherlands
+Oct-05,4,Argentina
+Oct-05,5,France
+Oct-05,6,Mexico
+Oct-05,7,United States
+Oct-05,8,Spain
+Oct-05,9,England
+Oct-05,10,Portugal
+Oct-05,12,Italy
+Oct-05,15,Germany
+Oct-05,16,Japan
+Oct-05,17,Uruguay
+Oct-05,18,Greece
+Oct-05,19,Croatia
+Oct-05,20,Costa Rica
+Oct-05,21,Iran
+Oct-05,23,Cameroon
+Oct-05,24,Colombia
+Oct-05,25,Nigeria
+Oct-05,29,South Korea
+Oct-05,30,Russia
+Oct-05,36,Ecuador
+Oct-05,38,Switzerland
+Oct-05,40,Honduras
+Oct-05,48,Ivory Coast
+Oct-05,49,Belgium
+Oct-05,51,Ghana
+Oct-05,54,Australia
+Oct-05,69,Bosnia-Herzegovina
+Oct-05,72,Chile
+Oct-05,82,Algeria
+Nov-05,1,Brazil
+Nov-05,3,Netherlands
+Nov-05,4,Argentina
+Nov-05,5,France
+Nov-05,6,Spain
+Nov-05,7,Mexico
+Nov-05,8,United States
+Nov-05,9,England
+Nov-05,10,Portugal
+Nov-05,12,Italy
+Nov-05,15,Japan
+Nov-05,16,Germany
+Nov-05,17,Greece
+Nov-05,18,Uruguay
+Nov-05,19,Iran
+Nov-05,20,Croatia
+Nov-05,21,Costa Rica
+Nov-05,22,Cameroon
+Nov-05,25,Colombia
+Nov-05,26,Nigeria
+Nov-05,29,South Korea
+Nov-05,34,Russia
+Nov-05,36,Switzerland
+Nov-05,37,Ecuador
+Nov-05,41,Ivory Coast
+Nov-05,42,Honduras
+Nov-05,49,Australia
+Nov-05,50,Ghana
+Nov-05,52,Belgium
+Nov-05,64,Chile
+Nov-05,65,Bosnia-Herzegovina
+Nov-05,82,Algeria
+Dec-05,1,Brazil
+Dec-05,3,Netherlands
+Dec-05,4,Argentina
+Dec-05,5,Mexico
+Dec-05,6,Spain
+Dec-05,7,France
+Dec-05,8,United States
+Dec-05,9,England
+Dec-05,10,Portugal
+Dec-05,12,Italy
+Dec-05,15,Japan
+Dec-05,16,Germany
+Dec-05,17,Greece
+Dec-05,18,Uruguay
+Dec-05,19,Iran
+Dec-05,20,Croatia
+Dec-05,21,Costa Rica
+Dec-05,23,Cameroon
+Dec-05,24,Colombia
+Dec-05,25,Nigeria
+Dec-05,29,South Korea
+Dec-05,34,Russia
+Dec-05,35,Switzerland
+Dec-05,37,Ecuador
+Dec-05,41,Honduras
+Dec-05,43,Ivory Coast
+Dec-05,49,Australia
+Dec-05,51,Ghana
+Dec-05,56,Belgium
+Dec-05,65,Chile
+Dec-05,66,Bosnia-Herzegovina
+Dec-05,81,Algeria
+Jan-06,1,Brazil
+Jan-06,3,Netherlands
+Jan-06,4,Argentina
+Jan-06,5,Spain
+Jan-06,6,France
+Jan-06,7,Mexico
+Jan-06,8,United States
+Jan-06,9,England
+Jan-06,10,Portugal
+Jan-06,12,Italy
+Jan-06,15,Japan
+Jan-06,16,Greece
+Jan-06,17,Germany
+Jan-06,18,Uruguay
+Jan-06,19,Iran
+Jan-06,20,Croatia
+Jan-06,21,Costa Rica
+Jan-06,23,Cameroon
+Jan-06,24,Colombia
+Jan-06,25,Nigeria
+Jan-06,29,South Korea
+Jan-06,34,Russia
+Jan-06,36,Switzerland
+Jan-06,38,Ecuador
+Jan-06,41,Honduras
+Jan-06,42,Ivory Coast
+Jan-06,48,Australia
+Jan-06,50,Ghana
+Jan-06,55,Belgium
+Jan-06,64,Bosnia-Herzegovina
+Jan-06,65,Chile
+Jan-06,80,Algeria
+Feb-06,1,Brazil
+Feb-06,3,Netherlands
+Feb-06,4,Argentina
+Feb-06,5,France
+Feb-06,6,Spain
+Feb-06,7,Mexico
+Feb-06,8,United States
+Feb-06,9,England
+Feb-06,10,Portugal
+Feb-06,12,Nigeria
+Feb-06,13,Italy
+Feb-06,16,Cameroon
+Feb-06,18,Japan
+Feb-06,19,Greece
+Feb-06,20,Germany
+Feb-06,21,Uruguay
+Feb-06,22,Iran
+Feb-06,24,Croatia
+Feb-06,25,Costa Rica
+Feb-06,27,Colombia
+Feb-06,31,South Korea
+Feb-06,32,Ivory Coast
+Feb-06,34,Russia
+Feb-06,37,Switzerland
+Feb-06,38,Ecuador
+Feb-06,42,Honduras
+Feb-06,48,Ghana
+Feb-06,49,Australia
+Feb-06,54,Belgium
+Feb-06,65,Bosnia-Herzegovina
+Feb-06,66,Chile
+Feb-06,81,Algeria
+Mar-06,1,Brazil
+Mar-06,3,Netherlands
+Mar-06,4,Argentina
+Mar-06,5,United States
+Mar-06,6,Spain
+Mar-06,7,Mexico
+Mar-06,8,France
+Mar-06,9,England
+Mar-06,10,Portugal
+Mar-06,12,Nigeria
+Mar-06,13,Italy
+Mar-06,15,Cameroon
+Mar-06,18,Japan
+Mar-06,19,Iran
+Mar-06,20,Croatia
+Mar-06,21,Greece
+Mar-06,22,Germany
+Mar-06,23,Uruguay
+Mar-06,25,Costa Rica
+Mar-06,30,Colombia
+Mar-06,31,South Korea
+Mar-06,32,Ivory Coast
+Mar-06,35,Russia
+Mar-06,36,Switzerland
+Mar-06,38,Ecuador
+Mar-06,43,Honduras
+Mar-06,44,Australia
+Mar-06,50,Ghana
+Mar-06,51,Belgium
+Mar-06,65,Bosnia-Herzegovina
+Mar-06,67,Chile
+Mar-06,85,Algeria
+Apr-06,1,Brazil
+Apr-06,3,Netherlands
+Apr-06,4,United States
+Apr-06,5,Spain
+Apr-06,6,Mexico
+Apr-06,7,France
+Apr-06,8,Portugal
+Apr-06,9,Argentina
+Apr-06,10,England
+Apr-06,12,Nigeria
+Apr-06,14,Italy
+Apr-06,15,Cameroon
+Apr-06,17,Japan
+Apr-06,19,Greece
+Apr-06,20,Germany
+Apr-06,22,Iran
+Apr-06,23,Uruguay
+Apr-06,24,Croatia
+Apr-06,26,Costa Rica
+Apr-06,27,Colombia
+Apr-06,30,South Korea
+Apr-06,32,Ivory Coast
+Apr-06,35,Switzerland
+Apr-06,37,Russia
+Apr-06,39,Ecuador
+Apr-06,42,Honduras
+Apr-06,44,Australia
+Apr-06,50,Ghana
+Apr-06,57,Belgium
+Apr-06,63,Bosnia-Herzegovina
+Apr-06,67,Chile
+Apr-06,87,Algeria
+May-06,1,Brazil
+May-06,3,Netherlands
+May-06,4,Mexico
+May-06,5,United States
+May-06,6,Spain
+May-06,7,Portugal
+May-06,8,France
+May-06,9,Argentina
+May-06,10,England
+May-06,11,Nigeria
+May-06,13,Italy
+May-06,15,Cameroon
+May-06,18,Japan
+May-06,19,Germany
+May-06,20,Greece
+May-06,22,Uruguay
+May-06,23,Iran
+May-06,24,Croatia
+May-06,26,Costa Rica
+May-06,27,Colombia
+May-06,30,South Korea
+May-06,32,Ivory Coast
+May-06,35,Switzerland
+May-06,37,Russia
+May-06,39,Ecuador
+May-06,42,Honduras
+May-06,43,Australia
+May-06,48,Ghana
+May-06,56,Belgium
+May-06,63,Bosnia-Herzegovina
+May-06,64,Chile
+May-06,87,Algeria
+Jul-06,1,Brazil
+Jul-06,2,Italy
+Jul-06,3,Argentina
+Jul-06,4,France
+Jul-06,5,England
+Jul-06,6,Netherlands
+Jul-06,7,Spain
+Jul-06,8,Portugal
+Jul-06,9,Germany
+Jul-06,11,Nigeria
+Jul-06,12,Cameroon
+Jul-06,13,Switzerland
+Jul-06,14,Uruguay
+Jul-06,16,United States
+Jul-06,18,Mexico
+Jul-06,20,Ivory Coast
+Jul-06,21,Colombia
+Jul-06,23,Croatia
+Jul-06,25,Ghana
+Jul-06,28,Ecuador
+Jul-06,32,Greece
+Jul-06,33,Australia
+Jul-06,34,Russia
+Jul-06,39,Honduras
+Jul-06,44,Bosnia-Herzegovina
+Jul-06,46,Costa Rica
+Jul-06,47,Chile
+Jul-06,48,Iran
+Jul-06,50,Japan
+Jul-06,57,South Korea
+Jul-06,58,Belgium
+Jul-06,94,Algeria
+Aug-06,1,Brazil
+Aug-06,2,Italy
+Aug-06,3,Argentina
+Aug-06,4,France
+Aug-06,5,England
+Aug-06,6,Netherlands
+Aug-06,7,Spain
+Aug-06,8,Portugal
+Aug-06,9,Germany
+Aug-06,11,Nigeria
+Aug-06,12,Cameroon
+Aug-06,13,Switzerland
+Aug-06,14,Uruguay
+Aug-06,16,Mexico
+Aug-06,18,Ivory Coast
+Aug-06,21,Croatia
+Aug-06,23,United States
+Aug-06,25,Ghana
+Aug-06,27,Ecuador
+Aug-06,29,Colombia
+Aug-06,32,Greece
+Aug-06,33,Russia
+Aug-06,37,Australia
+Aug-06,42,Bosnia-Herzegovina
+Aug-06,44,Chile
+Aug-06,45,Iran
+Aug-06,47,Costa Rica
+Aug-06,48,Japan
+Aug-06,52,South Korea
+Aug-06,55,Belgium
+Aug-06,81,Honduras
+Aug-06,89,Algeria
+Sep-06,1,Brazil
+Sep-06,2,France
+Sep-06,3,Argentina
+Sep-06,4,England
+Sep-06,5,Italy
+Sep-06,6,Netherlands
+Sep-06,8,Germany
+Sep-06,9,Portugal
+Sep-06,10,Spain
+Sep-06,11,Nigeria
+Sep-06,12,Cameroon
+Sep-06,14,Switzerland
+Sep-06,15,Uruguay
+Sep-06,17,Mexico
+Sep-06,19,Ivory Coast
+Sep-06,20,Colombia
+Sep-06,22,Greece
+Sep-06,23,Ghana
+Sep-06,24,Croatia
+Sep-06,29,United States
+Sep-06,30,Ecuador
+Sep-06,38,Australia
+Sep-06,39,Russia
+Sep-06,44,Iran
+Sep-06,45,Chile
+Sep-06,47,Japan
+Sep-06,49,South Korea
+Sep-06,50,Belgium
+Sep-06,53,Costa Rica
+Sep-06,54,Bosnia-Herzegovina
+Sep-06,81,Honduras
+Sep-06,83,Algeria
+Oct-06,1,Brazil
+Oct-06,2,Italy
+Oct-06,3,France
+Oct-06,4,Argentina
+Oct-06,5,England
+Oct-06,6,Germany
+Oct-06,7,Netherlands
+Oct-06,9,Portugal
+Oct-06,10,Spain
+Oct-06,11,Nigeria
+Oct-06,12,Cameroon
+Oct-06,14,Greece
+Oct-06,15,Switzerland
+Oct-06,17,Uruguay
+Oct-06,18,Ivory Coast
+Oct-06,19,Mexico
+Oct-06,20,Croatia
+Oct-06,24,Ghana
+Oct-06,30,United States
+Oct-06,33,Russia
+Oct-06,34,Ecuador
+Oct-06,35,Colombia
+Oct-06,37,Australia
+Oct-06,43,Iran
+Oct-06,44,Chile
+Oct-06,46,Japan
+Oct-06,47,Belgium
+Oct-06,48,South Korea
+Oct-06,55,Honduras
+Oct-06,58,Bosnia-Herzegovina
+Oct-06,68,Costa Rica
+Oct-06,73,Algeria
+Nov-06,1,Brazil
+Nov-06,2,Italy
+Nov-06,3,Argentina
+Nov-06,4,France
+Nov-06,5,England
+Nov-06,6,Germany
+Nov-06,7,Netherlands
+Nov-06,8,Portugal
+Nov-06,9,Nigeria
+Nov-06,11,Cameroon
+Nov-06,12,Spain
+Nov-06,15,Croatia
+Nov-06,16,Greece
+Nov-06,17,Switzerland
+Nov-06,18,Ivory Coast
+Nov-06,20,Mexico
+Nov-06,23,Russia
+Nov-06,28,Ghana
+Nov-06,29,Uruguay
+Nov-06,30,Ecuador
+Nov-06,31,United States
+Nov-06,34,Colombia
+Nov-06,38,Iran
+Nov-06,39,Australia
+Nov-06,42,Chile
+Nov-06,47,Japan
+Nov-06,51,South Korea
+Nov-06,53,Belgium
+Nov-06,56,Honduras
+Nov-06,59,Bosnia-Herzegovina
+Nov-06,68,Costa Rica
+Nov-06,79,Algeria
+Dec-06,1,Brazil
+Dec-06,2,Italy
+Dec-06,3,Argentina
+Dec-06,4,France
+Dec-06,5,England
+Dec-06,6,Germany
+Dec-06,7,Netherlands
+Dec-06,8,Portugal
+Dec-06,9,Nigeria
+Dec-06,11,Cameroon
+Dec-06,12,Spain
+Dec-06,15,Croatia
+Dec-06,16,Greece
+Dec-06,17,Switzerland
+Dec-06,18,Ivory Coast
+Dec-06,20,Mexico
+Dec-06,22,Russia
+Dec-06,28,Ghana
+Dec-06,29,Uruguay
+Dec-06,30,Ecuador
+Dec-06,31,United States
+Dec-06,34,Colombia
+Dec-06,38,Iran
+Dec-06,39,Australia
+Dec-06,42,Chile
+Dec-06,47,Japan
+Dec-06,51,South Korea
+Dec-06,53,Belgium
+Dec-06,56,Honduras
+Dec-06,59,Bosnia-Herzegovina
+Dec-06,68,Costa Rica
+Dec-06,80,Algeria
+Jan-07,1,Brazil
+Jan-07,2,Italy
+Jan-07,3,Argentina
+Jan-07,4,France
+Jan-07,5,Germany
+Jan-07,6,England
+Jan-07,7,Netherlands
+Jan-07,8,Portugal
+Jan-07,9,Nigeria
+Jan-07,11,Cameroon
+Jan-07,12,Spain
+Jan-07,15,Croatia
+Jan-07,16,Greece
+Jan-07,17,Switzerland
+Jan-07,18,Ivory Coast
+Jan-07,21,Mexico
+Jan-07,24,Russia
+Jan-07,28,Ghana
+Jan-07,29,Ecuador
+Jan-07,30,Uruguay
+Jan-07,31,United States
+Jan-07,34,Colombia
+Jan-07,38,Iran
+Jan-07,39,Australia
+Jan-07,40,Chile
+Jan-07,46,Japan
+Jan-07,51,South Korea
+Jan-07,53,Belgium
+Jan-07,56,Honduras
+Jan-07,58,Bosnia-Herzegovina
+Jan-07,67,Costa Rica
+Jan-07,79,Algeria
+Feb-07,1,Italy
+Feb-07,2,Brazil
+Feb-07,3,Argentina
+Feb-07,4,France
+Feb-07,5,Germany
+Feb-07,6,England
+Feb-07,7,Netherlands
+Feb-07,8,Portugal
+Feb-07,10,Spain
+Feb-07,12,Croatia
+Feb-07,13,Greece
+Feb-07,14,Switzerland
+Feb-07,17,Cameroon
+Feb-07,19,Mexico
+Feb-07,21,Ivory Coast
+Feb-07,22,Ghana
+Feb-07,24,Uruguay
+Feb-07,25,Ecuador
+Feb-07,27,Russia
+Feb-07,28,United States
+Feb-07,31,Colombia
+Feb-07,32,Iran
+Feb-07,34,Chile
+Feb-07,36,Nigeria
+Feb-07,39,Australia
+Feb-07,41,Japan
+Feb-07,44,South Korea
+Feb-07,52,Belgium
+Feb-07,54,Costa Rica
+Feb-07,55,Bosnia-Herzegovina
+Feb-07,60,Honduras
+Feb-07,80,Algeria
+Mar-07,1,Argentina
+Mar-07,2,Italy
+Mar-07,3,Brazil
+Mar-07,4,France
+Mar-07,5,Germany
+Mar-07,6,England
+Mar-07,7,Netherlands
+Mar-07,8,Portugal
+Mar-07,10,Spain
+Mar-07,12,Croatia
+Mar-07,13,Greece
+Mar-07,17,Switzerland
+Mar-07,18,Cameroon
+Mar-07,19,Ghana
+Mar-07,20,Ivory Coast
+Mar-07,21,Mexico
+Mar-07,23,Russia
+Mar-07,25,Ecuador
+Mar-07,26,Uruguay
+Mar-07,30,United States
+Mar-07,31,Colombia
+Mar-07,32,Chile
+Mar-07,34,Iran
+Mar-07,36,Nigeria
+Mar-07,40,Australia
+Mar-07,42,Japan
+Mar-07,48,South Korea
+Mar-07,50,Costa Rica
+Mar-07,52,Honduras
+Mar-07,55,Belgium
+Mar-07,58,Bosnia-Herzegovina
+Mar-07,78,Algeria
+Apr-07,1,Italy
+Apr-07,2,Argentina
+Apr-07,3,Brazil
+Apr-07,4,France
+Apr-07,5,Germany
+Apr-07,6,Netherlands
+Apr-07,7,Portugal
+Apr-07,8,England
+Apr-07,9,Spain
+Apr-07,12,Croatia
+Apr-07,13,Cameroon
+Apr-07,15,Greece
+Apr-07,16,Russia
+Apr-07,18,Mexico
+Apr-07,20,Switzerland
+Apr-07,23,Uruguay
+Apr-07,25,Ivory Coast
+Apr-07,26,Colombia
+Apr-07,27,Nigeria
+Apr-07,28,Ghana
+Apr-07,29,United States
+Apr-07,30,Ecuador
+Apr-07,37,Chile
+Apr-07,42,Iran
+Apr-07,43,Australia
+Apr-07,46,Japan
+Apr-07,47,Bosnia-Herzegovina
+Apr-07,51,South Korea
+Apr-07,52,Costa Rica
+Apr-07,53,Honduras
+Apr-07,59,Belgium
+Apr-07,64,Algeria
+May-07,1,Italy
+May-07,2,Brazil
+May-07,3,Argentina
+May-07,4,France
+May-07,5,Germany
+May-07,6,Netherlands
+May-07,7,Portugal
+May-07,8,England
+May-07,9,Spain
+May-07,12,Croatia
+May-07,13,Cameroon
+May-07,16,Greece
+May-07,17,Russia
+May-07,20,Mexico
+May-07,21,Switzerland
+May-07,24,Uruguay
+May-07,25,Ivory Coast
+May-07,26,Colombia
+May-07,27,Nigeria
+May-07,28,Ghana
+May-07,29,United States
+May-07,30,Ecuador
+May-07,41,Iran
+May-07,42,Australia
+May-07,43,Chile
+May-07,44,Japan
+May-07,48,Bosnia-Herzegovina
+May-07,51,South Korea
+May-07,52,Costa Rica
+May-07,55,Honduras
+May-07,62,Belgium
+May-07,65,Algeria
+Jun-07,1,Italy
+Jun-07,2,France
+Jun-07,3,Brazil
+Jun-07,4,Germany
+Jun-07,5,Argentina
+Jun-07,6,Portugal
+Jun-07,7,Spain
+Jun-07,8,England
+Jun-07,9,Netherlands
+Jun-07,11,Croatia
+Jun-07,14,Cameroon
+Jun-07,15,Greece
+Jun-07,16,United States
+Jun-07,19,Ghana
+Jun-07,20,Ivory Coast
+Jun-07,24,Russia
+Jun-07,25,Switzerland
+Jun-07,26,Mexico
+Jun-07,28,Bosnia-Herzegovina
+Jun-07,30,Uruguay
+Jun-07,31,Colombia
+Jun-07,32,Nigeria
+Jun-07,40,Japan
+Jun-07,44,Ecuador
+Jun-07,46,Costa Rica
+Jun-07,47,Iran
+Jun-07,48,Australia
+Jun-07,51,South Korea
+Jun-07,53,Chile
+Jun-07,55,Honduras
+Jun-07,67,Algeria
+Jun-07,71,Belgium
+Jul-07,1,Brazil
+Jul-07,2,Argentina
+Jul-07,3,Italy
+Jul-07,4,France
+Jul-07,5,Germany
+Jul-07,6,Netherlands
+Jul-07,7,Croatia
+Jul-07,8,Portugal
+Jul-07,9,Spain
+Jul-07,10,Mexico
+Jul-07,12,England
+Jul-07,14,United States
+Jul-07,15,Cameroon
+Jul-07,16,Greece
+Jul-07,19,Uruguay
+Jul-07,23,Russia
+Jul-07,25,Nigeria
+Jul-07,27,Bosnia-Herzegovina
+Jul-07,31,Ivory Coast
+Jul-07,32,Colombia
+Jul-07,36,Japan
+Jul-07,37,Ghana
+Jul-07,45,Switzerland
+Jul-07,46,Iran
+Jul-07,47,Chile
+Jul-07,49,Australia
+Jul-07,50,Costa Rica
+Jul-07,53,Ecuador
+Jul-07,58,South Korea
+Jul-07,63,Honduras
+Jul-07,70,Belgium
+Jul-07,77,Algeria
+Aug-07,1,Brazil
+Aug-07,2,Argentina
+Aug-07,3,Italy
+Aug-07,4,France
+Aug-07,5,Germany
+Aug-07,6,Croatia
+Aug-07,7,Netherlands
+Aug-07,8,Spain
+Aug-07,10,Portugal
+Aug-07,11,Mexico
+Aug-07,12,England
+Aug-07,14,Greece
+Aug-07,16,Cameroon
+Aug-07,17,United States
+Aug-07,21,Uruguay
+Aug-07,24,Russia
+Aug-07,25,Bosnia-Herzegovina
+Aug-07,26,Nigeria
+Aug-07,28,Ivory Coast
+Aug-07,32,Colombia
+Aug-07,41,Japan
+Aug-07,43,Ghana
+Aug-07,44,Iran
+Aug-07,45,Switzerland
+Aug-07,47,Chile
+Aug-07,49,Australia
+Aug-07,50,South Korea
+Aug-07,52,Costa Rica
+Aug-07,55,Ecuador
+Aug-07,57,Honduras
+Aug-07,70,Belgium
+Aug-07,73,Algeria
+Sep-07,1,Italy
+Sep-07,2,Argentina
+Sep-07,3,Brazil
+Sep-07,4,Germany
+Sep-07,5,Netherlands
+Sep-07,6,France
+Sep-07,7,Spain
+Sep-07,8,Portugal
+Sep-07,9,England
+Sep-07,10,Croatia
+Sep-07,13,Mexico
+Sep-07,15,Greece
+Sep-07,18,United States
+Sep-07,19,Uruguay
+Sep-07,23,Nigeria
+Sep-07,24,Colombia
+Sep-07,25,Cameroon
+Sep-07,26,Russia
+Sep-07,27,Ivory Coast
+Sep-07,34,Japan
+Sep-07,39,Bosnia-Herzegovina
+Sep-07,40,Iran
+Sep-07,42,Switzerland
+Sep-07,45,Ghana
+Sep-07,47,Chile
+Sep-07,48,Australia
+Sep-07,50,South Korea
+Sep-07,56,Costa Rica
+Sep-07,57,Ecuador
+Sep-07,59,Honduras
+Sep-07,60,Belgium
+Sep-07,86,Algeria
+Oct-07,1,Argentina
+Oct-07,2,Brazil
+Oct-07,3,Italy
+Oct-07,4,France
+Oct-07,5,Germany
+Oct-07,6,Spain
+Oct-07,7,Netherlands
+Oct-07,8,Portugal
+Oct-07,10,Croatia
+Oct-07,11,England
+Oct-07,14,Greece
+Oct-07,15,Mexico
+Oct-07,16,Russia
+Oct-07,17,Uruguay
+Oct-07,18,United States
+Oct-07,19,Nigeria
+Oct-07,23,Cameroon
+Oct-07,25,Colombia
+Oct-07,30,Japan
+Oct-07,33,Ivory Coast
+Oct-07,38,Iran
+Oct-07,41,Switzerland
+Oct-07,45,Chile
+Oct-07,46,South Korea
+Oct-07,47,Ghana
+Oct-07,49,Bosnia-Herzegovina
+Oct-07,53,Australia
+Oct-07,54,Belgium
+Oct-07,55,Honduras
+Oct-07,59,Ecuador
+Oct-07,66,Costa Rica
+Oct-07,89,Algeria
+Nov-07,1,Argentina
+Nov-07,2,Brazil
+Nov-07,3,Italy
+Nov-07,4,Spain
+Nov-07,5,Germany
+Nov-07,7,France
+Nov-07,8,Portugal
+Nov-07,9,Netherlands
+Nov-07,10,Croatia
+Nov-07,11,Greece
+Nov-07,12,England
+Nov-07,15,Mexico
+Nov-07,17,Colombia
+Nov-07,19,United States
+Nov-07,20,Nigeria
+Nov-07,22,Russia
+Nov-07,25,Cameroon
+Nov-07,27,Uruguay
+Nov-07,33,Japan
+Nov-07,37,Ivory Coast
+Nov-07,40,Iran
+Nov-07,42,South Korea
+Nov-07,43,Ghana
+Nov-07,44,Switzerland
+Nov-07,45,Chile
+Nov-07,48,Australia
+Nov-07,49,Belgium
+Nov-07,51,Bosnia-Herzegovina
+Nov-07,54,Honduras
+Nov-07,56,Ecuador
+Nov-07,69,Costa Rica
+Nov-07,81,Algeria
+Dec-07,1,Argentina
+Dec-07,2,Brazil
+Dec-07,3,Italy
+Dec-07,4,Spain
+Dec-07,5,Germany
+Dec-07,7,France
+Dec-07,8,Portugal
+Dec-07,9,Netherlands
+Dec-07,10,Croatia
+Dec-07,11,Greece
+Dec-07,12,England
+Dec-07,15,Mexico
+Dec-07,17,Colombia
+Dec-07,19,United States
+Dec-07,20,Nigeria
+Dec-07,23,Russia
+Dec-07,25,Cameroon
+Dec-07,28,Uruguay
+Dec-07,34,Japan
+Dec-07,37,Ivory Coast
+Dec-07,41,Iran
+Dec-07,42,South Korea
+Dec-07,43,Ghana
+Dec-07,44,Switzerland
+Dec-07,45,Chile
+Dec-07,48,Australia
+Dec-07,49,Belgium
+Dec-07,51,Bosnia-Herzegovina
+Dec-07,53,Honduras
+Dec-07,56,Ecuador
+Dec-07,70,Costa Rica
+Dec-07,79,Algeria
+Jan-08,1,Argentina
+Jan-08,2,Brazil
+Jan-08,3,Italy
+Jan-08,4,Spain
+Jan-08,5,Germany
+Jan-08,7,France
+Jan-08,8,Portugal
+Jan-08,9,Netherlands
+Jan-08,10,Croatia
+Jan-08,11,Greece
+Jan-08,12,England
+Jan-08,15,Mexico
+Jan-08,17,Colombia
+Jan-08,19,Nigeria
+Jan-08,20,United States
+Jan-08,24,Russia
+Jan-08,25,Cameroon
+Jan-08,28,Uruguay
+Jan-08,34,Japan
+Jan-08,38,Ivory Coast
+Jan-08,41,Iran
+Jan-08,42,South Korea
+Jan-08,43,Ghana
+Jan-08,44,Switzerland
+Jan-08,45,Chile
+Jan-08,48,Australia
+Jan-08,49,Belgium
+Jan-08,51,Bosnia-Herzegovina
+Jan-08,52,Ecuador
+Jan-08,54,Honduras
+Jan-08,69,Costa Rica
+Jan-08,77,Algeria
+Feb-08,1,Argentina
+Feb-08,2,Brazil
+Feb-08,3,Italy
+Feb-08,4,Spain
+Feb-08,5,Germany
+Feb-08,7,France
+Feb-08,8,Portugal
+Feb-08,9,Netherlands
+Feb-08,10,Greece
+Feb-08,11,England
+Feb-08,12,Croatia
+Feb-08,14,Ghana
+Feb-08,16,Mexico
+Feb-08,17,Cameroon
+Feb-08,21,Colombia
+Feb-08,22,Russia
+Feb-08,24,Ivory Coast
+Feb-08,26,United States
+Feb-08,30,Uruguay
+Feb-08,35,Japan
+Feb-08,38,Australia
+Feb-08,39,Iran
+Feb-08,40,Chile
+Feb-08,41,South Korea
+Feb-08,42,Switzerland
+Feb-08,44,Belgium
+Feb-08,45,Nigeria
+Feb-08,51,Honduras
+Feb-08,57,Ecuador
+Feb-08,60,Bosnia-Herzegovina
+Feb-08,71,Costa Rica
+Feb-08,77,Algeria
+Mar-08,1,Argentina
+Mar-08,2,Brazil
+Mar-08,3,Italy
+Mar-08,4,Spain
+Mar-08,5,Germany
+Mar-08,7,France
+Mar-08,8,Portugal
+Mar-08,9,Netherlands
+Mar-08,10,Greece
+Mar-08,11,England
+Mar-08,12,Croatia
+Mar-08,15,Ghana
+Mar-08,16,Mexico
+Mar-08,17,Cameroon
+Mar-08,20,Colombia
+Mar-08,21,Russia
+Mar-08,23,Ivory Coast
+Mar-08,28,United States
+Mar-08,29,Uruguay
+Mar-08,36,Japan
+Mar-08,38,Australia
+Mar-08,39,Chile
+Mar-08,40,Switzerland
+Mar-08,41,Iran
+Mar-08,42,Belgium
+Mar-08,43,Honduras
+Mar-08,46,Nigeria
+Mar-08,47,South Korea
+Mar-08,54,Ecuador
+Mar-08,60,Bosnia-Herzegovina
+Mar-08,72,Costa Rica
+Mar-08,78,Algeria
+Apr-08,1,Argentina
+Apr-08,2,Brazil
+Apr-08,3,Italy
+Apr-08,4,Spain
+Apr-08,5,Germany
+Apr-08,7,France
+Apr-08,8,Greece
+Apr-08,9,Portugal
+Apr-08,10,Netherlands
+Apr-08,11,England
+Apr-08,13,Croatia
+Apr-08,14,Ghana
+Apr-08,16,Mexico
+Apr-08,17,Cameroon
+Apr-08,19,Colombia
+Apr-08,21,United States
+Apr-08,22,Ivory Coast
+Apr-08,25,Russia
+Apr-08,27,Uruguay
+Apr-08,36,Japan
+Apr-08,38,Honduras
+Apr-08,39,Nigeria
+Apr-08,40,Chile
+Apr-08,43,Australia
+Apr-08,47,Switzerland
+Apr-08,48,Belgium
+Apr-08,50,South Korea
+Apr-08,51,Iran
+Apr-08,55,Ecuador
+Apr-08,62,Bosnia-Herzegovina
+Apr-08,75,Costa Rica
+Apr-08,101,Algeria
+May-08,1,Argentina
+May-08,2,Brazil
+May-08,3,Italy
+May-08,4,Spain
+May-08,5,Germany
+May-08,7,France
+May-08,8,Greece
+May-08,9,Portugal
+May-08,10,Netherlands
+May-08,11,England
+May-08,13,Croatia
+May-08,14,Ghana
+May-08,16,Cameroon
+May-08,17,Mexico
+May-08,19,Colombia
+May-08,21,United States
+May-08,22,Ivory Coast
+May-08,26,Russia
+May-08,28,Uruguay
+May-08,36,Honduras
+May-08,37,Japan
+May-08,39,Nigeria
+May-08,41,Chile
+May-08,43,Australia
+May-08,47,Belgium
+May-08,48,Switzerland
+May-08,50,South Korea
+May-08,51,Iran
+May-08,55,Ecuador
+May-08,62,Bosnia-Herzegovina
+May-08,77,Costa Rica
+May-08,100,Algeria
+Jun-08,1,Argentina
+Jun-08,2,Brazil
+Jun-08,3,Italy
+Jun-08,4,Spain
+Jun-08,5,Germany
+Jun-08,7,France
+Jun-08,8,Greece
+Jun-08,9,England
+Jun-08,10,Netherlands
+Jun-08,11,Portugal
+Jun-08,13,Cameroon
+Jun-08,14,Mexico
+Jun-08,15,Croatia
+Jun-08,16,Ghana
+Jun-08,19,Colombia
+Jun-08,21,United States
+Jun-08,24,Russia
+Jun-08,25,Ivory Coast
+Jun-08,26,Uruguay
+Jun-08,34,Nigeria
+Jun-08,35,Australia
+Jun-08,37,Honduras
+Jun-08,38,Japan
+Jun-08,44,Switzerland
+Jun-08,45,South Korea
+Jun-08,47,Chile
+Jun-08,48,Iran
+Jun-08,49,Belgium
+Jun-08,59,Ecuador
+Jun-08,67,Bosnia-Herzegovina
+Jun-08,75,Costa Rica
+Jun-08,103,Algeria
+Jul-08,1,Spain
+Jul-08,2,Italy
+Jul-08,3,Germany
+Jul-08,4,Brazil
+Jul-08,5,Netherlands
+Jul-08,6,Argentina
+Jul-08,7,Croatia
+Jul-08,9,Portugal
+Jul-08,10,France
+Jul-08,11,Russia
+Jul-08,13,Cameroon
+Jul-08,15,England
+Jul-08,18,Greece
+Jul-08,19,Mexico
+Jul-08,20,Ghana
+Jul-08,22,Uruguay
+Jul-08,23,Colombia
+Jul-08,27,Nigeria
+Jul-08,28,Ivory Coast
+Jul-08,30,United States
+Jul-08,34,Japan
+Jul-08,38,Iran
+Jul-08,40,Australia
+Jul-08,43,Chile
+Jul-08,45,Switzerland
+Jul-08,46,Belgium
+Jul-08,48,Honduras
+Jul-08,53,South Korea
+Jul-08,60,Ecuador
+Jul-08,74,Bosnia-Herzegovina
+Jul-08,79,Costa Rica
+Jul-08,93,Algeria
+Aug-08,1,Spain
+Aug-08,2,Germany
+Aug-08,3,Italy
+Aug-08,4,Netherlands
+Aug-08,5,Croatia
+Aug-08,6,Brazil
+Aug-08,7,Argentina
+Aug-08,9,Portugal
+Aug-08,10,Russia
+Aug-08,12,France
+Aug-08,14,England
+Aug-08,15,Cameroon
+Aug-08,18,Greece
+Aug-08,19,Ghana
+Aug-08,23,Colombia
+Aug-08,24,Uruguay
+Aug-08,25,Ivory Coast
+Aug-08,27,Nigeria
+Aug-08,31,United States
+Aug-08,32,Mexico
+Aug-08,35,Japan
+Aug-08,38,Australia
+Aug-08,39,Chile
+Aug-08,44,Switzerland
+Aug-08,45,Iran
+Aug-08,46,Belgium
+Aug-08,53,South Korea
+Aug-08,56,Ecuador
+Aug-08,61,Honduras
+Aug-08,74,Bosnia-Herzegovina
+Aug-08,78,Costa Rica
+Aug-08,90,Algeria
+Sep-08,1,Spain
+Sep-08,2,Italy
+Sep-08,3,Germany
+Sep-08,4,Netherlands
+Sep-08,5,Croatia
+Sep-08,6,Brazil
+Sep-08,7,Argentina
+Sep-08,9,Portugal
+Sep-08,11,France
+Sep-08,12,Russia
+Sep-08,14,Cameroon
+Sep-08,15,England
+Sep-08,18,Greece
+Sep-08,20,Ghana
+Sep-08,22,Uruguay
+Sep-08,23,Ivory Coast
+Sep-08,24,Mexico
+Sep-08,27,Nigeria
+Sep-08,28,United States
+Sep-08,29,Colombia
+Sep-08,35,Japan
+Sep-08,39,Australia
+Sep-08,40,Chile
+Sep-08,43,Switzerland
+Sep-08,46,Iran
+Sep-08,51,South Korea
+Sep-08,52,Ecuador
+Sep-08,55,Belgium
+Sep-08,60,Honduras
+Sep-08,74,Costa Rica
+Sep-08,75,Bosnia-Herzegovina
+Sep-08,76,Algeria
+Oct-08,1,Spain
+Oct-08,2,Italy
+Oct-08,3,Germany
+Oct-08,4,Brazil
+Oct-08,5,Netherlands
+Oct-08,6,Croatia
+Oct-08,7,Argentina
+Oct-08,9,Russia
+Oct-08,10,Portugal
+Oct-08,11,France
+Oct-08,12,Cameroon
+Oct-08,14,England
+Oct-08,17,Greece
+Oct-08,20,Uruguay
+Oct-08,21,United States
+Oct-08,24,Mexico
+Oct-08,25,Ghana
+Oct-08,27,Nigeria
+Oct-08,29,Ivory Coast
+Oct-08,32,Japan
+Oct-08,33,Colombia
+Oct-08,34,Australia
+Oct-08,36,Chile
+Oct-08,42,Ecuador
+Oct-08,45,Switzerland
+Oct-08,48,Iran
+Oct-08,50,Honduras
+Oct-08,52,Belgium
+Oct-08,55,South Korea
+Oct-08,56,Algeria
+Oct-08,69,Costa Rica
+Oct-08,75,Bosnia-Herzegovina
+Nov-08,1,Spain
+Nov-08,2,Germany
+Nov-08,3,Italy
+Nov-08,4,Netherlands
+Nov-08,5,Brazil
+Nov-08,6,Argentina
+Nov-08,7,Croatia
+Nov-08,8,Russia
+Nov-08,10,Portugal
+Nov-08,11,England
+Nov-08,12,France
+Nov-08,14,Cameroon
+Nov-08,18,Greece
+Nov-08,22,Nigeria
+Nov-08,23,Uruguay
+Nov-08,24,United States
+Nov-08,25,Mexico
+Nov-08,26,Ghana
+Nov-08,27,Switzerland
+Nov-08,28,Ivory Coast
+Nov-08,31,Ecuador
+Nov-08,35,Chile
+Nov-08,37,Australia
+Nov-08,38,Japan
+Nov-08,40,Colombia
+Nov-08,44,Iran
+Nov-08,46,Honduras
+Nov-08,53,South Korea
+Nov-08,55,Belgium
+Nov-08,57,Costa Rica
+Nov-08,63,Algeria
+Nov-08,67,Bosnia-Herzegovina
+Dec-08,1,Spain
+Dec-08,2,Germany
+Dec-08,3,Netherlands
+Dec-08,4,Italy
+Dec-08,5,Brazil
+Dec-08,6,Argentina
+Dec-08,7,Croatia
+Dec-08,8,England
+Dec-08,9,Russia
+Dec-08,11,France
+Dec-08,12,Portugal
+Dec-08,14,Cameroon
+Dec-08,19,Nigeria
+Dec-08,20,Greece
+Dec-08,22,United States
+Dec-08,23,Uruguay
+Dec-08,24,Switzerland
+Dec-08,25,Ghana
+Dec-08,26,Mexico
+Dec-08,28,Australia
+Dec-08,29,Ivory Coast
+Dec-08,31,Chile
+Dec-08,35,Japan
+Dec-08,36,Ecuador
+Dec-08,40,Honduras
+Dec-08,42,South Korea
+Dec-08,43,Iran
+Dec-08,49,Colombia
+Dec-08,53,Costa Rica
+Dec-08,54,Belgium
+Dec-08,61,Bosnia-Herzegovina
+Dec-08,64,Algeria
+Jan-09,1,Spain
+Jan-09,2,Germany
+Jan-09,3,Netherlands
+Jan-09,4,Italy
+Jan-09,5,Brazil
+Jan-09,6,Argentina
+Jan-09,7,Croatia
+Jan-09,8,England
+Jan-09,9,Russia
+Jan-09,11,France
+Jan-09,12,Portugal
+Jan-09,14,Cameroon
+Jan-09,17,Nigeria
+Jan-09,20,Greece
+Jan-09,22,United States
+Jan-09,23,Uruguay
+Jan-09,24,Switzerland
+Jan-09,25,Ghana
+Jan-09,26,Mexico
+Jan-09,27,Ivory Coast
+Jan-09,29,Australia
+Jan-09,30,Chile
+Jan-09,34,Japan
+Jan-09,39,Ecuador
+Jan-09,40,Honduras
+Jan-09,42,South Korea
+Jan-09,46,Iran
+Jan-09,47,Costa Rica
+Jan-09,49,Colombia
+Jan-09,54,Belgium
+Jan-09,61,Bosnia-Herzegovina
+Jan-09,64,Algeria
+Feb-09,1,Spain
+Feb-09,2,Germany
+Feb-09,3,Netherlands
+Feb-09,4,Italy
+Feb-09,5,Brazil
+Feb-09,6,Argentina
+Feb-09,7,Croatia
+Feb-09,8,England
+Feb-09,9,Russia
+Feb-09,11,France
+Feb-09,12,Portugal
+Feb-09,16,Cameroon
+Feb-09,19,Greece
+Feb-09,20,United States
+Feb-09,21,Switzerland
+Feb-09,22,Uruguay
+Feb-09,23,Nigeria
+Feb-09,24,Mexico
+Feb-09,27,Australia
+Feb-09,31,Chile
+Feb-09,35,Ghana
+Feb-09,36,Ivory Coast
+Feb-09,37,Japan
+Feb-09,38,Costa Rica
+Feb-09,39,Honduras
+Feb-09,40,Ecuador
+Feb-09,44,Iran
+Feb-09,46,South Korea
+Feb-09,51,Colombia
+Feb-09,54,Belgium
+Feb-09,59,Bosnia-Herzegovina
+Feb-09,66,Algeria
+Mar-09,1,Spain
+Mar-09,2,Germany
+Mar-09,3,Netherlands
+Mar-09,4,Italy
+Mar-09,5,Brazil
+Mar-09,6,Argentina
+Mar-09,7,Croatia
+Mar-09,8,Russia
+Mar-09,9,England
+Mar-09,10,Portugal
+Mar-09,12,France
+Mar-09,16,Cameroon
+Mar-09,17,United States
+Mar-09,19,Greece
+Mar-09,21,Uruguay
+Mar-09,22,Switzerland
+Mar-09,23,Mexico
+Mar-09,24,Nigeria
+Mar-09,30,Chile
+Mar-09,32,Australia
+Mar-09,33,Costa Rica
+Mar-09,34,Ghana
+Mar-09,35,Japan
+Mar-09,37,Ivory Coast
+Mar-09,39,Ecuador
+Mar-09,40,Honduras
+Mar-09,42,Iran
+Mar-09,44,South Korea
+Mar-09,47,Colombia
+Mar-09,49,Belgium
+Mar-09,58,Bosnia-Herzegovina
+Mar-09,64,Algeria
+Apr-09,1,Spain
+Apr-09,2,Germany
+Apr-09,3,Netherlands
+Apr-09,4,Brazil
+Apr-09,5,Italy
+Apr-09,6,Argentina
+Apr-09,7,England
+Apr-09,8,Croatia
+Apr-09,9,Russia
+Apr-09,10,France
+Apr-09,11,Portugal
+Apr-09,13,Greece
+Apr-09,15,United States
+Apr-09,16,Uruguay
+Apr-09,18,Switzerland
+Apr-09,19,Cameroon
+Apr-09,25,Mexico
+Apr-09,26,Chile
+Apr-09,30,Nigeria
+Apr-09,31,Ghana
+Apr-09,32,Australia
+Apr-09,35,Japan
+Apr-09,36,Ivory Coast
+Apr-09,38,Bosnia-Herzegovina
+Apr-09,39,Honduras
+Apr-09,40,Costa Rica
+Apr-09,42,Ecuador
+Apr-09,43,Colombia
+Apr-09,45,South Korea
+Apr-09,53,Iran
+Apr-09,62,Belgium
+Apr-09,72,Algeria
+May-09,1,Spain
+May-09,2,Germany
+May-09,3,Netherlands
+May-09,4,Brazil
+May-09,5,Italy
+May-09,6,Argentina
+May-09,7,England
+May-09,8,Croatia
+May-09,9,Russia
+May-09,10,France
+May-09,11,Portugal
+May-09,13,Greece
+May-09,15,United States
+May-09,16,Uruguay
+May-09,18,Switzerland
+May-09,19,Cameroon
+May-09,25,Mexico
+May-09,26,Chile
+May-09,30,Nigeria
+May-09,31,Ghana
+May-09,32,Australia
+May-09,35,Japan
+May-09,36,Ivory Coast
+May-09,38,Bosnia-Herzegovina
+May-09,39,Honduras
+May-09,41,Costa Rica
+May-09,42,Ecuador
+May-09,44,Colombia
+May-09,46,South Korea
+May-09,53,Iran
+May-09,62,Belgium
+May-09,72,Algeria
+Jun-09,1,Spain
+Jun-09,2,Netherlands
+Jun-09,3,Germany
+Jun-09,4,Italy
+Jun-09,5,Brazil
+Jun-09,6,England
+Jun-09,7,Argentina
+Jun-09,8,Croatia
+Jun-09,9,Russia
+Jun-09,10,France
+Jun-09,11,Portugal
+Jun-09,14,United States
+Jun-09,16,Switzerland
+Jun-09,17,Greece
+Jun-09,18,Uruguay
+Jun-09,21,Cameroon
+Jun-09,26,Mexico
+Jun-09,29,Australia
+Jun-09,30,Nigeria
+Jun-09,31,Japan
+Jun-09,33,Bosnia-Herzegovina
+Jun-09,35,Honduras
+Jun-09,36,Ghana
+Jun-09,37,Chile
+Jun-09,38,Ivory Coast
+Jun-09,41,Costa Rica
+Jun-09,44,Ecuador
+Jun-09,45,Colombia
+Jun-09,46,South Korea
+Jun-09,52,Iran
+Jun-09,63,Belgium
+Jun-09,66,Algeria
+Jul-09,1,Brazil
+Jul-09,2,Spain
+Jul-09,3,Netherlands
+Jul-09,4,Italy
+Jul-09,5,Germany
+Jul-09,6,Russia
+Jul-09,7,England
+Jul-09,8,Argentina
+Jul-09,9,France
+Jul-09,10,Croatia
+Jul-09,11,Greece
+Jul-09,12,United States
+Jul-09,13,Switzerland
+Jul-09,16,Australia
+Jul-09,17,Portugal
+Jul-09,18,Ivory Coast
+Jul-09,20,Uruguay
+Jul-09,27,Chile
+Jul-09,29,Cameroon
+Jul-09,30,Costa Rica
+Jul-09,33,Mexico
+Jul-09,34,Nigeria
+Jul-09,35,Ghana
+Jul-09,36,Ecuador
+Jul-09,39,Honduras
+Jul-09,40,Japan
+Jul-09,45,Bosnia-Herzegovina
+Jul-09,46,Colombia
+Jul-09,47,Algeria
+Jul-09,48,South Korea
+Jul-09,58,Iran
+Jul-09,63,Belgium
+Aug-09,1,Brazil
+Aug-09,2,Spain
+Aug-09,3,Netherlands
+Aug-09,4,Germany
+Aug-09,5,Italy
+Aug-09,6,Russia
+Aug-09,7,England
+Aug-09,8,Argentina
+Aug-09,9,France
+Aug-09,10,Croatia
+Aug-09,11,Greece
+Aug-09,12,United States
+Aug-09,13,Switzerland
+Aug-09,16,Australia
+Aug-09,17,Portugal
+Aug-09,18,Ivory Coast
+Aug-09,21,Uruguay
+Aug-09,26,Chile
+Aug-09,29,Cameroon
+Aug-09,30,Mexico
+Aug-09,34,Nigeria
+Aug-09,35,Ghana
+Aug-09,36,Ecuador
+Aug-09,38,Costa Rica
+Aug-09,39,Japan
+Aug-09,44,Bosnia-Herzegovina
+Aug-09,45,Colombia
+Aug-09,46,Honduras
+Aug-09,47,Algeria
+Aug-09,48,South Korea
+Aug-09,61,Iran
+Aug-09,62,Belgium
+Sep-09,1,Brazil
+Sep-09,2,Spain
+Sep-09,3,Netherlands
+Sep-09,4,Italy
+Sep-09,5,Germany
+Sep-09,6,Russia
+Sep-09,7,England
+Sep-09,8,Argentina
+Sep-09,9,Croatia
+Sep-09,10,France
+Sep-09,11,United States
+Sep-09,12,Greece
+Sep-09,14,Australia
+Sep-09,15,Switzerland
+Sep-09,17,Portugal
+Sep-09,20,Ivory Coast
+Sep-09,21,Chile
+Sep-09,24,Mexico
+Sep-09,28,Uruguay
+Sep-09,29,Cameroon
+Sep-09,33,Ghana
+Sep-09,34,Nigeria
+Sep-09,36,Ecuador
+Sep-09,39,Costa Rica
+Sep-09,40,Japan
+Sep-09,42,Honduras
+Sep-09,44,Algeria
+Sep-09,46,Bosnia-Herzegovina
+Sep-09,48,Colombia
+Sep-09,49,South Korea
+Sep-09,60,Iran
+Sep-09,68,Belgium
+Oct-09,1,Brazil
+Oct-09,2,Spain
+Oct-09,3,Netherlands
+Oct-09,4,Italy
+Oct-09,5,Germany
+Oct-09,6,Argentina
+Oct-09,7,England
+Oct-09,8,Croatia
+Oct-09,9,France
+Oct-09,10,Portugal
+Oct-09,11,United States
+Oct-09,12,Russia
+Oct-09,13,Switzerland
+Oct-09,14,Cameroon
+Oct-09,16,Greece
+Oct-09,17,Chile
+Oct-09,18,Mexico
+Oct-09,19,Ivory Coast
+Oct-09,24,Australia
+Oct-09,25,Uruguay
+Oct-09,29,Algeria
+Oct-09,30,Colombia
+Oct-09,32,Nigeria
+Oct-09,35,Honduras
+Oct-09,38,Ghana
+Oct-09,40,Japan
+Oct-09,42,Bosnia-Herzegovina
+Oct-09,43,Costa Rica
+Oct-09,44,Ecuador
+Oct-09,48,South Korea
+Oct-09,62,Iran
+Oct-09,68,Belgium
+Nov-09,1,Spain
+Nov-09,2,Brazil
+Nov-09,3,Netherlands
+Nov-09,4,Italy
+Nov-09,5,Portugal
+Nov-09,6,Germany
+Nov-09,7,France
+Nov-09,8,Argentina
+Nov-09,9,England
+Nov-09,10,Croatia
+Nov-09,11,Cameroon
+Nov-09,12,Greece
+Nov-09,13,Russia
+Nov-09,14,United States
+Nov-09,15,Mexico
+Nov-09,16,Ivory Coast
+Nov-09,17,Chile
+Nov-09,18,Switzerland
+Nov-09,19,Uruguay
+Nov-09,21,Australia
+Nov-09,22,Nigeria
+Nov-09,28,Algeria
+Nov-09,35,Ecuador
+Nov-09,37,Ghana
+Nov-09,38,Honduras
+Nov-09,40,Colombia
+Nov-09,43,Japan
+Nov-09,44,Costa Rica
+Nov-09,51,Bosnia-Herzegovina
+Nov-09,52,South Korea
+Nov-09,63,Iran
+Nov-09,64,Belgium
+Dec-09,1,Spain
+Dec-09,2,Brazil
+Dec-09,3,Netherlands
+Dec-09,4,Italy
+Dec-09,5,Portugal
+Dec-09,6,Germany
+Dec-09,7,France
+Dec-09,8,Argentina
+Dec-09,9,England
+Dec-09,10,Croatia
+Dec-09,11,Cameroon
+Dec-09,12,Russia
+Dec-09,13,Greece
+Dec-09,14,United States
+Dec-09,15,Chile
+Dec-09,16,Ivory Coast
+Dec-09,17,Mexico
+Dec-09,18,Switzerland
+Dec-09,20,Uruguay
+Dec-09,21,Australia
+Dec-09,23,Nigeria
+Dec-09,26,Algeria
+Dec-09,34,Ghana
+Dec-09,37,Honduras
+Dec-09,38,Ecuador
+Dec-09,39,Colombia
+Dec-09,43,Japan
+Dec-09,44,Costa Rica
+Dec-09,51,Bosnia-Herzegovina
+Dec-09,52,South Korea
+Dec-09,64,Iran
+Dec-09,66,Belgium
+Feb-10,1,Spain
+Feb-10,2,Brazil
+Feb-10,3,Netherlands
+Feb-10,4,Italy
+Feb-10,5,Portugal
+Feb-10,6,Germany
+Feb-10,7,France
+Feb-10,8,Argentina
+Feb-10,9,England
+Feb-10,11,Croatia
+Feb-10,12,Greece
+Feb-10,13,Russia
+Feb-10,14,United States
+Feb-10,15,Nigeria
+Feb-10,16,Chile
+Feb-10,17,Mexico
+Feb-10,18,Switzerland
+Feb-10,20,Cameroon
+Feb-10,21,Uruguay
+Feb-10,22,Ivory Coast
+Feb-10,23,Australia
+Feb-10,27,Ghana
+Feb-10,31,Algeria
+Feb-10,34,Honduras
+Feb-10,35,Ecuador
+Feb-10,39,Colombia
+Feb-10,40,Japan
+Feb-10,45,Costa Rica
+Feb-10,48,Bosnia-Herzegovina
+Feb-10,49,South Korea
+Feb-10,63,Iran
+Feb-10,66,Belgium
+Mar-10,1,Spain
+Mar-10,2,Brazil
+Mar-10,3,Netherlands
+Mar-10,4,Portugal
+Mar-10,5,Italy
+Mar-10,6,Germany
+Mar-10,7,England
+Mar-10,8,France
+Mar-10,9,Argentina
+Mar-10,10,Croatia
+Mar-10,11,Greece
+Mar-10,12,Russia
+Mar-10,13,Chile
+Mar-10,16,United States
+Mar-10,17,Mexico
+Mar-10,18,Uruguay
+Mar-10,19,Australia
+Mar-10,20,Cameroon
+Mar-10,21,Switzerland
+Mar-10,22,Nigeria
+Mar-10,25,Ivory Coast
+Mar-10,27,Algeria
+Mar-10,31,Ghana
+Mar-10,36,Honduras
+Mar-10,37,Ecuador
+Mar-10,39,Colombia
+Mar-10,42,Costa Rica
+Mar-10,45,Japan
+Mar-10,47,Bosnia-Herzegovina
+Mar-10,49,South Korea
+Mar-10,63,Iran
+Mar-10,66,Belgium
+Apr-10,1,Brazil
+Apr-10,2,Spain
+Apr-10,3,Portugal
+Apr-10,4,Netherlands
+Apr-10,5,Italy
+Apr-10,6,Germany
+Apr-10,7,Argentina
+Apr-10,8,England
+Apr-10,9,Croatia
+Apr-10,10,France
+Apr-10,11,Russia
+Apr-10,12,Greece
+Apr-10,14,United States
+Apr-10,15,Chile
+Apr-10,17,Mexico
+Apr-10,18,Uruguay
+Apr-10,19,Cameroon
+Apr-10,20,Nigeria
+Apr-10,21,Australia
+Apr-10,26,Switzerland
+Apr-10,27,Ivory Coast
+Apr-10,31,Algeria
+Apr-10,32,Ghana
+Apr-10,34,Colombia
+Apr-10,36,Ecuador
+Apr-10,40,Honduras
+Apr-10,42,Costa Rica
+Apr-10,45,Japan
+Apr-10,47,South Korea
+Apr-10,51,Bosnia-Herzegovina
+Apr-10,60,Iran
+Apr-10,62,Belgium
+May-10,1,Brazil
+May-10,2,Spain
+May-10,3,Portugal
+May-10,4,Netherlands
+May-10,5,Italy
+May-10,6,Germany
+May-10,7,Argentina
+May-10,8,England
+May-10,9,France
+May-10,10,Croatia
+May-10,11,Russia
+May-10,13,Greece
+May-10,14,United States
+May-10,16,Uruguay
+May-10,17,Mexico
+May-10,18,Chile
+May-10,19,Cameroon
+May-10,20,Australia
+May-10,21,Nigeria
+May-10,24,Switzerland
+May-10,27,Ivory Coast
+May-10,30,Algeria
+May-10,32,Ghana
+May-10,35,Colombia
+May-10,38,Honduras
+May-10,40,Costa Rica
+May-10,44,Ecuador
+May-10,45,Japan
+May-10,47,South Korea
+May-10,51,Bosnia-Herzegovina
+May-10,59,Belgium
+May-10,61,Iran
+Jul-10,1,Spain
+Jul-10,2,Netherlands
+Jul-10,3,Brazil
+Jul-10,4,Germany
+Jul-10,5,Argentina
+Jul-10,6,Uruguay
+Jul-10,7,England
+Jul-10,8,Portugal
+Jul-10,10,Chile
+Jul-10,11,Italy
+Jul-10,12,Greece
+Jul-10,13,United States
+Jul-10,15,Croatia
+Jul-10,17,Russia
+Jul-10,18,Switzerland
+Jul-10,20,Australia
+Jul-10,21,France
+Jul-10,23,Ghana
+Jul-10,24,Mexico
+Jul-10,26,Ivory Coast
+Jul-10,30,Nigeria
+Jul-10,32,Japan
+Jul-10,33,Algeria
+Jul-10,39,Colombia
+Jul-10,40,Cameroon
+Jul-10,44,South Korea
+Jul-10,46,Honduras
+Jul-10,48,Belgium
+Jul-10,49,Costa Rica
+Jul-10,57,Bosnia-Herzegovina
+Jul-10,58,Ecuador
+Jul-10,64,Iran
+Aug-10,1,Spain
+Aug-10,2,Netherlands
+Aug-10,3,Brazil
+Aug-10,5,Argentina
+Aug-10,6,Uruguay
+Aug-10,7,England
+Aug-10,8,Portugal
+Aug-10,10,Chile
+Aug-10,11,Italy
+Aug-10,12,Greece
+Aug-10,14,Croatia
+Aug-10,16,Russia
+Aug-10,17,Switzerland
+Aug-10,18,United States
+Aug-10,20,Australia
+Aug-10,21,France
+Aug-10,23,Ghana
+Aug-10,25,Mexico
+Aug-10,26,Ivory Coast
+Aug-10,30,Nigeria
+Aug-10,32,Japan
+Aug-10,33,Algeria
+Aug-10,37,Colombia
+Aug-10,40,Cameroon
+Aug-10,44,South Korea
+Aug-10,46,Honduras
+Aug-10,48,Belgium
+Aug-10,53,Costa Rica
+Aug-10,57,Bosnia-Herzegovina
+Aug-10,58,Ecuador
+Aug-10,65,Iran
+Sep-10,1,Spain
+Sep-10,2,Germany
+Sep-10,3,Portugal
+Sep-10,4,Brazil
+Sep-10,5,Colombia
+Sep-10,6,Uruguay
+Sep-10,7,Argentina
+Sep-10,8,Switzerland
+Sep-10,9,Italy
+Sep-10,10,Greece
+Sep-10,11,England
+Sep-10,12,Belgium
+Sep-10,13,Chile
+Sep-10,14,United States
+Sep-10,15,Netherlands
+Sep-10,16,France
+Sep-10,18,Russia
+Sep-10,19,Mexico
+Sep-10,20,Croatia
+Sep-10,21,Ivory Coast
+Sep-10,25,Bosnia-Herzegovina
+Sep-10,27,Algeria
+Sep-10,28,Ecuador
+Sep-10,31,Honduras
+Sep-10,34,Costa Rica
+Sep-10,37,Iran
+Sep-10,38,Ghana
+Sep-10,44,Nigeria
+Sep-10,47,Japan
+Sep-10,50,Cameroon
+Sep-10,55,South Korea
+Sep-10,60,Australia
+Oct-10,1,Spain
+Oct-10,2,Netherlands
+Oct-10,3,Brazil
+Oct-10,4,Germany
+Oct-10,5,Argentina
+Oct-10,6,England
+Oct-10,7,Uruguay
+Oct-10,8,Portugal
+Oct-10,9,Croatia
+Oct-10,10,Russia
+Oct-10,12,Greece
+Oct-10,14,Chile
+Oct-10,16,Italy
+Oct-10,17,Ghana
+Oct-10,18,France
+Oct-10,19,Ivory Coast
+Oct-10,21,Australia
+Oct-10,23,Switzerland
+Oct-10,25,United States
+Oct-10,28,Mexico
+Oct-10,30,Japan
+Oct-10,33,Algeria
+Oct-10,34,Nigeria
+Oct-10,38,Cameroon
+Oct-10,40,South Korea
+Oct-10,46,Colombia
+Oct-10,53,Bosnia-Herzegovina
+Oct-10,54,Honduras
+Oct-10,61,Iran
+Oct-10,62,Belgium
+Oct-10,66,Costa Rica
+Oct-10,67,Ecuador
+Nov-10,1,Spain
+Nov-10,2,Netherlands
+Nov-10,3,Brazil
+Nov-10,4,Germany
+Nov-10,5,Argentina
+Nov-10,6,England
+Nov-10,7,Uruguay
+Nov-10,8,Portugal
+Nov-10,9,Croatia
+Nov-10,11,Greece
+Nov-10,13,Russia
+Nov-10,14,Italy
+Nov-10,16,Chile
+Nov-10,17,Ghana
+Nov-10,19,Ivory Coast
+Nov-10,20,Australia
+Nov-10,21,France
+Nov-10,22,Switzerland
+Nov-10,24,United States
+Nov-10,28,Mexico
+Nov-10,30,Japan
+Nov-10,33,Nigeria
+Nov-10,34,Algeria
+Nov-10,38,Cameroon
+Nov-10,39,South Korea
+Nov-10,47,Colombia
+Nov-10,51,Bosnia-Herzegovina
+Nov-10,57,Honduras
+Nov-10,61,Ecuador
+Nov-10,62,Belgium
+Nov-10,63,Costa Rica
+Nov-10,66,Iran
+Dec-10,1,Spain
+Dec-10,2,Netherlands
+Dec-10,3,Germany
+Dec-10,4,Brazil
+Dec-10,5,Argentina
+Dec-10,6,England
+Dec-10,7,Uruguay
+Dec-10,8,Portugal
+Dec-10,10,Croatia
+Dec-10,11,Greece
+Dec-10,13,Russia
+Dec-10,14,Italy
+Dec-10,15,Chile
+Dec-10,16,Ghana
+Dec-10,18,United States
+Dec-10,19,France
+Dec-10,21,Ivory Coast
+Dec-10,22,Switzerland
+Dec-10,26,Australia
+Dec-10,27,Mexico
+Dec-10,29,Japan
+Dec-10,32,Nigeria
+Dec-10,35,Algeria
+Dec-10,37,Cameroon
+Dec-10,40,South Korea
+Dec-10,44,Bosnia-Herzegovina
+Dec-10,48,Colombia
+Dec-10,54,Ecuador
+Dec-10,57,Belgium
+Dec-10,59,Honduras
+Dec-10,66,Iran
+Dec-10,69,Costa Rica
+Jan-11,1,Spain
+Jan-11,2,Netherlands
+Jan-11,3,Germany
+Jan-11,4,Brazil
+Jan-11,5,Argentina
+Jan-11,6,England
+Jan-11,7,Uruguay
+Jan-11,8,Portugal
+Jan-11,9,Croatia
+Jan-11,11,Greece
+Jan-11,13,Russia
+Jan-11,14,Italy
+Jan-11,15,Chile
+Jan-11,16,Ghana
+Jan-11,18,United States
+Jan-11,19,France
+Jan-11,21,Ivory Coast
+Jan-11,22,Switzerland
+Jan-11,26,Australia
+Jan-11,27,Mexico
+Jan-11,29,Japan
+Jan-11,32,Nigeria
+Jan-11,36,Algeria
+Jan-11,38,Cameroon
+Jan-11,39,South Korea
+Jan-11,45,Bosnia-Herzegovina
+Jan-11,48,Colombia
+Jan-11,53,Ecuador
+Jan-11,56,Honduras
+Jan-11,58,Belgium
+Jan-11,65,Iran
+Jan-11,69,Costa Rica
+Feb-11,1,Spain
+Feb-11,2,Netherlands
+Feb-11,3,Germany
+Feb-11,4,Brazil
+Feb-11,5,Argentina
+Feb-11,6,England
+Feb-11,7,Uruguay
+Feb-11,8,Portugal
+Feb-11,9,Croatia
+Feb-11,10,Greece
+Feb-11,12,Russia
+Feb-11,13,Italy
+Feb-11,14,Chile
+Feb-11,15,Ghana
+Feb-11,17,Japan
+Feb-11,18,United States
+Feb-11,19,France
+Feb-11,21,Australia
+Feb-11,22,Switzerland
+Feb-11,26,Ivory Coast
+Feb-11,27,Mexico
+Feb-11,32,South Korea
+Feb-11,39,Honduras
+Feb-11,40,Nigeria
+Feb-11,42,Bosnia-Herzegovina
+Feb-11,43,Cameroon
+Feb-11,44,Iran
+Feb-11,48,Costa Rica
+Feb-11,50,Colombia
+Feb-11,54,Ecuador
+Feb-11,55,Algeria
+Feb-11,58,Belgium
+Mar-11,1,Spain
+Mar-11,2,Netherlands
+Mar-11,3,Germany
+Mar-11,4,Argentina
+Mar-11,5,Brazil
+Mar-11,6,England
+Mar-11,7,Uruguay
+Mar-11,8,Croatia
+Mar-11,9,Portugal
+Mar-11,10,Greece
+Mar-11,11,Italy
+Mar-11,13,Russia
+Mar-11,14,Chile
+Mar-11,15,Japan
+Mar-11,16,Ghana
+Mar-11,18,France
+Mar-11,19,United States
+Mar-11,21,Australia
+Mar-11,23,Switzerland
+Mar-11,25,Ivory Coast
+Mar-11,27,Mexico
+Mar-11,29,South Korea
+Mar-11,38,Honduras
+Mar-11,39,Nigeria
+Mar-11,42,Cameroon
+Mar-11,43,Iran
+Mar-11,49,Ecuador
+Mar-11,50,Colombia
+Mar-11,53,Costa Rica
+Mar-11,55,Algeria
+Mar-11,56,Bosnia-Herzegovina
+Mar-11,62,Belgium
+Apr-11,1,Spain
+Apr-11,2,Netherlands
+Apr-11,3,Brazil
+Apr-11,4,Germany
+Apr-11,5,Argentina
+Apr-11,6,England
+Apr-11,7,Uruguay
+Apr-11,8,Portugal
+Apr-11,9,Italy
+Apr-11,10,Croatia
+Apr-11,12,Greece
+Apr-11,13,Japan
+Apr-11,14,Chile
+Apr-11,15,Ghana
+Apr-11,18,Russia
+Apr-11,19,France
+Apr-11,20,Australia
+Apr-11,21,Ivory Coast
+Apr-11,22,United States
+Apr-11,25,Switzerland
+Apr-11,26,Mexico
+Apr-11,31,South Korea
+Apr-11,37,Belgium
+Apr-11,38,Nigeria
+Apr-11,40,Algeria
+Apr-11,43,Honduras
+Apr-11,44,Bosnia-Herzegovina
+Apr-11,47,Iran
+Apr-11,48,Cameroon
+Apr-11,49,Colombia
+Apr-11,55,Costa Rica
+Apr-11,57,Ecuador
+May-11,1,Spain
+May-11,2,Netherlands
+May-11,3,Brazil
+May-11,4,Germany
+May-11,5,Argentina
+May-11,6,England
+May-11,7,Uruguay
+May-11,8,Portugal
+May-11,9,Italy
+May-11,10,Croatia
+May-11,12,Greece
+May-11,13,Chile
+May-11,14,Japan
+May-11,15,Ghana
+May-11,18,Russia
+May-11,19,France
+May-11,20,Australia
+May-11,21,Ivory Coast
+May-11,22,United States
+May-11,25,Switzerland
+May-11,28,Mexico
+May-11,31,South Korea
+May-11,37,Belgium
+May-11,39,Nigeria
+May-11,41,Algeria
+May-11,43,Honduras
+May-11,45,Bosnia-Herzegovina
+May-11,48,Iran
+May-11,49,Cameroon
+May-11,50,Colombia
+May-11,56,Costa Rica
+May-11,64,Ecuador
+Jun-11,1,Spain
+Jun-11,2,Netherlands
+Jun-11,3,Germany
+Jun-11,4,England
+Jun-11,5,Brazil
+Jun-11,6,Italy
+Jun-11,7,Portugal
+Jun-11,8,Croatia
+Jun-11,9,Mexico
+Jun-11,10,Argentina
+Jun-11,12,Greece
+Jun-11,13,Japan
+Jun-11,14,Ivory Coast
+Jun-11,15,France
+Jun-11,17,Russia
+Jun-11,18,Uruguay
+Jun-11,22,Australia
+Jun-11,24,United States
+Jun-11,26,South Korea
+Jun-11,27,Chile
+Jun-11,29,Switzerland
+Jun-11,33,Ghana
+Jun-11,35,Belgium
+Jun-11,39,Bosnia-Herzegovina
+Jun-11,41,Nigeria
+Jun-11,44,Honduras
+Jun-11,48,Cameroon
+Jun-11,50,Iran
+Jun-11,51,Algeria
+Jun-11,54,Colombia
+Jun-11,55,Costa Rica
+Jun-11,68,Ecuador
+Jul-11,1,Spain
+Jul-11,2,Netherlands
+Jul-11,3,Germany
+Jul-11,4,Brazil
+Jul-11,5,Uruguay
+Jul-11,6,England
+Jul-11,7,Portugal
+Jul-11,8,Italy
+Jul-11,9,Croatia
+Jul-11,10,Argentina
+Jul-11,11,Chile
+Jul-11,13,Greece
+Jul-11,14,Ivory Coast
+Jul-11,15,France
+Jul-11,16,Japan
+Jul-11,18,Russia
+Jul-11,20,Mexico
+Jul-11,23,Australia
+Jul-11,28,South Korea
+Jul-11,30,United States
+Jul-11,31,Switzerland
+Jul-11,35,Colombia
+Jul-11,36,Ghana
+Jul-11,37,Belgium
+Jul-11,41,Bosnia-Herzegovina
+Jul-11,43,Nigeria
+Jul-11,50,Cameroon
+Jul-11,51,Honduras
+Jul-11,52,Algeria
+Jul-11,54,Iran
+Jul-11,56,Costa Rica
+Jul-11,67,Ecuador
+Aug-11,1,Netherlands
+Aug-11,2,Spain
+Aug-11,3,Germany
+Aug-11,4,England
+Aug-11,5,Uruguay
+Aug-11,6,Brazil
+Aug-11,7,Italy
+Aug-11,8,Portugal
+Aug-11,9,Argentina
+Aug-11,10,Croatia
+Aug-11,11,Chile
+Aug-11,13,Russia
+Aug-11,14,Greece
+Aug-11,15,Ivory Coast
+Aug-11,16,France
+Aug-11,17,Japan
+Aug-11,20,Mexico
+Aug-11,22,Australia
+Aug-11,28,United States
+Aug-11,30,Switzerland
+Aug-11,33,South Korea
+Aug-11,35,Colombia
+Aug-11,36,Ghana
+Aug-11,37,Belgium
+Aug-11,38,Nigeria
+Aug-11,39,Bosnia-Herzegovina
+Aug-11,46,Algeria
+Aug-11,50,Honduras
+Aug-11,52,Cameroon
+Aug-11,53,Iran
+Aug-11,60,Costa Rica
+Aug-11,66,Ecuador
+Sep-11,1,Spain
+Sep-11,2,Netherlands
+Sep-11,3,Germany
+Sep-11,4,Uruguay
+Sep-11,5,Portugal
+Sep-11,6,Italy
+Sep-11,7,Brazil
+Sep-11,8,England
+Sep-11,9,Croatia
+Sep-11,10,Argentina
+Sep-11,11,Greece
+Sep-11,12,France
+Sep-11,13,Russia
+Sep-11,14,Chile
+Sep-11,15,Japan
+Sep-11,16,Ivory Coast
+Sep-11,18,Switzerland
+Sep-11,19,Australia
+Sep-11,20,Mexico
+Sep-11,22,Bosnia-Herzegovina
+Sep-11,30,South Korea
+Sep-11,31,United States
+Sep-11,32,Colombia
+Sep-11,34,Belgium
+Sep-11,37,Ghana
+Sep-11,43,Nigeria
+Sep-11,46,Algeria
+Sep-11,48,Cameroon
+Sep-11,50,Iran
+Sep-11,54,Honduras
+Sep-11,57,Costa Rica
+Sep-11,69,Ecuador
+Oct-11,1,Spain
+Oct-11,2,Netherlands
+Oct-11,3,Germany
+Oct-11,4,Uruguay
+Oct-11,5,Brazil
+Oct-11,6,Italy
+Oct-11,7,England
+Oct-11,8,Greece
+Oct-11,9,Portugal
+Oct-11,10,Argentina
+Oct-11,12,Croatia
+Oct-11,13,Russia
+Oct-11,15,France
+Oct-11,16,Chile
+Oct-11,17,Japan
+Oct-11,18,Switzerland
+Oct-11,19,Ivory Coast
+Oct-11,20,Australia
+Oct-11,21,Bosnia-Herzegovina
+Oct-11,22,Mexico
+Oct-11,30,Colombia
+Oct-11,31,South Korea
+Oct-11,33,Ghana
+Oct-11,34,United States
+Oct-11,35,Algeria
+Oct-11,37,Belgium
+Oct-11,42,Iran
+Oct-11,44,Nigeria
+Oct-11,47,Cameroon
+Oct-11,52,Ecuador
+Oct-11,57,Honduras
+Oct-11,62,Costa Rica
+Nov-11,1,Spain
+Nov-11,2,Netherlands
+Nov-11,3,Germany
+Nov-11,4,Uruguay
+Nov-11,5,England
+Nov-11,6,Brazil
+Nov-11,7,Portugal
+Nov-11,8,Croatia
+Nov-11,9,Italy
+Nov-11,10,Argentina
+Nov-11,12,Russia
+Nov-11,13,Chile
+Nov-11,14,Greece
+Nov-11,15,France
+Nov-11,16,Ivory Coast
+Nov-11,17,Switzerland
+Nov-11,19,Japan
+Nov-11,20,Mexico
+Nov-11,22,Australia
+Nov-11,23,Bosnia-Herzegovina
+Nov-11,29,Ghana
+Nov-11,30,Algeria
+Nov-11,32,South Korea
+Nov-11,34,United States
+Nov-11,36,Colombia
+Nov-11,41,Belgium
+Nov-11,42,Ecuador
+Nov-11,43,Nigeria
+Nov-11,45,Iran
+Nov-11,48,Cameroon
+Nov-11,54,Honduras
+Nov-11,64,Costa Rica
+Dec-11,1,Spain
+Dec-11,2,Netherlands
+Dec-11,3,Germany
+Dec-11,4,Uruguay
+Dec-11,5,England
+Dec-11,6,Brazil
+Dec-11,7,Portugal
+Dec-11,8,Croatia
+Dec-11,9,Italy
+Dec-11,10,Argentina
+Dec-11,12,Russia
+Dec-11,13,Chile
+Dec-11,14,Greece
+Dec-11,15,France
+Dec-11,16,Ivory Coast
+Dec-11,17,Switzerland
+Dec-11,19,Japan
+Dec-11,20,Bosnia-Herzegovina
+Dec-11,21,Mexico
+Dec-11,23,Australia
+Dec-11,29,Ghana
+Dec-11,30,Algeria
+Dec-11,32,South Korea
+Dec-11,34,United States
+Dec-11,36,Colombia
+Dec-11,41,Belgium
+Dec-11,42,Ecuador
+Dec-11,43,Nigeria
+Dec-11,45,Iran
+Dec-11,50,Cameroon
+Dec-11,53,Honduras
+Dec-11,65,Costa Rica
+Jan-12,1,Spain
+Jan-12,2,Netherlands
+Jan-12,3,Germany
+Jan-12,4,Uruguay
+Jan-12,5,England
+Jan-12,6,Brazil
+Jan-12,7,Portugal
+Jan-12,8,Croatia
+Jan-12,9,Italy
+Jan-12,10,Argentina
+Jan-12,12,Chile
+Jan-12,13,Russia
+Jan-12,14,Greece
+Jan-12,15,France
+Jan-12,16,Switzerland
+Jan-12,18,Ivory Coast
+Jan-12,19,Bosnia-Herzegovina
+Jan-12,20,Japan
+Jan-12,21,Australia
+Jan-12,22,Mexico
+Jan-12,26,Ghana
+Jan-12,30,South Korea
+Jan-12,32,Algeria
+Jan-12,33,United States
+Jan-12,35,Colombia
+Jan-12,40,Belgium
+Jan-12,42,Ecuador
+Jan-12,44,Iran
+Jan-12,46,Nigeria
+Jan-12,51,Honduras
+Jan-12,56,Cameroon
+Jan-12,62,Costa Rica
+Feb-12,1,Spain
+Feb-12,2,Germany
+Feb-12,3,Netherlands
+Feb-12,4,Uruguay
+Feb-12,5,England
+Feb-12,6,Portugal
+Feb-12,7,Brazil
+Feb-12,8,Italy
+Feb-12,9,Croatia
+Feb-12,11,Argentina
+Feb-12,12,Chile
+Feb-12,13,Russia
+Feb-12,14,Greece
+Feb-12,15,Ivory Coast
+Feb-12,16,Switzerland
+Feb-12,17,France
+Feb-12,19,Bosnia-Herzegovina
+Feb-12,21,Mexico
+Feb-12,22,Australia
+Feb-12,23,Ghana
+Feb-12,30,Japan
+Feb-12,31,United States
+Feb-12,32,Colombia
+Feb-12,34,South Korea
+Feb-12,36,Algeria
+Feb-12,39,Belgium
+Feb-12,40,Ecuador
+Feb-12,47,Iran
+Feb-12,56,Nigeria
+Feb-12,59,Honduras
+Feb-12,63,Costa Rica
+Feb-12,66,Cameroon
+Mar-12,1,Spain
+Mar-12,2,Netherlands
+Mar-12,3,Germany
+Mar-12,4,Uruguay
+Mar-12,5,Brazil
+Mar-12,6,England
+Mar-12,7,Portugal
+Mar-12,8,Argentina
+Mar-12,9,Italy
+Mar-12,10,Croatia
+Mar-12,12,Russia
+Mar-12,13,Greece
+Mar-12,14,Chile
+Mar-12,15,Ivory Coast
+Mar-12,16,France
+Mar-12,18,Switzerland
+Mar-12,20,Australia
+Mar-12,21,Bosnia-Herzegovina
+Mar-12,22,Mexico
+Mar-12,23,Ghana
+Mar-12,27,United States
+Mar-12,30,South Korea
+Mar-12,31,Colombia
+Mar-12,33,Japan
+Mar-12,35,Algeria
+Mar-12,39,Ecuador
+Mar-12,40,Belgium
+Mar-12,51,Iran
+Mar-12,57,Nigeria
+Mar-12,59,Costa Rica
+Mar-12,63,Honduras
+Mar-12,66,Cameroon
+Apr-12,1,Spain
+Apr-12,2,Germany
+Apr-12,3,Uruguay
+Apr-12,4,Netherlands
+Apr-12,5,Portugal
+Apr-12,6,Brazil
+Apr-12,7,England
+Apr-12,8,Croatia
+Apr-12,10,Argentina
+Apr-12,11,Russia
+Apr-12,12,Italy
+Apr-12,13,Chile
+Apr-12,14,Greece
+Apr-12,15,Ivory Coast
+Apr-12,16,France
+Apr-12,19,Switzerland
+Apr-12,20,Mexico
+Apr-12,21,Australia
+Apr-12,22,Ghana
+Apr-12,23,Colombia
+Apr-12,27,Bosnia-Herzegovina
+Apr-12,29,United States
+Apr-12,30,Japan
+Apr-12,31,South Korea
+Apr-12,37,Ecuador
+Apr-12,38,Algeria
+Apr-12,44,Belgium
+Apr-12,51,Iran
+Apr-12,59,Costa Rica
+Apr-12,60,Nigeria
+Apr-12,61,Honduras
+Apr-12,64,Cameroon
+May-12,1,Spain
+May-12,2,Germany
+May-12,3,Uruguay
+May-12,4,Netherlands
+May-12,5,Portugal
+May-12,6,Brazil
+May-12,7,England
+May-12,8,Croatia
+May-12,9,Argentina
+May-12,11,Russia
+May-12,12,Italy
+May-12,13,Chile
+May-12,14,Greece
+May-12,15,Ivory Coast
+May-12,16,France
+May-12,19,Switzerland
+May-12,20,Mexico
+May-12,21,Australia
+May-12,22,Ghana
+May-12,23,Colombia
+May-12,27,Bosnia-Herzegovina
+May-12,29,United States
+May-12,30,Japan
+May-12,31,South Korea
+May-12,37,Ecuador
+May-12,38,Algeria
+May-12,44,Belgium
+May-12,52,Iran
+May-12,59,Costa Rica
+May-12,62,Honduras
+May-12,63,Nigeria
+May-12,64,Cameroon
+Jun-12,1,Spain
+Jun-12,2,Uruguay
+Jun-12,3,Germany
+Jun-12,4,Netherlands
+Jun-12,5,Brazil
+Jun-12,6,England
+Jun-12,7,Argentina
+Jun-12,8,Croatia
+Jun-12,10,Portugal
+Jun-12,11,Chile
+Jun-12,12,Italy
+Jun-12,13,Russia
+Jun-12,14,France
+Jun-12,15,Greece
+Jun-12,16,Ivory Coast
+Jun-12,19,Mexico
+Jun-12,20,Colombia
+Jun-12,21,Switzerland
+Jun-12,23,Japan
+Jun-12,24,Australia
+Jun-12,25,Ghana
+Jun-12,28,United States
+Jun-12,29,Bosnia-Herzegovina
+Jun-12,32,Algeria
+Jun-12,35,South Korea
+Jun-12,36,Ecuador
+Jun-12,45,Iran
+Jun-12,54,Belgium
+Jun-12,56,Honduras
+Jun-12,61,Nigeria
+Jun-12,64,Cameroon
+Jun-12,65,Costa Rica
+Jul-12,1,Spain
+Jul-12,2,Germany
+Jul-12,3,Uruguay
+Jul-12,4,England
+Jul-12,5,Portugal
+Jul-12,6,Italy
+Jul-12,7,Argentina
+Jul-12,8,Netherlands
+Jul-12,9,Croatia
+Jul-12,11,Brazil
+Jul-12,12,Greece
+Jul-12,13,Russia
+Jul-12,14,France
+Jul-12,15,Chile
+Jul-12,16,Ivory Coast
+Jul-12,19,Mexico
+Jul-12,20,Japan
+Jul-12,21,Switzerland
+Jul-12,22,Colombia
+Jul-12,23,Australia
+Jul-12,27,Ecuador
+Jul-12,28,South Korea
+Jul-12,30,Bosnia-Herzegovina
+Jul-12,33,Ghana
+Jul-12,35,Algeria
+Jul-12,36,United States
+Jul-12,51,Iran
+Jul-12,53,Belgium
+Jul-12,57,Costa Rica
+Jul-12,58,Nigeria
+Jul-12,59,Cameroon
+Jul-12,64,Honduras
+Aug-12,1,Spain
+Aug-12,2,Germany
+Aug-12,3,England
+Aug-12,4,Uruguay
+Aug-12,5,Portugal
+Aug-12,6,Italy
+Aug-12,7,Argentina
+Aug-12,8,Netherlands
+Aug-12,9,Croatia
+Aug-12,11,Russia
+Aug-12,12,Greece
+Aug-12,13,Brazil
+Aug-12,14,France
+Aug-12,15,Chile
+Aug-12,16,Ivory Coast
+Aug-12,18,Mexico
+Aug-12,20,Ecuador
+Aug-12,21,Colombia
+Aug-12,22,Japan
+Aug-12,23,Switzerland
+Aug-12,24,Australia
+Aug-12,29,South Korea
+Aug-12,31,Bosnia-Herzegovina
+Aug-12,32,Ghana
+Aug-12,34,Algeria
+Aug-12,36,United States
+Aug-12,48,Iran
+Aug-12,53,Belgium
+Aug-12,58,Nigeria
+Aug-12,59,Cameroon
+Aug-12,62,Costa Rica
+Aug-12,65,Honduras
+Sep-12,1,Spain
+Sep-12,2,Germany
+Sep-12,3,England
+Sep-12,4,Portugal
+Sep-12,5,Uruguay
+Sep-12,6,Italy
+Sep-12,7,Argentina
+Sep-12,8,Netherlands
+Sep-12,9,Croatia
+Sep-12,11,Greece
+Sep-12,12,Brazil
+Sep-12,13,Russia
+Sep-12,14,Chile
+Sep-12,15,France
+Sep-12,16,Ivory Coast
+Sep-12,17,Ecuador
+Sep-12,20,Switzerland
+Sep-12,21,Mexico
+Sep-12,22,Colombia
+Sep-12,23,Japan
+Sep-12,25,Australia
+Sep-12,27,South Korea
+Sep-12,28,Algeria
+Sep-12,30,Bosnia-Herzegovina
+Sep-12,31,Ghana
+Sep-12,33,United States
+Sep-12,40,Belgium
+Sep-12,54,Iran
+Sep-12,58,Nigeria
+Sep-12,61,Cameroon
+Sep-12,66,Costa Rica
+Sep-12,72,Honduras
+Oct-12,1,Spain
+Oct-12,2,Germany
+Oct-12,3,Portugal
+Oct-12,4,Argentina
+Oct-12,5,England
+Oct-12,6,Netherlands
+Oct-12,7,Uruguay
+Oct-12,8,Italy
+Oct-12,9,Colombia
+Oct-12,10,Greece
+Oct-12,11,Croatia
+Oct-12,12,Russia
+Oct-12,13,France
+Oct-12,14,Brazil
+Oct-12,15,Switzerland
+Oct-12,16,Ivory Coast
+Oct-12,17,Chile
+Oct-12,19,Mexico
+Oct-12,20,Ecuador
+Oct-12,23,Japan
+Oct-12,24,Algeria
+Oct-12,25,South Korea
+Oct-12,29,Bosnia-Herzegovina
+Oct-12,30,Belgium
+Oct-12,31,Ghana
+Oct-12,32,United States
+Oct-12,34,Australia
+Oct-12,58,Iran
+Oct-12,63,Nigeria
+Oct-12,66,Honduras
+Oct-12,71,Cameroon
+Oct-12,73,Costa Rica
+Nov-12,1,Spain
+Nov-12,2,Germany
+Nov-12,3,Argentina
+Nov-12,4,Portugal
+Nov-12,5,Italy
+Nov-12,6,England
+Nov-12,7,Netherlands
+Nov-12,8,Colombia
+Nov-12,9,Russia
+Nov-12,10,Croatia
+Nov-12,11,Uruguay
+Nov-12,12,Greece
+Nov-12,13,Brazil
+Nov-12,14,Mexico
+Nov-12,15,Ivory Coast
+Nov-12,16,Switzerland
+Nov-12,17,Ecuador
+Nov-12,18,France
+Nov-12,19,Algeria
+Nov-12,20,Belgium
+Nov-12,21,Chile
+Nov-12,24,Japan
+Nov-12,27,United States
+Nov-12,29,Ghana
+Nov-12,31,Bosnia-Herzegovina
+Nov-12,32,South Korea
+Nov-12,33,Australia
+Nov-12,44,Iran
+Nov-12,56,Honduras
+Nov-12,58,Nigeria
+Nov-12,62,Cameroon
+Nov-12,64,Costa Rica
+Dec-12,1,Spain
+Dec-12,2,Germany
+Dec-12,3,Argentina
+Dec-12,4,Italy
+Dec-12,5,Colombia
+Dec-12,6,England
+Dec-12,7,Portugal
+Dec-12,8,Netherlands
+Dec-12,9,Russia
+Dec-12,10,Croatia
+Dec-12,11,Greece
+Dec-12,12,Switzerland
+Dec-12,13,Ecuador
+Dec-12,14,Ivory Coast
+Dec-12,15,Mexico
+Dec-12,16,Uruguay
+Dec-12,17,France
+Dec-12,18,Brazil
+Dec-12,19,Algeria
+Dec-12,21,Belgium
+Dec-12,22,Japan
+Dec-12,26,Chile
+Dec-12,27,Bosnia-Herzegovina
+Dec-12,28,United States
+Dec-12,30,Ghana
+Dec-12,35,South Korea
+Dec-12,36,Australia
+Dec-12,53,Nigeria
+Dec-12,58,Honduras
+Dec-12,59,Iran
+Dec-12,61,Cameroon
+Dec-12,66,Costa Rica
+Jan-13,1,Spain
+Jan-13,2,Germany
+Jan-13,3,Argentina
+Jan-13,4,Italy
+Jan-13,5,Colombia
+Jan-13,6,England
+Jan-13,7,Portugal
+Jan-13,8,Netherlands
+Jan-13,9,Russia
+Jan-13,10,Croatia
+Jan-13,11,Greece
+Jan-13,12,Ecuador
+Jan-13,13,Switzerland
+Jan-13,14,Ivory Coast
+Jan-13,15,Mexico
+Jan-13,16,Uruguay
+Jan-13,17,France
+Jan-13,18,Brazil
+Jan-13,20,Belgium
+Jan-13,21,Japan
+Jan-13,22,Algeria
+Jan-13,26,Bosnia-Herzegovina
+Jan-13,27,Ghana
+Jan-13,28,United States
+Jan-13,30,Chile
+Jan-13,34,South Korea
+Jan-13,36,Australia
+Jan-13,52,Nigeria
+Jan-13,59,Honduras
+Jan-13,60,Iran
+Jan-13,66,Costa Rica
+Jan-13,67,Cameroon
+Feb-13,1,Spain
+Feb-13,2,Germany
+Feb-13,3,Argentina
+Feb-13,4,England
+Feb-13,5,Italy
+Feb-13,6,Colombia
+Feb-13,7,Portugal
+Feb-13,8,Netherlands
+Feb-13,9,Croatia
+Feb-13,10,Russia
+Feb-13,11,Greece
+Feb-13,12,Ivory Coast
+Feb-13,13,Ecuador
+Feb-13,14,Switzerland
+Feb-13,15,Mexico
+Feb-13,16,Uruguay
+Feb-13,17,France
+Feb-13,18,Brazil
+Feb-13,19,Ghana
+Feb-13,20,Belgium
+Feb-13,23,Chile
+Feb-13,24,Bosnia-Herzegovina
+Feb-13,28,Japan
+Feb-13,30,Nigeria
+Feb-13,32,United States
+Feb-13,34,Algeria
+Feb-13,37,Australia
+Feb-13,38,South Korea
+Feb-13,52,Honduras
+Feb-13,53,Costa Rica
+Feb-13,58,Iran
+Feb-13,79,Cameroon
+Mar-13,1,Spain
+Mar-13,2,Germany
+Mar-13,3,Argentina
+Mar-13,4,England
+Mar-13,5,Italy
+Mar-13,6,Colombia
+Mar-13,7,Portugal
+Mar-13,8,Netherlands
+Mar-13,9,Croatia
+Mar-13,10,Russia
+Mar-13,11,Ecuador
+Mar-13,12,Greece
+Mar-13,13,Ivory Coast
+Mar-13,14,Switzerland
+Mar-13,15,Mexico
+Mar-13,16,Uruguay
+Mar-13,17,France
+Mar-13,18,Brazil
+Mar-13,19,Belgium
+Mar-13,20,Ghana
+Mar-13,22,Chile
+Mar-13,23,Bosnia-Herzegovina
+Mar-13,26,Japan
+Mar-13,30,Nigeria
+Mar-13,33,United States
+Mar-13,34,Algeria
+Mar-13,39,Australia
+Mar-13,47,South Korea
+Mar-13,49,Honduras
+Mar-13,53,Costa Rica
+Mar-13,58,Iran
+Mar-13,80,Cameroon
+Apr-13,1,Spain
+Apr-13,2,Germany
+Apr-13,3,Argentina
+Apr-13,4,Croatia
+Apr-13,5,Portugal
+Apr-13,6,Colombia
+Apr-13,7,England
+Apr-13,8,Italy
+Apr-13,9,Netherlands
+Apr-13,10,Ecuador
+Apr-13,11,Russia
+Apr-13,12,Ivory Coast
+Apr-13,13,Greece
+Apr-13,14,Mexico
+Apr-13,15,Switzerland
+Apr-13,16,Belgium
+Apr-13,17,Uruguay
+Apr-13,18,France
+Apr-13,19,Brazil
+Apr-13,21,Bosnia-Herzegovina
+Apr-13,22,Ghana
+Apr-13,23,Chile
+Apr-13,28,United States
+Apr-13,29,Japan
+Apr-13,31,Nigeria
+Apr-13,35,Algeria
+Apr-13,42,South Korea
+Apr-13,46,Australia
+Apr-13,47,Costa Rica
+Apr-13,52,Honduras
+Apr-13,56,Iran
+Apr-13,60,Cameroon
+May-13,1,Spain
+May-13,2,Germany
+May-13,3,Argentina
+May-13,4,Croatia
+May-13,5,Portugal
+May-13,6,Colombia
+May-13,7,England
+May-13,8,Italy
+May-13,9,Netherlands
+May-13,10,Ecuador
+May-13,11,Russia
+May-13,12,Ivory Coast
+May-13,13,Greece
+May-13,14,Switzerland
+May-13,15,Belgium
+May-13,16,Mexico
+May-13,17,Uruguay
+May-13,18,France
+May-13,19,Brazil
+May-13,21,Bosnia-Herzegovina
+May-13,22,Ghana
+May-13,23,Chile
+May-13,28,Nigeria
+May-13,29,United States
+May-13,30,Japan
+May-13,35,Algeria
+May-13,42,South Korea
+May-13,47,Australia
+May-13,48,Costa Rica
+May-13,51,Honduras
+May-13,57,Iran
+May-13,62,Cameroon
+Jun-13,1,Spain
+Jun-13,2,Germany
+Jun-13,3,Argentina
+Jun-13,4,Croatia
+Jun-13,5,Netherlands
+Jun-13,6,Portugal
+Jun-13,7,Colombia
+Jun-13,8,Italy
+Jun-13,9,England
+Jun-13,10,Ecuador
+Jun-13,11,Russia
+Jun-13,12,Belgium
+Jun-13,13,Ivory Coast
+Jun-13,14,Switzerland
+Jun-13,15,Bosnia-Herzegovina
+Jun-13,16,Greece
+Jun-13,17,Mexico
+Jun-13,18,France
+Jun-13,19,Uruguay
+Jun-13,21,Ghana
+Jun-13,22,Brazil
+Jun-13,25,Chile
+Jun-13,28,United States
+Jun-13,31,Nigeria
+Jun-13,32,Japan
+Jun-13,35,Algeria
+Jun-13,40,South Korea
+Jun-13,47,Australia
+Jun-13,48,Costa Rica
+Jun-13,52,Honduras
+Jun-13,65,Cameroon
+Jun-13,68,Iran
+Jul-13,1,Spain
+Jul-13,2,Germany
+Jul-13,3,Colombia
+Jul-13,4,Argentina
+Jul-13,5,Netherlands
+Jul-13,6,Italy
+Jul-13,7,Portugal
+Jul-13,8,Croatia
+Jul-13,9,Brazil
+Jul-13,10,Belgium
+Jul-13,11,Greece
+Jul-13,12,Uruguay
+Jul-13,13,Ivory Coast
+Jul-13,14,Bosnia-Herzegovina
+Jul-13,15,England
+Jul-13,16,Switzerland
+Jul-13,17,Russia
+Jul-13,18,Ecuador
+Jul-13,20,Mexico
+Jul-13,21,Chile
+Jul-13,22,United States
+Jul-13,23,France
+Jul-13,24,Ghana
+Jul-13,34,Algeria
+Jul-13,35,Nigeria
+Jul-13,38,Japan
+Jul-13,39,Costa Rica
+Jul-13,40,Australia
+Jul-13,43,South Korea
+Jul-13,53,Iran
+Jul-13,55,Honduras
+Jul-13,71,Cameroon
+Aug-13,1,Spain
+Aug-13,2,Germany
+Aug-13,3,Colombia
+Aug-13,4,Argentina
+Aug-13,5,Netherlands
+Aug-13,6,Italy
+Aug-13,7,Portugal
+Aug-13,8,Croatia
+Aug-13,9,Brazil
+Aug-13,10,Belgium
+Aug-13,11,Greece
+Aug-13,12,Uruguay
+Aug-13,13,Bosnia-Herzegovina
+Aug-13,14,England
+Aug-13,15,Switzerland
+Aug-13,16,Russia
+Aug-13,17,Ecuador
+Aug-13,18,Ivory Coast
+Aug-13,19,United States
+Aug-13,20,Mexico
+Aug-13,21,Chile
+Aug-13,23,France
+Aug-13,24,Ghana
+Aug-13,34,Algeria
+Aug-13,35,Nigeria
+Aug-13,37,Japan
+Aug-13,42,Costa Rica
+Aug-13,43,Honduras
+Aug-13,47,Australia
+Aug-13,51,Cameroon
+Aug-13,52,Iran
+Aug-13,56,South Korea
+Sep-13,1,Spain
+Sep-13,2,Argentina
+Sep-13,3,Germany
+Sep-13,4,Italy
+Sep-13,5,Colombia
+Sep-13,6,Belgium
+Sep-13,7,Uruguay
+Sep-13,8,Brazil
+Sep-13,9,Netherlands
+Sep-13,10,Croatia
+Sep-13,11,Portugal
+Sep-13,12,Greece
+Sep-13,13,United States
+Sep-13,14,Switzerland
+Sep-13,15,Russia
+Sep-13,16,Chile
+Sep-13,17,England
+Sep-13,18,Bosnia-Herzegovina
+Sep-13,19,Ivory Coast
+Sep-13,20,Ecuador
+Sep-13,21,Mexico
+Sep-13,24,Ghana
+Sep-13,25,France
+Sep-13,28,Algeria
+Sep-13,33,Costa Rica
+Sep-13,37,Nigeria
+Sep-13,40,Honduras
+Sep-13,42,Japan
+Sep-13,48,Iran
+Sep-13,53,Australia
+Sep-13,58,South Korea
+Sep-13,61,Cameroon
+Oct-13,1,Spain
+Oct-13,2,Germany
+Oct-13,3,Argentina
+Oct-13,4,Colombia
+Oct-13,5,Belgium
+Oct-13,6,Uruguay
+Oct-13,7,Switzerland
+Oct-13,8,Netherlands
+Oct-13,9,Italy
+Oct-13,10,England
+Oct-13,11,Brazil
+Oct-13,12,Chile
+Oct-13,13,United States
+Oct-13,14,Portugal
+Oct-13,15,Greece
+Oct-13,16,Bosnia-Herzegovina
+Oct-13,17,Ivory Coast
+Oct-13,18,Croatia
+Oct-13,19,Russia
+Oct-13,21,France
+Oct-13,22,Ecuador
+Oct-13,23,Ghana
+Oct-13,24,Mexico
+Oct-13,31,Costa Rica
+Oct-13,32,Algeria
+Oct-13,33,Nigeria
+Oct-13,34,Honduras
+Oct-13,44,Japan
+Oct-13,50,Iran
+Oct-13,56,South Korea
+Oct-13,57,Australia
+Oct-13,59,Cameroon
+Nov-13,1,Spain
+Nov-13,2,Germany
+Nov-13,3,Argentina
+Nov-13,4,Colombia
+Nov-13,5,Portugal
+Nov-13,6,Uruguay
+Nov-13,7,Italy
+Nov-13,8,Switzerland
+Nov-13,9,Netherlands
+Nov-13,10,Brazil
+Nov-13,11,Belgium
+Nov-13,12,Greece
+Nov-13,13,England
+Nov-13,14,United States
+Nov-13,15,Chile
+Nov-13,16,Croatia
+Nov-13,17,Ivory Coast
+Nov-13,19,France
+Nov-13,20,Mexico
+Nov-13,21,Bosnia-Herzegovina
+Nov-13,22,Russia
+Nov-13,23,Ecuador
+Nov-13,24,Ghana
+Nov-13,26,Algeria
+Nov-13,31,Costa Rica
+Nov-13,36,Nigeria
+Nov-13,41,Honduras
+Nov-13,45,Iran
+Nov-13,48,Japan
+Nov-13,51,Cameroon
+Nov-13,54,South Korea
+Nov-13,59,Australia
+Dec-13,1,Spain
+Dec-13,2,Germany
+Dec-13,3,Argentina
+Dec-13,4,Colombia
+Dec-13,5,Portugal
+Dec-13,6,Uruguay
+Dec-13,7,Italy
+Dec-13,8,Switzerland
+Dec-13,9,Netherlands
+Dec-13,10,Brazil
+Dec-13,11,Belgium
+Dec-13,12,Greece
+Dec-13,13,England
+Dec-13,14,United States
+Dec-13,15,Chile
+Dec-13,16,Croatia
+Dec-13,17,Ivory Coast
+Dec-13,19,Bosnia-Herzegovina
+Dec-13,20,France
+Dec-13,21,Mexico
+Dec-13,22,Russia
+Dec-13,23,Ecuador
+Dec-13,24,Ghana
+Dec-13,26,Algeria
+Dec-13,31,Costa Rica
+Dec-13,33,Iran
+Dec-13,37,Nigeria
+Dec-13,42,Honduras
+Dec-13,47,Japan
+Dec-13,50,Cameroon
+Dec-13,54,South Korea
+Dec-13,58,Australia
+Jan-14,1,Spain
+Jan-14,2,Germany
+Jan-14,3,Argentina
+Jan-14,4,Colombia
+Jan-14,5,Portugal
+Jan-14,6,Uruguay
+Jan-14,7,Italy
+Jan-14,8,Switzerland
+Jan-14,9,Netherlands
+Jan-14,10,Brazil
+Jan-14,11,Belgium
+Jan-14,12,Greece
+Jan-14,13,England
+Jan-14,14,United States
+Jan-14,15,Chile
+Jan-14,16,Croatia
+Jan-14,17,Ivory Coast
+Jan-14,19,Bosnia-Herzegovina
+Jan-14,20,France
+Jan-14,21,Mexico
+Jan-14,22,Russia
+Jan-14,23,Ecuador
+Jan-14,24,Ghana
+Jan-14,27,Algeria
+Jan-14,32,Costa Rica
+Jan-14,34,Iran
+Jan-14,41,Nigeria
+Jan-14,43,Honduras
+Jan-14,48,Japan
+Jan-14,50,Cameroon
+Jan-14,53,South Korea
+Jan-14,57,Australia
+Feb-14,1,Spain
+Feb-14,2,Germany
+Feb-14,3,Argentina
+Feb-14,4,Portugal
+Feb-14,5,Colombia
+Feb-14,6,Switzerland
+Feb-14,7,Uruguay
+Feb-14,8,Italy
+Feb-14,9,Brazil
+Feb-14,10,Netherlands
+Feb-14,11,Belgium
+Feb-14,12,Greece
+Feb-14,13,United States
+Feb-14,14,Chile
+Feb-14,15,England
+Feb-14,16,Croatia
+Feb-14,17,Bosnia-Herzegovina
+Feb-14,19,France
+Feb-14,21,Mexico
+Feb-14,22,Russia
+Feb-14,23,Ivory Coast
+Feb-14,24,Ecuador
+Feb-14,26,Algeria
+Feb-14,35,Costa Rica
+Feb-14,37,Ghana
+Feb-14,39,Iran
+Feb-14,40,Honduras
+Feb-14,46,Cameroon
+Feb-14,47,Nigeria
+Feb-14,50,Japan
+Feb-14,53,Australia
+Feb-14,61,South Korea
+Mar-14,1,Spain
+Mar-14,2,Germany
+Mar-14,3,Argentina
+Mar-14,4,Portugal
+Mar-14,5,Colombia
+Mar-14,6,Uruguay
+Mar-14,7,Switzerland
+Mar-14,8,Italy
+Mar-14,9,Brazil
+Mar-14,10,Belgium
+Mar-14,11,Netherlands
+Mar-14,12,England
+Mar-14,13,Greece
+Mar-14,14,United States
+Mar-14,15,Chile
+Mar-14,16,Croatia
+Mar-14,17,France
+Mar-14,19,Russia
+Mar-14,20,Mexico
+Mar-14,21,Bosnia-Herzegovina
+Mar-14,23,Ecuador
+Mar-14,24,Ivory Coast
+Mar-14,25,Algeria
+Mar-14,34,Costa Rica
+Mar-14,35,Ghana
+Mar-14,36,Honduras
+Mar-14,42,Iran
+Mar-14,47,Nigeria
+Mar-14,48,Japan
+Mar-14,51,Cameroon
+Mar-14,60,South Korea
+Mar-14,63,Australia
+Apr-14,1,Spain
+Apr-14,2,Germany
+Apr-14,3,Portugal
+Apr-14,4,Colombia
+Apr-14,5,Uruguay
+Apr-14,6,Argentina
+Apr-14,7,Brazil
+Apr-14,8,Switzerland
+Apr-14,9,Italy
+Apr-14,10,Greece
+Apr-14,11,England
+Apr-14,12,Belgium
+Apr-14,13,United States
+Apr-14,14,Chile
+Apr-14,15,Netherlands
+Apr-14,16,France
+Apr-14,18,Russia
+Apr-14,19,Mexico
+Apr-14,20,Croatia
+Apr-14,21,Ivory Coast
+Apr-14,25,Bosnia-Herzegovina
+Apr-14,27,Algeria
+Apr-14,28,Ecuador
+Apr-14,32,Honduras
+Apr-14,34,Costa Rica
+Apr-14,37,Iran
+Apr-14,38,Ghana
+Apr-14,45,Nigeria
+Apr-14,47,Japan
+Apr-14,50,Cameroon
+Apr-14,56,South Korea
+Apr-14,60,Australia
+May-14,1,Spain
+May-14,2,Germany
+May-14,3,Portugal
+May-14,4,Brazil
+May-14,5,Colombia
+May-14,6,Uruguay
+May-14,7,Argentina
+May-14,8,Switzerland
+May-14,9,Italy
+May-14,10,Greece
+May-14,11,England
+May-14,12,Belgium
+May-14,13,Chile
+May-14,14,United States
+May-14,15,Netherlands
+May-14,16,France
+May-14,18,Russia
+May-14,19,Mexico
+May-14,20,Croatia
+May-14,21,Ivory Coast
+May-14,25,Bosnia-Herzegovina
+May-14,27,Algeria
+May-14,28,Ecuador
+May-14,31,Honduras
+May-14,34,Costa Rica
+May-14,37,Iran
+May-14,38,Ghana
+May-14,44,Nigeria
+May-14,47,Japan
+May-14,50,Cameroon
+May-14,55,South Korea
+May-14,60,Australia
